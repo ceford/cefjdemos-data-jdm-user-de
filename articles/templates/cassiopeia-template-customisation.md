@@ -108,7 +108,12 @@ Die Abbildung unten zeigt zwei Ordnergruppen. Die erste Gruppe besteht aus den T
 
 ![Cassiopeia Dateien bearbeiten](../../../en/images/templates/cassiopeia-customisation-edit-files.png)
 
-Beachten Sie, dass im *css*-Ordner keine *user.css*-Datei vorhanden ist. Diese müssen Sie selbst erstellen, damit Sie zuvor definierte Stile überschreiben können. Wenn sie nicht vorhanden ist, erstellen Sie sie jetzt, indem Sie den *css*-Ordner auswählen und dann die Schaltfläche *Neu*. Im Modaldialog Neues Datei auswählen, wählen Sie den *css*-Ordner, da sonst die neue Datei an der falschen Stelle erscheint. Geben Sie user (klein geschrieben und ohne *.css*) im Feld Dateiname ein und wählen Sie *.css* im Feld Dateityp. Wählen Sie die Schaltfläche Erstellen, um die Datei zu erstellen. Wenn *user.css* bereits vorhanden ist, wählen Sie sie aus, um das Bearbeitungsformular zu öffnen.
+Beachten Sie, dass in einer neuen Joomla-Installation keine Datei ***user.css*** im Ordner **css** vorhanden ist. Diese Datei erstellen Sie selbst, um zuvor definierte Styles zu überschreiben. Wenn ***user.css*** bereits vorhanden ist, wählen Sie sie aus, um das Bearbeitungsformular zu öffnen. Ist sie noch nicht vorhanden, erstellen Sie sie jetzt:
+
+1. Wählen Sie die Schaltfläche **New File**.
+2. Wählen Sie im Modal-Dialog **New File** den Ordner **css** aus, da die neue Datei sonst am falschen Speicherort erstellt wird.
+3. Geben Sie im Feld **File Name** `user` (kleingeschrieben und ohne `.css`) ein und wählen Sie im Feld **File Type** die Option `.css` aus.
+4. Wählen Sie die Schaltfläche **Create**, um die Datei zu erstellen.
 
 ### Überschriften
 
