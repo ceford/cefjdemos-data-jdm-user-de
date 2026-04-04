@@ -23,4 +23,3 @@ Wenn Sie einen Windows-Computer verwenden, richten Sie eine Entwicklungsumgebung
 ## ToDo: Installation
 
 *Übersetzt von openai.com*
-

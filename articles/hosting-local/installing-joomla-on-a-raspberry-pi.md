@@ -418,4 +418,3 @@ finden.
 - Video der Präsentation <a href="https://youtu.be/u2MFQCoexD0" rel="nofollow noreferrer noopener">Joomla auf Raspberry Pi (mit Nginx)</a> auf dem Joomladay Deutschland 2013 in Nürnberg, Deutschland
 
 *Übersetzt von openai.com*
-

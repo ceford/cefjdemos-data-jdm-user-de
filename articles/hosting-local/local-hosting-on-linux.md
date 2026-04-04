@@ -7,13 +7,13 @@ Sie müssen eine Reihe von Softwarepaketen installieren, die oft als LAMP-Stack 
 
 Wählen Sie im Systemmenü, das mit dem LM-Logo gekennzeichnet ist, den Punkt Administration / Synaptic-Paketverwaltung. Sie werden nach Ihrem Passwort gefragt. Geben Sie Ihr Login-Passwort ein, um die GUI zu öffnen. Oben rechts befindet sich ein `Search`-Button. Wählen Sie diesen aus und geben Sie **apache** ein und klicken Sie auf `Search`. Markieren Sie das Kontrollkästchen `apache2` und wählen Sie im Popup-Fenster `Mark for Installation`. Ein weiteres Popup-Fenster zeigt eine Liste zusätzlicher Pakete, die zur Unterstützung von Apache benötigt werden. Wählen Sie `Mark`:
 
-![synaptic package manager](../../../en/images/hosting/synaptic-package-manager-gui.png)
+![synaptic package manager](../../../en/images/hosting-local/synaptic-package-manager-gui.png)
 
 Wählen Sie den `Apply`-Button in der oberen Symbolleiste und den `Apply`-Button im Übersichts-Dialog. Apache wird installiert und konfiguriert, der Prozess endet mit einem Dialog **Änderungen angewendet**. Wählen Sie `Close`.
 
 Sie können überprüfen, dass Apache installiert und funktionsfähig ist, indem Sie Ihren Browser öffnen, standardmäßig Firefox bei einer neuen Linux Mint-Installation, und **localhost** in die URL-Leiste eingeben. Sie sollten die Ubuntu Apache2 Standardseite sehen:
 
-![apache default page](../../../en/images/hosting/apache-default-page.png)
+![apache default page](../../../en/images/hosting-local/apache-default-page.png)
 
 Die Seite enthält einige nützliche Informationen über Dateipfade, die später möglicherweise nicht so leicht verfügbar sind. Vielleicht möchten Sie diese Seite auf Papier oder als PDF-Datei drucken.
 
@@ -207,4 +207,3 @@ Software, die mit dem Synaptic-Paketmanager installiert wird, befindet sich norm
 Bei einer komplexeren Installation, möglicherweise mit der Option, verschiedene Betriebssysteme (Windows oder Linux) oder verschiedene Versionen desselben Betriebssystems zu starten, befinden sich das Root-Verzeichnis und die Benutzerdaten oft in separaten Partitionen. Dies ermöglicht den Zugriff auf dieselben Benutzerdaten von jedem Betriebssystem aus.
 
 Es gibt jedoch ein Problem: Eine Joomla-Seite, die sich in einem /home/username-Verzeichnis befindet, benötigt Datenbankdaten, die sich normalerweise im Root-Verzeichnis befinden, genauer gesagt in /var/lib/mysql. Sie können das MySQL/MariaDB-Datenverzeichnis an einen Ort verschieben, der für beide Betriebssysteme verfügbar ist, entweder in der /home-Partition oder in einer separaten Partition. Dieses Tutorial beschreibt, wie man das MySQL-Datenverzeichnis in Ubuntu und Debian Linux ändert. Das muss für jedes Betriebssystem separat durchgeführt werden, wird hier jedoch nicht behandelt.
-

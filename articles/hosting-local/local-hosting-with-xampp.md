@@ -208,4 +208,3 @@ Wählen Sie den im Top-Menü genannten Link `phpinfo()`. Dies wird einen langen 
 An diesem Punkt ist XAMPP erfolgreich installiert. Beachten Sie die *Geladene Konfigurationsdatei*. Wir werden diese Datei im nächsten Abschnitt bearbeiten, um XDebug zu konfigurieren.
 
 *Übersetzt von openai.com*
-

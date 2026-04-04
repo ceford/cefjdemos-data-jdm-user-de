@@ -114,4 +114,3 @@ BitNami LAMPStack ist jetzt eingerichtet und bereit zur Verwendung. Klicken Sie 
 Folgen Sie den Anweisungen, die im Beitrag „Joomla! installieren“ beschrieben sind.
 
 *Übersetzt von openai.com*
-
