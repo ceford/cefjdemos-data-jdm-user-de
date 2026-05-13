@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Hosting_Setup / Display title: cPanel-Hosting -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Hosting_Setup",
+  "title": "cPanel-Hosting ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@
 
 Wenn Sie sich bei Ihrem cPanel-Hosting-Dienst anmelden, sollten Sie Folgendes sehen:
 
-![cpanel hosting control panel](../../../en/images/hosting/cpanel-hosting.png)
+![cpanel hosting control panel](../../../en/images/hosting/cpanel-hosting/01-cpanel-hosting.png)
 
 ### Datenbankeinrichtung
 
@@ -24,7 +31,7 @@ Das war's - Sie haben jetzt eine Datenbank bereit für die Joomla-Installation.
 
 Zu einem bestimmten Zeitpunkt werden Sie die Joomla-Quellcode-Zip-Datei auf Ihren eigenen Laptop oder Desktop-Computer heruntergeladen haben. Sie müssen nun entscheiden, wie Sie Ihre Website strukturieren möchten. Das Dokumenten-Root für Ihre Seite ist der *public_html*-Ordner. Sie könnten Joomla dort platzieren. Das verhindert jedoch, dass Sie eine andere Anwendung auf derselben Seite verwenden. Zum Beispiel könnten Sie zwei völlig separate Joomla-Installationen haben, eine für die Produktion (öffentliche Ansicht) und eine für Tests (private Ansicht). Sie könnten also einen Ordner innerhalb von *public_html* erstellen, zum Beispiel namens *j4*, und Joomla dort hochladen. Sie könnten einen weiteren Ordner namens *j4test* haben und eine andere Kopie von Joomla dort platzieren. Die untenstehende Abbildung zeigt eine solche Einrichtung mit zwei Joomla-Websites.
 
-![cpanel hosting file manager](../../../en/images/hosting/cpanel-file-manager.png)
+![cpanel hosting file manager](../../../en/images/hosting/cpanel-hosting/02-cpanel-file-manager.png)
 
 Wenn Sie sich für Ihre Struktur entschieden haben, wählen Sie den gewünschten Joomla-Ordner im Datei-Manager aus und klicken Sie auf die Schaltfläche Hochladen. Wählen Sie im Upload-Formular die Joomla-Quell-Zip-Datei auf Ihrem lokalen Computer aus, um sie in den ausgewählten Ordner hochzuladen. Nach dem Hochladen kehren Sie zum Datei-Manager zurück, wählen die *zip*-Datei und klicken auf die Schaltfläche Extrahieren. Nach dem Extrahieren können Sie die *zip*-Datei auswählen und löschen.
 

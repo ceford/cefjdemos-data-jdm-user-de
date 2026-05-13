@@ -1,4 +1,11 @@
-<!-- Filename: Unable_to_connect_to_the_database / Display title: Datenbankverbindung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Unable_to_connect_to_the_database",
+  "title": "Datenbankverbindung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Fehler: Verbindung konnte nicht hergestellt werden
 

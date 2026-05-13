@@ -1,4 +1,11 @@
-<!-- Filename: Smart_Search_content_change_test_plan / Display title: Smart Search Testplan -->
+<!--
+{
+  "source": "https://docs.joomla.org/Smart_Search_content_change_test_plan",
+  "title": "Smart Search Testplan ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Das Folgende ist ein grober Testplan, der (hauptsächlich) die Aktualisierung des Smart Search-Index abdeckt, wenn verschiedene Arten von Inhaltsaktualisierungen auftreten.
 

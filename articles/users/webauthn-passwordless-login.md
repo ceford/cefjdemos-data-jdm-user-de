@@ -1,4 +1,11 @@
-<!-- Filename: WebAuthn_Passwordless_Login / Display title: WebAuthn Anmeldung  -->
+<!--
+{
+  "source": "https://docs.joomla.org/WebAuthn_Passwordless_Login",
+  "title": "WebAuthn Anmeldung  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## WebAuthn Passworlose Anmeldung
 
@@ -23,11 +30,11 @@ WebAuthn ist die Zukunft der Authentifizierung. Einfach, sicher und problemlos. 
 
 Das folgende Bild zeigt ein Hardware-Gerät, das in den USB-Anschluss eines Laptop-Computers eingesetzt wurde. Es kostete im Februar 2022 £15.
 
-![Fotografie des Hardware-Geräts](../../../en/images/users/passwordless-login-hardware-device.jpg)
+![Fotografie des Hardware-Geräts](../../../en/images/users/webauthn-passwordless-login/01-passwordless-login-hardware-device.jpg)
 
 WebAuthn nutzt ein System-Plugin, das standardmäßig aktiviert ist. Ein **Web-Authentifizierung**-Button wird in den Standardanmeldebildschirmen von Joomla 4 und später vorhanden sein, wie im Administrator-Anmeldebildschirm veranschaulicht:
 
-![Sicheres Administrator-Anmeldeformular](../../../en/images/users/passwordless-login-login-form.jpg)
+![Sicheres Administrator-Anmeldeformular](../../../en/images/users/webauthn-passwordless-login/02-passwordless-login-login-form.jpg)
 
 ## Benutzerkonfiguration
 
@@ -38,11 +45,11 @@ Der Benutzer muss sich zunächst mit einem normalen Benutzernamen und Passwort r
 
 Die genaue Darstellung des nächsten Schritts hängt von Ihrem Browser ab. Typischerweise sehen Sie eine Benachrichtigung oder ein Fenster, das Sie auffordert, einen Authentifikatortyp auszuwählen oder, falls Sie einen an Ihr Gerät angeschlossenen Hardware-Authentifikator verwenden, Sie daran erinnert, den Knopf am Hardware-Authentifikator zu drücken. Aus Sicherheits- und praktischen Gründen ist die Zeitspanne für die Aktivierung des Authentifikators relativ kurz: 60 Sekunden.
 
-![sicherer Administratoranmeldung Hardware-Aufforderung](../../../en/images/users/passwordless-login-hardware-propmpt.png)
+![sicherer Administratoranmeldung Hardware-Aufforderung](../../../en/images/users/webauthn-passwordless-login/03-passwordless-login-hardware-propmpt.png)
 
 Sobald Sie Ihren Authentifikator entsperren — durch Antippen eines Knopfes, Scannen Ihres Fingerabdrucks/Gesichts, Eingabe einer PIN oder einer Kombination der oben genannten, je nach Ihrem Authentifikator — verschwindet die Nachricht, der Authentifikator wird registriert und der Bildschirm erscheint wie folgt:
 
-![sicherer Administratoranmeldung registrierter Authentifikator](../../../en/images/users/passwordless-login-registered-authenticator.png)
+![sicherer Administratoranmeldung registrierter Authentifikator](../../../en/images/users/webauthn-passwordless-login/04-passwordless-login-registered-authenticator.png)
 
 Es ist sehr wichtig zu beachten, dass Sie Authentifikatoren nur auf Ihrem eigenen Benutzerkonto registrieren oder entfernen können. Aus Sicherheitsgründen ist es selbst einem Super-User untersagt, Authentifikatoren auf anderen Benutzerkonten zu registrieren, zu bearbeiten oder hinzuzufügen.
 

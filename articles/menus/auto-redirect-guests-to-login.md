@@ -1,4 +1,11 @@
-<!-- Filename: Auto_redirect_guests_to_login / Display title: Gäste automatisch zur Anmeldung weiterleiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Auto_redirect_guests_to_login",
+  "title": "Gäste automatisch zur Anmeldung weiterleiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Gewünschte Funktionalität
 

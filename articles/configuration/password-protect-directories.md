@@ -1,4 +1,11 @@
-<!-- Filename: How_do_you_password_protect_directories_using_htaccess%3F / Display title: Verzeichnisse mit einem Passwort schützen -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_do_you_password_protect_directories_using_htaccess%3F",
+  "title": "Verzeichnisse mit einem Passwort schützen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

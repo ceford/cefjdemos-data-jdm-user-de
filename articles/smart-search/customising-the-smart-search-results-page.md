@@ -1,4 +1,11 @@
-<!-- Filename: Customising_the_Smart_Search_results_page / Display title: Layout-Überschreibungen für intelligente Suche -->
+<!--
+{
+  "source": "https://docs.joomla.org/Customising_the_Smart_Search_results_page",
+  "title": "Layout-Überschreibungen für intelligente Suche ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Ergebnisseiten
 

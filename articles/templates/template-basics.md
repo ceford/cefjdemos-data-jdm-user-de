@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Template_Basics / Display title: Grundlagen der Vorlagen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Template_Basics",
+  "title": "Grundlagen der Vorlagen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ In Joomla! ist ein Template eine Sammlung von Dateien, die zusammen das Erschein
 
 Ein typisches Seiten-Template enthält PHP-Dateien zur Anordnung der Inhalte und CSS-Dateien zur Gestaltung der Inhalte. Oft gibt es zusätzliche Dateien wie Bilder, die im Layout verwendet werden, und JavaScript-Dateien, die zur Interaktion mit Website-Features wie Links und Buttons genutzt werden. Der folgende Screenshot zeigt die Ordner und Dateien des Cassiopeia-Templates in einer neuen Joomla 4-Installation:
 
-![templates customise cassiopeia page](../../../en/images/templates/templates-customise-cassiopeia.png)
+![templates customise cassiopeia page](../../../en/images/templates/template-basics/01-templates-customise-cassiopeia.png)
 
 Beachten Sie, dass sich die PHP-Dateien im Ordner site /templates befinden und die Mediendateien im Ordner site /media.
 
@@ -14,7 +21,7 @@ Beachten Sie, dass sich die PHP-Dateien im Ordner site /templates befinden und d
 
 Die Website-Vorlage legt die Positionen des Hauptinhalts fest, zum Beispiel eines einzelnen Beitrags oder eines Blog-Layouts mit hervorgehobenen Beiträgen, sowie aller Module, die über, unter, links oder rechts vom Hauptinhalt angezeigt werden sollen. Die folgende Abbildung zeigt die in Cassiopeia verfügbaren Positionen:
 
-![Diagramm der Vorlagenpositionen](../../../en/images/templates/cassiopeia-template-positions.png)
+![Diagramm der Vorlagenpositionen](../../../en/images/templates/template-basics/02-cassiopeia-template-positions.png)
 
 Sie können die Vorlagenpositionen in jeder Vorlage anzeigen, indem Sie in den Vorlagenoptionen die Vorschau der Modulpositionen auf "Aktiviert" einstellen und dann ?tp=1 an die URL anhängen. Wenn bereits eine Abfragezeichenfolge an die URL angehängt ist, dann stattdessen &tp=1 anhängen.  
 
@@ -34,7 +41,7 @@ Zusätzlich zum gesamten Layout, das durch das Seitentemplate definiert ist, hat
 
 Manchmal entspricht eines dieser *Erweiterungs*-Templates nicht ganz Ihren Vorstellungen. In diesem Fall können Sie eine Template-Überschreibung erstellen. Dies ist eine Kopie des Codes, der verwendet wird, um das Erweiterungslayout zu generieren, das Sie nach Ihren eigenen Bedürfnissen anpassen können. Der folgende Screenshot zeigt das Formular "Template: Überschreibungen erstellen":
 
-![template overrides](../../../en/images/templates/cassiopeia-customisation-create-overrides.png)
+![template overrides](../../../en/images/templates/template-basics/03-cassiopeia-customisation-create-overrides.png)
 
 Cassiopeia hat bereits einige Überschreibungen installiert. Das könnte als Problem erscheinen. Wenn Sie eine der standardmäßigen Cassiopeia-Dateien ändern, werden Ihre Änderungen beim nächsten Joomla-Update überschrieben (und gehen somit verloren). Die Lösung sind Kind-Templates.
 

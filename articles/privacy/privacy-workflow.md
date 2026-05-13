@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Privacy_Workflow / Display title: Datenschutz-Workflow  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Privacy_Workflow",
+  "title": "Datenschutz-Workflow  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Anforderung erstellen
 
@@ -28,12 +35,12 @@ folgendes angeben:
 
 - Den Anforderungstyp: Exportieren oder Entfernen, ausgewählt aus der Dropdown-Liste.
 
-![Datenschutz-Workflow Benutzeranfrage](../../../en/images/privacy/privacy-workflow-user-request.png)
+![Datenschutz-Workflow Benutzeranfrage](../../../en/images/privacy/privacy-workflow/01-privacy-workflow-user-request.png)
 
 Bei der Einreichung wird eine Nachricht angezeigt, die entweder anzeigt, dass die Anfrage akzeptiert wurde
 und eine Bestätigungs-E-Mail auf dem Weg ist:
 
-![Datenschutz-Workflow Benutzeranfrage akzeptiert](../../../en/images/privacy/privacy-workflow-user-request-accepted.png)
+![Datenschutz-Workflow Benutzeranfrage akzeptiert](../../../en/images/privacy/privacy-workflow/02-privacy-workflow-user-request-accepted.png)
 
 oder dass *Ihre Informationsanfrage konnte nicht erstellt werden. Es gibt bereits eine aktive
 Informationsanfrage für diese E-Mail-Adresse und diesen Anforderungstyp. Bitte wenden Sie sich an den
@@ -60,7 +67,7 @@ verarbeitet werden.
 
 Sobald eine Anfrage erstellt wurde, unabhängig davon, wie sie erstellt wird, erhält der Benutzer eine E-Mail mit einem Link zu einem Bestätigungsformular.
 
-![privacy workflow user request confirm](../../../en/images/privacy/privacy-workflow-user-request-confirm.png)
+![privacy workflow user request confirm](../../../en/images/privacy/privacy-workflow/03-privacy-workflow-user-request-confirm.png)
 
 Der Benutzer muss das in der E-Mail enthaltene Token eingeben und das Formular absenden. Das Token ist 24 Stunden gültig. Wenn eine Anfrage in diesem Zeitraum nicht bestätigt wird, wird die Anfrage in der Liste der Datenschutzanfragen als **Ungültig** markiert und eine neue Anfrage muss eingereicht werden.
 
@@ -69,7 +76,7 @@ Sobald der Benutzer die Anfrage bestätigt, wird eine E-Mail an Super-User gesen
 - Wählen Sie aus dem Administratormenü **Benutzer → Datenschutz → Anfragen**.
 - Anfragen, die eine Aktion erfordern, werden als **Bestätigt** markiert.
 
-![privacy workflow information requests list](../../../en/images/privacy/privacy-workflow-information-requests-list.png)
+![privacy workflow information requests list](../../../en/images/privacy/privacy-workflow/04-privacy-workflow-information-requests-list.png)
 
 ## Bearbeitung einer Exportanforderung
 
@@ -100,7 +107,7 @@ Nachdem die Anfrage bearbeitet wurde, sollte sie als abgeschlossen markiert werd
   - Wählen Sie den entsprechenden **Export**, **E-Mail** oder **Löschen** Button in der Toolbar, wenn dies nicht bereits aus der Listenansicht geschehen ist.
 - Wählen Sie den **Abschließen** Button in der Toolbar (oder den **Ungültig erklären** Button, falls dies als ungültige Anfrage beurteilt wird).
 
-![Datenschutz-Workflow Informationsanfrage überprüfen](../../../en/images/privacy/privacy-workflow-review-information-request.png)
+![Datenschutz-Workflow Informationsanfrage überprüfen](../../../en/images/privacy/privacy-workflow/05-privacy-workflow-review-information-request.png)
 
 ## Abschließend
 
@@ -115,7 +122,7 @@ Um Daten aus privaten Nachrichten und Datenschutzanfragen zu entfernen:
 
 - Es gibt keine einfache Möglichkeit, diese Arten von Daten gesammelt aus Joomla zu entfernen. Der schnellste Weg ist, nach dem Benutzernamen (E-Mail-Adresse) in der Datenbank mit phpMyAdmin zu suchen und die Datensätze dort zu löschen. Hier ist ein Beispiel-Screenshot:
 
-![Datenschutz-Workflow mit phpMyAdmin löschen](../../../en/images/privacy/privacy-workflow-delete-with-phpmyadmin.png)
+![Datenschutz-Workflow mit phpMyAdmin löschen](../../../en/images/privacy/privacy-workflow/06-privacy-workflow-delete-with-phpmyadmin.png)
 
 ## Zusätzliche Ressourcen
 

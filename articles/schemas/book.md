@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org/Type_Organization_-_Using_Organization_Plugin / Display title: Schema.org - Buch -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Buch ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -25,7 +32,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Unten ist ein Beispiel für ein Buch-Schema in einem Beiträge-Bearbeitungsformular.
 
-![A book schema edit form](../../../en/images/schemas/edit-schema-book.png)
+![A book schema edit form](../../../en/images/schemas/book/01-edit-schema-book.png)
 
 *Übersetzt von openai.com*
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Template_Layouts / Display title: Vorlagenlayouts -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Template_Layouts",
+  "title": "Vorlagenlayouts ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Struktur der Layout-Dateien
 
@@ -68,7 +75,7 @@ Ihre Sitzung läuft ab um <br><?php echo $endTime; ?>
 
 Schließen Sie die Cassiopeia-Dateien. Wählen Sie **Beiträge** → **Site-Module** und öffnen Sie das Login-Modul. Im Reiter Erweitert, unter Layout finden Sie, dass Sie die Wahl haben zwischen **-- Vom Modul -- / Standard** und **-- Vom Cassiopeia Template -- / expires**.
 
-![login module showing alternative layouts](../../../en/images/templates/layouts-module-login.png)
+![login module showing alternative layouts](../../../en/images/templates/template-layouts/01-layouts-module-login.png)
 
 Eine Möglichkeit, diese Funktion zu verwenden, besteht darin, zwei Login-Formulare zu haben, eines mit öffentlichem Zugriff und das andere mit Zugriff für Super-Benutzer. Im letzteren Fall wählen Sie die Option **expires** und nur Super-Benutzer sehen die Erinnerung an die Sitzungsablaufzeit.
 
@@ -83,11 +90,11 @@ Sie können den Dateinamen mit Sprachüberschreibungen übersetzen. Versuchen Si
 - Wählen Sie die Schaltfläche **Neu** und füllen Sie das Formular aus. In diesem Beispiel ist der Sprachschlüssel **TPL_CASSIOPEIA_MOD_LOGIN_LAYOUT_EXPIRES** und der Text könnte **Login / Logout mit Ablaufzeit** sein.
 - Speichern und schließen Sie und kehren Sie zum Login-Modul-Formular zurück.
 
-![languages edit override form](../../../en/images/templates/layouts-language-override-form.png)
+![languages edit override form](../../../en/images/templates/template-layouts/02-layouts-language-override-form.png)
 
 Das Modullayout-Auswahlformularfeld mit **expires** übersetzt:
 
-![module alternative layouts select](../../../en/images/templates/layouts-example-translated.png)
+![module alternative layouts select](../../../en/images/templates/template-layouts/03-layouts-example-translated.png)
 
 ## Alternative Layouts für Komponenten
 
@@ -95,11 +102,11 @@ Alternative Layouts für Komponenten funktionieren ähnlich wie Modul-Layouts. E
 
 Sie können einen globalen Wert für Komponenten-Layouts im Optionsfenster der Komponente festlegen. Zum Beispiel gibt es im Fenster Artikel: Optionen einen Parameter *Wählen Sie ein Layout*, wie unten gezeigt:
 
-![optionsformular für Beiträge mit Liste der alternativen Layouts](../../../en/images/templates/layouts-articles-options.png)
+![optionsformular für Beiträge mit Liste der alternativen Layouts](../../../en/images/templates/template-layouts/04-layouts-articles-options.png)
 
 Wie bei Modul-Layouts werden die Komponenten-Layouts als Parameteroptionen im individuellen Komponenten-Bearbeitungsfenster angezeigt. Zum Beispiel erscheint bei einem Beitrag der Parameter im Reiter Beiträge: Bearbeitungsoptionen, wie unten gezeigt.
 
-![Bearbeitungsformular für Beiträge mit Liste der alternativen Layouts](../../../en/images/templates/layout-article-edit.png)
+![Bearbeitungsformular für Beiträge mit Liste der alternativen Layouts](../../../en/images/templates/template-layouts/05-layout-article-edit.png)
 
 Wie bei anderen Parametern, wird die Einstellung "Global verwenden" die Einstellung aus dem Optionsparameter übernehmen. Die Einstellung "Aus Komponenten-Standard" wird das Standardlayout der Komponente verwenden. Alternative Layouts, die Sie für verschiedene Templates erstellt haben, werden unter jeder Template-Überschrift angezeigt.
 
@@ -121,11 +128,11 @@ Kategoriale alternative Layouts funktionieren wie Komponentenlayouts. Die Regeln
 
 Sie können Kategorielayouts global im Optionsbildschirm jeder Komponente festlegen. Unten ist ein Beispiel aus den Kontakten: Optionen / Formular Kategorie:
 
-![Kontakte-Komponenten-Optionsformular, das alternative Layouts zeigt](../../../en/images/templates/layouts-contacts-options.png)
+![Kontakte-Komponenten-Optionsformular, das alternative Layouts zeigt](../../../en/images/templates/template-layouts/06-layouts-contacts-options.png)
 
 Kategoriale alternative Layouts erscheinen, wenn Sie eine Kategorie im Formular Komponente: Kategorie bearbeiten / Optionen hinzufügen oder bearbeiten, wie unten gezeigt.
 
-![Kontakte-Komponenten-Optionsformular, das alternative Layouts zeigt](../../../en/images/templates/layouts-contacts-category-options.png)
+![Kontakte-Komponenten-Optionsformular, das alternative Layouts zeigt](../../../en/images/templates/template-layouts/07-layouts-contacts-category-options.png)
 
 Kategoriale alternative Layouts können für Beiträge, Banner, Kontakte und Newsfeeds verwendet werden.
 
@@ -141,7 +148,7 @@ Wenn ein Menüpunkt für eine bestimmte Kategorie eingerichtet ist, wird stattde
 
 Für Beiträge stehen zwei grundlegende Kategorielayouts zur Verfügung: Blog und Liste. Jedes dieser Layouts erscheint im Formular Artikelformular: Optionen, Registerkarte Kategorie unter der Überschrift „Von Komponente“. Alternative Layouts erscheinen ebenfalls in der Liste, wodurch Blog- oder Listen- oder alternative Vorlagenlayouts als Standardkategorielayout entweder global oder beim Bearbeiten einer einzelnen Beitragskategorie ausgewählt werden können.
 
-![Kontaktkomponente-Optionenformular mit alternativen Layouts](../../../en/images/templates/layouts-articles-options-category.png)
+![Kontaktkomponente-Optionenformular mit alternativen Layouts](../../../en/images/templates/template-layouts/08-layouts-articles-options-category.png)
 
 Das bedeutet, dass Sie, wie bei anderen Layoutoptionen, steuern können, ob Beitragskategorielinks Blog- oder Listenlayouts verwenden. Es ist wichtig zu verstehen, dass diese Option, wie bei anderen Layoutparametern, nur dann wirksam wird, wenn es kein Einzelkategorie-Menüelement für die Kategorie gibt.
 
@@ -153,7 +160,7 @@ Die XML-Datei verwendet dasselbe Format wie die Kern-Menüelement-XML-Dateien. D
 
 Alternative Menüelemente werden angezeigt, wenn Sie einen Menüelementtyp auswählen, wie unten gezeigt.
 
-![Menüelement-Auswahlliste](../../../en/images/templates/layouts-menu-blog-menu-creation.png)
+![Menüelement-Auswahlliste](../../../en/images/templates/template-layouts/09-layouts-menu-blog-menu-creation.png)
 
 Alternative Menüelemente werden verwendet und funktionieren auf dieselbe Weise wie Standard-Menüelemente. Da sie bereits auf benutzerdefinierten Layouts basieren, gelten Template-Overrides nicht für alternative Menüelemente.
 

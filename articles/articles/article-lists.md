@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Article_Lists / Display title: Beitrag: Bearbeiten - Listen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Article_Lists",
+  "title": "Beitrag: Bearbeiten - Listen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Listentypen
 
@@ -18,7 +25,7 @@ Der folgende Screenshot zeigt eine ungeordnete Liste mit zwei Ebenen der Einrüc
 Er zeigt auch das vollständige Werkzeugsatz, der durch Auswählen der Ellipsenschaltfläche (...)
 am Ende der ersten Reihe der Werkzeugsymbole geöffnet wird.
 
-![Verschachtelte ungeordnete Listen](../../../en/images/articles/articles-edit-lists.png)
+![Verschachtelte ungeordnete Listen](../../../en/images/articles/article-lists/01-articles-edit-lists.png)
 
 Dieser Screenshot wird verwendet, um zu erklären, wie die Aufzählungsliste mit den
 Werkzeugen *Aufzählungsliste* und *Einrückung erhöhen* oder *Einrückung verringern* erstellt wurde:
@@ -36,7 +43,7 @@ Es gibt drei Stile:
 Der Chevron nach unten rechts vom Aufzählungslisten-Symbol öffnet ein kleines Panel,
 das die Auswahl des bevorzugten Stils für ein ausgewähltes Listenelement ermöglicht:
 
-![Werkzeuge zur Manipulation von Aufzählungslisten](../../../en/images/articles/articles-edit-list-bullets.png)
+![Werkzeuge zur Manipulation von Aufzählungslisten](../../../en/images/articles/article-lists/02-articles-edit-list-bullets.png)
 
 Das Listensymbol funktioniert wie ein Umschalter. Befindet sich der Cursor in einem Absatz und wird eine Aufzählung ausgewählt, wird der Absatz zu einem Listenelement. Wenn die Aufzählung erneut ausgewählt wird, wird das Listenelement wieder zu einem Absatz.
 
@@ -63,7 +70,7 @@ Es gibt sechs Stile:
 - Große Buchstaben: A, B, C ...
 - Große römische Ziffern: I, II, III ...
 
-![Werkzeuge zur Manipulation von nummerierten Listen](../../../en/images/articles/articles-edit-list-numbers.png)
+![Werkzeuge zur Manipulation von nummerierten Listen](../../../en/images/articles/article-lists/03-articles-edit-list-numbers.png)
 
 Nummerierte Listen funktionieren etwas anders. Wenn ein Listenelement eingerückt wird, übernimmt es den ersten Zahlenwert und die Zahlen auf dem Rest der Liste steigen auf, sodass die Liste immer in der richtigen numerischen Reihenfolge ist.
 

@@ -1,4 +1,11 @@
-<!-- Filename: Localhost / Display title: Schema.org - Person -->
+<!--
+{
+  "source": "https://docs.joomla.org/Localhost",
+  "title": "Schema.org - Person ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -22,7 +29,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ist ein Beispiel für ein Personenschema in einem Beitragsbearbeitungsformular.
 
-![A person schema edit form](../../../en/images/schemas/edit-schema-person.png)
+![A person schema edit form](../../../en/images/schemas/person/01-edit-schema-person.png)
 
 *Übersetzt von openai.com*
 

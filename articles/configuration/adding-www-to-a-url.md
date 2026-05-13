@@ -1,4 +1,11 @@
-<!-- Filename: Adding_www_to_a_url / Display title: Hinzufügen von www zu einer URL -->
+<!--
+{
+  "source": "https://docs.joomla.org/Adding_www_to_a_url",
+  "title": "Hinzufügen von www zu einer URL ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Apache .htaccess Reguläre Ausdrücke
 

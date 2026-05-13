@@ -1,4 +1,11 @@
-<!-- Filename: Get_locally_hosted_Joomla!_website_e-mail_functions_to_work / Display title: Lokaler Host-E-Mail -->
+<!--
+{
+  "source": "https://docs.joomla.org/Get_locally_hosted_Joomla!_website_e-mail_functions_to_work",
+  "title": "Lokaler Host-E-Mail ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Lokales Hosting
 

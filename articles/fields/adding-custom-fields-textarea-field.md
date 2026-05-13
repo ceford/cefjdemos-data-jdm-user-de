@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Textarea_Field / Display title: Textbereichsfeld -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Textbereichsfeld ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -13,7 +20,7 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 - **Maximale Länge** Die maximale Anzahl der einzugebenden Zeichen.
 - **Filter** Ermöglicht dem System, bestimmte HTML-Tags oder Rohdaten zu speichern.
 
-![Textarea-Felderstellung](../../../en/images/fields/fields-textarea-edit.png)
+![Textarea-Felderstellung](../../../en/images/fields/adding-custom-fields-textarea-field/01-fields-textarea-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Einbeziehung des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie ihn bei Ihren eigenen Feldtiteln weg.
 
@@ -21,14 +28,14 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 
 Einfach: Geben Sie den Text ein, der angezeigt werden soll.
 
-![textarea field data entry](../../../en/images/fields/fields-textarea-data-entry.png)
+![textarea field data entry](../../../en/images/fields/adding-custom-fields-textarea-field/02-fields-textarea-data-entry.png)
 
 
 ## Datenanzeige
 
 Der folgende Screenshot der Seite zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist für die Position des Feldes verantwortlich und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![Textarea-Feld Seitenanzeige](../../../en/images/fields/fields-textarea-site.png)
+![Textarea-Feld Seitenanzeige](../../../en/images/fields/adding-custom-fields-textarea-field/03-fields-textarea-site.png)
 
 Das Feldlabel startet einen Textblock, es sei denn, Sie haben HTML-Tags wie `<p>...</p>` eingegeben.
 

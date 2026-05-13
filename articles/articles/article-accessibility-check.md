@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:_Article_Accessibility_Check / Display title: Beitrag: Barrierefreiheitsprüfung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:_Article_Accessibility_Check",
+  "title": "Beitrag: Barrierefreiheitsprüfung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -15,7 +22,7 @@ Joomla hat einen integrierten Barrierefreiheitsprüfer. Er ist in der Toolbar de
 
 ## Screenshot
 
-![Barrierefreiheitsprüfung](../../../en/images/articles/articles-accessibility-check.png)
+![Barrierefreiheitsprüfung](../../../en/images/articles/article-accessibility-check/01-articles-accessibility-check.png)
 
 Das Prüfwerkzeug wird mit dem blauen Kreissymbol unten rechts auf dem Bildschirm
 bedient. Wählen Sie es aus, um einen Bericht zu öffnen oder zu schließen. Wählen Sie den

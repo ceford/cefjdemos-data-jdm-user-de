@@ -1,4 +1,11 @@
-<!-- Filename: Changing_user_groups / Display title: Ändern der Benutzergruppen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Changing_user_groups",
+  "title": "Ändern der Benutzergruppen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Gruppenvererbung
 

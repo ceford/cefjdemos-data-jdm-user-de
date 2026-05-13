@@ -1,10 +1,17 @@
-<!-- Filename: J4.x:Administrator_Modules / Display title: Administrator-Module -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Administrator_Modules",
+  "title": "Administrator-Module ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
 Das Atum Administrator-Template wird mit einem vollständigen Satz von Administrator-Modulen geliefert, die für den täglichen Gebrauch installiert und konfiguriert sind. Die folgende Abbildung zeigt die Positionen des Home-Dashboards, um darzustellen, wo sich die Module befinden.
 
-![Atum Home-Dashboard-Positionen](../../../en/images/modules/atum-template-positions.png)
+![Atum Home-Dashboard-Positionen](../../../en/images/modules/administrator-modules/01-atum-template-positions.png)
 
 In der obigen Abbildung sind die Panels Instanzen des Quick-Icon-Moduls, die mit Quickicon-Plugins verknüpft sind.
 
@@ -42,11 +49,11 @@ Atum-Template-Positionen nach Namen
 
 Möglicherweise möchten Sie ein benutzerdefiniertes Modul hinzufügen, um Administratoren auf ein Systemproblem hinzuweisen. Wählen Sie **Inhalt → Administrator-Module** aus dem Administrator-Menü. Die Liste der installierten Module ist recht lang:
 
-![Liste der Administrator-Module von atum](../../../en/images/modules/atum-admin-modules-list.png)
+![Liste der Administrator-Module von atum](../../../en/images/modules/administrator-modules/02-atum-admin-modules-list.png)
 
 Wählen Sie die Schaltfläche Neu und dann das benutzerdefinierte Modul. Im Bearbeitungsformular des Moduls: Benutzerdefiniert geben Sie einen Titel, eine benutzerdefinierte Nachricht ein und wählen eine Position für das Modul aus. Im unten stehenden Beispiel wurde die Position Oben ausgewählt. Zusätzlich wurden im Register Erweitert im Feld Modul-Klasse einige Stile eingegeben, um den Text zu zentrieren und einen Rand zu erzeugen: **alert alert-warning text-center**. Speichern Sie, um das Ergebnis zu sehen. Schließen Sie, um das Ergebnis auf der Modullistenseite zu sehen.
 
-![atum benutzerdefiniertes Modul Bearbeitung Systemnachricht](../../../en/images/modules/atum-admin-module-system-message.png)
+![atum benutzerdefiniertes Modul Bearbeitung Systemnachricht](../../../en/images/modules/administrator-modules/03-atum-admin-module-system-message.png)
 
 Wenn Sie mit der Nachricht fertig sind, können Sie einfach die Status-Schaltfläche in der Modulliste auswählen, um das Modul zu deaktivieren.
 

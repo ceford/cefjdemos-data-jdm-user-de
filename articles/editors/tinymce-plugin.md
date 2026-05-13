@@ -1,4 +1,11 @@
-<!-- Filename: Content_editors / Display title: TinyMCE Plugin -->
+<!--
+{
+  "source": "https://docs.joomla.org/Content_editors",
+  "title": "TinyMCE Plugin ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -12,19 +19,19 @@ TinyMCE ist mit 3 verschiedenen Sets von Werkzeugleisten-Schaltflächen für unt
 
 Dieses Werkzeugset ist das umfangreichste und wird standardmäßig den Gruppen *Administrator*, *Editor* und *Super Users* zugewiesen.
 
-![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-set0.png)
+![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-plugin/01-tinymce-set0.png)
 
 ### Werkzeugset 1
 
 Dieses Werkzeugset wird den Gruppen *Manager* und *Registered* zugewiesen.
 
-![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-set1.png)
+![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-plugin/02-tinymce-set1.png)
 
 ### Werkzeugset 2
 
 Dieses Set enthält minimale Werkzeuge und wird der Gruppe *Public* zugewiesen. Es würde zum Ausfüllen öffentlicher Formulare verwendet werden.
 
-![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-set2.png)
+![TinyMCE-Plugin zeigt Schaltflächensatz 2](../../../en/images/editors/tinymce-plugin/03-tinymce-set2.png)
 
 ## Andere Einstellungen
 

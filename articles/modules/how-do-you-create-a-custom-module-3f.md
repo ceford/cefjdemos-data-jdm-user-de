@@ -1,4 +1,11 @@
-<!-- Filename: How_do_you_create_a_custom_module%3F / Display title: Benutzerdefiniertes Modul -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_do_you_create_a_custom_module%3F",
+  "title": "Benutzerdefiniertes Modul ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -48,7 +55,7 @@ Wenn Sie bereit sind, wählen Sie die Schaltfläche **Speichern & Schließen**.
 
 Das Modul wird in der Seitenleiste der Website veröffentlicht und zeigt den von Ihnen eingegebenen Text an.
 
-![Beispiel für ein benutzerdefiniertes Modul](../../../en/images/modules/modules-custom-display.png)
+![Beispiel für ein benutzerdefiniertes Modul](../../../en/images/modules/how-do-you-create-a-custom-module-3f/01-modules-custom-display.png)
 
 *Übersetzt von openai.com*
 

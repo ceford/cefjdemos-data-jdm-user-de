@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Hosting_Setup / Display title: Lokales Hosting auf Windows -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Hosting_Setup",
+  "title": "Lokales Hosting auf Windows ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## WAMP vs XAMPP
 

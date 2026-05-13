@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Adding_a_New_Article / Display title: Beitrag: Bearbeiten - Inhalt -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Adding_a_New_Article",
+  "title": "Beitrag: Bearbeiten - Inhalt ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@
 
 Der folgende Screenshot zeigt das Bearbeitungsformular mit einem Beitrag, der bereits gespeichert wurde.
 
-![Das Inhaltsbearbeitungsformular](../../../en/images/articles/articles-edit-content.png)
+![Das Inhaltsbearbeitungsformular](../../../en/images/articles/article-content/01-articles-edit-content.png)
 
 ## Dateneingabe
 

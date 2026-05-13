@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Users_Dashboard / Display title: Benutzer-Dashboard   -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Users_Dashboard",
+  "title": "Benutzer-Dashboard   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ Das Benutzer-Dashboard wird über das Symbol rechts neben dem Menüpunkt Inhalt 
 
 ## Bildschirmfoto
 
-![Benutzer-Dashboard](../../../en/images/dashboards/users-dashboard.png)
+![Benutzer-Dashboard](../../../en/images/dashboards/users-dashboard/01-users-dashboard.png)
 
 *Übersetzt von openai.com*
 

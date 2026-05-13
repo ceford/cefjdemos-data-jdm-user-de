@@ -1,4 +1,11 @@
-<!-- Filename: Monitoring_SEO / Display title: Überwachung von SEO -->
+<!--
+{
+  "source": "https://docs.joomla.org/Monitoring_SEO",
+  "title": "Überwachung von SEO ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Warum sollten Sie Ihre Website überwachen?
 
@@ -44,11 +51,11 @@ Die Stärke benutzerdefinierter Segmente ist enorm. Sie ermöglicht es Ihnen, Da
 
 Um mit einem benutzerdefinierten Segment zu beginnen, klicken Sie einfach oben auf der Seite auf den Pfeil, um die verfügbaren benutzerdefinierten Segmente anzuzeigen (markiert in Rot). Wenn Sie keine zur Verfügung haben, können Sie entweder Ihre eigenen erstellen oder bestehende Segmente aus der Google Analytics Gallery importieren (markiert in Blau).
 
-![Google Analytics benutzerdefinierte Segmente](../../../en/images/seo/seo-google-analytics-custom-segments.png)
+![Google Analytics benutzerdefinierte Segmente](../../../en/images/seo/monitoring-seo/01-seo-google-analytics-custom-segments.png)
 
 Sobald Sie die Segmente ausgewählt haben, die Sie verwenden möchten, drücken Sie auf „Anwenden“ und sie werden auf die Daten angewendet, die Sie betrachten. Unten sehen Sie die angewendeten Filter, die ein, zwei, drei und mehr als drei Keywords anzeigen.
 
-![Google Analytics benutzerdefinierte Segmente Keywords](../../../en/images/seo/seo-google-analytics-custom-segments-keywords.png)
+![Google Analytics benutzerdefinierte Segmente Keywords](../../../en/images/seo/monitoring-seo/02-seo-google-analytics-custom-segments-keywords.png)
 
 ### Dashboards
 
@@ -58,7 +65,7 @@ Dashboards können für jeden Zweck verwendet werden und Sie können Ihre eigene
 
 Um zu beginnen, erweitern Sie einfach den Abschnitt Dashboards in Ihrem Analytics-Profil
 
-![Google Analytics Dashboard](../../../en/images/seo/seo-google-anaytics-dashboard.png)
+![Google Analytics Dashboard](../../../en/images/seo/monitoring-seo/03-seo-google-anaytics-dashboard.png)
 
 ### Die Google Analytics Gallery
 

@@ -1,4 +1,11 @@
-<!-- Filename: Moving_the_site_among_directories/sub-directories / Display title: Verschieben des Installationsverzeichnisses -->
+<!--
+{
+  "source": "https://docs.joomla.org/Moving_the_site_among_directories",
+  "title": "Verschieben des Installationsverzeichnisses ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Oftmals installieren Sie Joomla in einem Unterverzeichnis und möchten es dann in ein höheres Verzeichnis verschieben. Hier ist ein kurze Anleitung, wie Sie das tun können.
 

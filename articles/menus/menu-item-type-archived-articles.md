@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:How_to_Create_a_Menu_Item_to_View_Archived_Articles / Display title: Menü Archivierte Beiträge -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:How_to_Create_a_Menu_Item_to_View_Archived_Articles",
+  "title": "Menü Archivierte Beiträge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -15,7 +22,7 @@ Aber was, wenn ältere Beiträge den Website-Besuchern zur Verfügung gestellt w
 5. Ändern Sie beliebige andere Parameter entsprechend Ihren Anforderungen. Zum Beispiel könnten Sie **Alle Kategorien** löschen und eine oder mehrere Kategorien aus der Dropdown-Liste auswählen.
 6. Wählen Sie **Speichern & Schließen**, um den neuen Menüeintrag zu erstellen.
 
-![Archivierte Beiträge Menüformular](../../../en/images/menus/menus-articles-archived.png)
+![Archivierte Beiträge Menüformular](../../../en/images/menus/menu-item-type-archived-articles/01-menus-articles-archived.png)
 
 Es gibt eine Reihe von Parametern, die Sie ändern können – detaillierte Informationen finden Sie auf dem [Hilfe](jdocmanual?article=help/menu-items/menu-item-article-archived) Bildschirm.
 
@@ -26,7 +33,7 @@ Nach dem Speichern erscheint der neue Menüeintrag im Seitenmenü in der hinzuge
 Der Link *Archivierte Beiträge* führt zu einer Seite, die eine Liste der archivierten
 Beiträge anzeigt:
 
-![Archivierte Beiträge Menüformular](../../../en/images/menus/menus-articles-archived-display.png)
+![Archivierte Beiträge Menüformular](../../../en/images/menus/menu-item-type-archived-articles/02-menus-articles-archived-display.png)
 
 Dieses Beispiel ist die Standardausgabe. Sie können dies ändern, um
 zum Beispiel nur den verlinkten Titel und die Kategorie anzuzeigen –

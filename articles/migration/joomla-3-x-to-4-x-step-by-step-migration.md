@@ -1,4 +1,11 @@
-<!-- Filename: Joomla_3.x_to_4.x_Step_by_Step_Migration / Display title: Joomla 3 zu 4 Schritt für Schritt  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Joomla_3.x_to_4.x_Step_by_Step_Migration",
+  "title": "Joomla 3 zu 4 Schritt für Schritt  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -26,7 +33,7 @@ Im Folgenden finden Sie eine Schritt-für-Schritt-Anleitung, um eine 3.10.x-Seit
      - Wiederherstellen einer Seite mit einem am Seitenende aufgeführten Tool. (Lesen Sie die Entwicklerdokumentation.)
 6. Aktualisieren Sie in Ihrem Teststandort Ihre Joomla! 3.10.x-Instanz auf die neueste Wartungsversion.
 7. Stellen Sie sicher, dass Ihr Datenbankschema auf die neueste Version 3.10.x aktualisiert ist, indem Sie auf die Registerkarte **Erweiterungs-Manager → Datenbank** gehen. Wenn Ihr Schema nicht aktuell ist, wie im folgenden Bild, klicken Sie auf die Schaltfläche **Reparieren**:<br>
-   ![joomla 3 extensions database](../../../en/images/migration/admin-extension-database-fix.png)
+   ![joomla 3 extensions database](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/01-admin-extension-database-fix.png)
 8. Papierkorb leeren: Haben Sie noch Beiträge im Papierkorb? Wenn ja, löschen Sie sie (und alle zugehörigen Medien, die möglicherweise nicht an anderer Stelle auf der Seite verwendet werden). Beiträge (ebenfalls Kategorien und Menüelemente), die im Papierkorb verbleiben, können Probleme bei der Migration verursachen, sodass sie ohne Fehler abgeschlossen werden kann.
 9. Testen.
 10. Nochmals sichern.
@@ -38,10 +45,10 @@ In Ihrer Planung haben Sie bestimmt, welche Drittanbieter-Erweiterungen bleiben 
 1. Verwenden Sie den **Vorab-Update-Check**, um den Vorab-Update-Check zu nutzen, müssen Sie die Joomla! Update-Komponente auf Joomla 4 einstellen. Dazu folgen Sie:
 2. Gehen Sie zu **Komponenten → Joomla Update**. Es sollte sagen, dass keine Updates gefunden wurden. Wenn nicht, aktualisieren Sie Joomla auf die neueste Version (muss 3.10.x sein) und testen Sie. Dann nochmal sichern. Klicken Sie auf die Schaltfläche Optionen in der oberen rechten Ecke.
 3. Wählen Sie *Joomla Next* aus dem Dropdown-Menü für den Update-Kanal.<br>
-   ![update options channel selection](../../../en/images/migration/update-options-channel.png)
+   ![update options channel selection](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/02-update-options-channel.png)
 4. Klicken Sie auf **Speichern & Schließen**.
 5. Sie werden dann Ihre installierte Joomla-Version, die neueste Joomla!-Version und die URL für das Update-Paket sehen. Joomla wird Ihnen die Anforderungen erneut für Joomla 4 zeigen. Wenn es anzeigt, dass Sie ein inkompatibles System oder Erweiterungen haben, wird es Ihnen hier mitgeteilt. Nehmen Sie sich einen Moment Zeit, um diese Seite zu überprüfen.<br>
-   ![update to 4 pre update check](../../../en/images/migration/update-to-4-pre-update-check.png)
+   ![update to 4 pre update check](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/03-update-to-4-pre-update-check.png)
    <div class="alert alert-warning"><strong>Hinweis:</strong> Aktualisieren Sie jetzt NICHT auf Joomla! 4.
    Dies dient nur dazu, Ihre Drittanbieter-Erweiterungen vorzubereiten und die Seite mit Joomla! 4 kompatibel zu machen.</div>
 6. Schauen Sie sich den Vorab-Update-Check und den Erweiterungs-Vorab-Update-Check in der Registerkarte Vorab-Update-Check der Joomla Update-Komponente an. Wenn eine Erweiterung hier aufgeführt ist, die nicht in Ihrer Planung enthalten ist, fügen Sie sie Ihrer Liste der zu untersuchenden Erweiterungen hinzu.
@@ -58,7 +65,7 @@ In Ihrer Planung haben Sie bestimmt, welche Drittanbieter-Erweiterungen bleiben 
 10. Untersuchen und Deinstallieren von Erweiterungen: Gehen Sie zu **Erweiterungs-Manager → Verwalten**
 11. Klicken Sie auf die Schaltfläche *Suchtools*, um die Filteroptionen anzuzeigen.
 12. Wählen Sie Paket aus dem Dropdown-Menü *Typ auswählen*.<br>
-    ![extensions manage page](../../../en/images/migration/extensions-manage.png)
+    ![extensions manage page](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/04-extensions-manage.png)
     <div class="alert alert-info">Es wird empfohlen, zuerst Paket auszuwählen, da, wenn es etwas gibt, das Sie in einem Paket deinstallieren müssen, es automatisch die zugehörigen Module, Plugins oder alles andere im Paket gleichzeitig deinstalliert.</div>
 13. Deinstallieren Sie alle Pakete, die nicht mehr benötigt oder nicht nach Joomla 4 migriert werden.
 14. Wiederholen Sie diesen Vorgang, indem Sie durch die Registerkarte Verwalten für alle Typen im Dropdown gehen: Komponente, Datei, Sprache, Bibliothek, Modul, Plugin und Vorlage. Wenn der Autor Joomla! Project angibt, lassen Sie diese Erweiterungen in Ruhe. Stellen Sie für alle anderen sicher, dass Sie diejenigen deinstallieren, die nicht verwendet oder nicht kompatibel mit Joomla! 4.x sind.
@@ -88,20 +95,20 @@ Legacy-Routing wird in Joomla 4.x nicht verfügbar sein. Nur Modern wird verfüg
 Sobald Sie entweder Ihre Drittanbieter-Erweiterungen aktualisiert oder deinstalliert haben, sodass nur diejenigen, die mit Joomla! 4 kompatibel sind, in Ihrer Installation verbleiben, fahren Sie mit den folgenden Schritten fort:
 
 1. Gehen Sie zu **System → Globale Konfiguration → Server-Registerkarte** und ändern Sie die Fehlerberichterstattung von Systemstandard auf Maximum. Stellen Sie sicher, dass Sie auf Speichern & Schließen klicken.<br>
-   ![system global configuration server tab](../../../en/images/migration/system-global-configuration-server-tab.png)
+   ![system global configuration server tab](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/05-system-global-configuration-server-tab.png)
 2. Machen Sie ein weiteres Backup.
 3. Gehen Sie zu **Komponenten → Joomla Update**. (Es sollte sagen, dass keine Updates gefunden wurden. Wenn nicht, aktualisieren Sie Joomla auf die neueste Version und testen. Dann nochmal sichern.) Klicken Sie auf die Schaltfläche Optionen in der oberen rechten Ecke.
 4. Wählen Sie *Joomla Next* aus dem Dropdown-Menü für den Update-Kanal.<br>
-   ![component joomla update select update channel](../../../en/images/migration/update-select-channel.png)
+   ![component joomla update select update channel](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/06-update-select-channel.png)
 5. Klicken Sie auf **Speichern & Schließen**.
 6. Sie sehen dann Ihre installierte Joomla-Version, die neueste Joomla!-Version und die URL für das Update-Paket. Joomla zeigt Ihnen erneut die Anforderungen für Joomla 4 an. Wenn es anzeigt, dass Sie ein inkompatibles System oder Erweiterungen haben, wird es Ihnen hier mitgeteilt. Nehmen Sie sich einen Moment Zeit, um diese Seite zu überprüfen.<br>
-   ![e update check for joomla 4](../../../en/images/migration/update-check.png)
+   ![e update check for joomla 4](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/07-update-check.png)
 7. Wenn das Update nicht angezeigt wird, gehen Sie zu **Erweiterungs-Manager → Update** und drücken Sie Cache löschen in der Symbolleiste. Jetzt sollte das Update auf Joomla! 4 angezeigt werden.
 8. Drücken Sie die Daumen und stellen Sie sicher, dass Sie dieses Backup zur Verfügung haben, falls etwas schiefgeht.
 9. Klicken Sie auf die Schaltfläche Installiere das Update.
 10. Machen Sie Tee, während die Statusleiste vollständig grün wird. Die Zeit, die dies dauert, hängt von Ihrer Seite, Ihrer Internetverbindung und Ihrer Servergeschwindigkeit ab. Der Vorgang dauert etwa zwei Minuten. Wenn das Update abgeschlossen ist, werden Sie wahrscheinlich aus dem Administrator ausgeloggt. Melden Sie sich erneut an. Zweimal.
 11. Wenn alles gut geht, gelangen Sie zu einem völlig neuen Look des Backend-Administrator-Panels.<br>
-    ![joomla 4 or 5 home dashboard](../../../en/images/migration/j4-home-dashboard.png)
+    ![joomla 4 or 5 home dashboard](../../../en/images/migration/joomla-3-x-to-4-x-step-by-step-migration/08-j4-home-dashboard.png)
 12. Gehen Sie zu **System → Wartung → Datenbank** und klicken Sie auf *Reparieren*, wenn Fehler angezeigt werden.
 13. Siehe **System → Installieren → Erkennen**, ob es Erweiterungen zum Installieren gibt. (Es sollten keine vorhanden sein!)
 14. Gehen Sie zur Frontend Ihrer Seite und sehen Sie, ob sie angezeigt wird, auch wenn es nicht die richtige Vorlage ist. Wenn ja, fahren Sie fort. Wenn nicht, siehe häufige Fehler während der Migration.

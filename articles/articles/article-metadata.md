@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:_Article_Metadata / Display title: Beitrag: Bearbeiten - Metadaten  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:_Article_Metadata",
+  "title": "Beitrag: Bearbeiten - Metadaten  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -43,7 +50,7 @@ In Joomla wird bei einer einzelnen Seite der Beitragstitel zum Seitentitel im He
 
 Das Feld *Meta-Beschreibung* ist im *Veröffentlichen*-Tab des Datenformulars für Beiträge zu finden:
 
-![Das Bearbeitungsformular des Beitrags im Veröffentlichen-Tab](../../../en/images/articles/articles-edit-publishing-tab.png)
+![Das Bearbeitungsformular des Beitrags im Veröffentlichen-Tab](../../../en/images/articles/article-metadata/01-articles-edit-publishing-tab.png)
 
 Wenn keine Metadatenbeschreibung für den Beitrag vorhanden ist, wird, sofern festgelegt, die Metadatenbeschreibung eines einzelnen Beitrags-Menüeintrags verwendet. Wenn diese nicht vorhanden ist, wird die globale Metabeschreibung der Seite genutzt, falls sie festgelegt ist. Andernfalls wird das Feld für die Metadatenbeschreibung weggelassen.
 

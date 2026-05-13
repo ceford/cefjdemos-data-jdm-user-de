@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org / Display title: Schema.org - Organisation -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Organisation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -17,7 +24,7 @@ Der Abschnitt *Allgemeines Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ein Beispiel für ein Organisationsschema in einem Beitragsbearbeitungsformular.
 
-![An organisation schema edit form](../../../en/images/schemas/edit-schema-organisation.png)
+![An organisation schema edit form](../../../en/images/schemas/organisation/01-edit-schema-organisation.png)
 
 *Übersetzt von openai.com*
 

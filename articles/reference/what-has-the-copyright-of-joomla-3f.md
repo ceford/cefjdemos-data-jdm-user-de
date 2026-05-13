@@ -1,4 +1,11 @@
-<!-- Filename: What_has_the_copyright_of_Joomla!%3F / Display title: Joomla! Urheberrecht -->
+<!--
+{
+  "source": "https://docs.joomla.org/What_has_the_copyright_of_Joomla!%3F",
+  "title": "Joomla! Urheberrecht ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Das Joomla!-Projekt aggregiert nicht die Urheberrechte seiner Code-Beitragenden. Kein Beitragender ist verpflichtet, sein Urheberrecht auf Joomla! zu übertragen. Jeder einzelne Beitrag bleibt für immer im Besitz seines Autors. Dies gilt auch für Übersetzungen der Installationssprachensets, da nur diese im Kernrelease von Joomla! enthalten sind.
 

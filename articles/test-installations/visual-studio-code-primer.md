@@ -1,4 +1,11 @@
-<!-- Filename: Visual_Studio_Code_Primer / Display title: Visual Studio Code Einführung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Visual_Studio_Code_Primer",
+  "title": "Visual Studio Code Einführung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## VS Code - Eine Beliebte Kostenlose IDE
 
@@ -96,7 +103,7 @@ Setzen Sie in der globalen Konfiguration von Joomla *Debug System* auf *Ja* und 
 
 Wenn Sie eine Seite öffnen, die das fehlerhafte Modul enthält, sehen Sie eine Stack-Trace, die Ihnen zeigt, wo ein Fehler ausgelöst wurde.
 
-![vscode stack trace](../../../en/images/test-installations/vscode-primer-stack-trace.png)
+![vscode stack trace](../../../en/images/test-installations/visual-studio-code-primer/01-vscode-primer-stack-trace.png)
 
 Manchmal befindet sich der Programmierfehler auf der ersten Zeile des Stack-Traces. Andernfalls, wenn der Fehler in Bibliothekscode ausgelöst wird, zum Beispiel durch das Übergeben ungültiger Daten an eine Datenbankfunktion, kann der Programmierfehler weiter unten in der Liste der Funktionsaufrufe liegen.
 
@@ -104,7 +111,7 @@ Manchmal befindet sich der Programmierfehler auf der ersten Zeile des Stack-Trac
 
 In VS Code nutzen Sie den Menüpunkt Datei / Ordner öffnen, um den Ordner zu finden und zu öffnen, der Ihre lokale Kopie des *mod_debugme* Erweiterungscodes enthält. Sie sollten etwas Ähnliches wie das Folgende sehen:
 
-![vscode Ordneransicht](../../../en/images/test-installations/vscode-primer-screen.png)
+![vscode Ordneransicht](../../../en/images/test-installations/visual-studio-code-primer/02-vscode-primer-screen.png)
 
 Möglicherweise können Sie das Problem nur durch das Lesen des Codes diagnostizieren. Im Falle des Fehlers *Klasse "DebugHelper" nicht gefunden* werden Sie sehen, dass eine *use*-Anweisung einige Zeilen zuvor auskommentiert wurde. Das Vergessen, eine *use*-Anweisung einzufügen, ist ein häufiger Fehler während der anfänglichen Entwicklung!
 
@@ -254,7 +261,7 @@ Einige weniger offensichtlich Probleme:
 
 Wenn alles behoben ist, könnte dies folgendermaßen aussehen:
 
-![vscode debugged module site view](../../../en/images/test-installations/vscode-primer-debugme-fixed.png)
+![vscode debugged module site view](../../../en/images/test-installations/visual-studio-code-primer/03-vscode-primer-debugme-fixed.png)
 
 Kuchentage?
 

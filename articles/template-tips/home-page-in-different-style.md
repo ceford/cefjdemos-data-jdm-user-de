@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Home_Page_in_Different_Style / Display title: Startseite in unterschiedlichem Stil  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Home_Page_in_Different_Style",
+  "title": "Startseite in unterschiedlichem Stil  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Startseite der Website
 
@@ -16,7 +23,7 @@ Angenommen, Sie möchten Ihrer Startseite ein unverwechselbares Erscheinungsbild
 
 Die Cassiopeia-Beispieldaten erstellen eine Startseite mit einem Menüpunkt des Typs **Hervorgehobene Beiträge**. Sie ist mit dem Aussehen im unten stehenden Screenshot gestaltet (einige kleinere Änderungen wurden an einzelnen Beiträgen vorgenommen, um hier einen besseren Screenshot zu erhalten).
 
-![Startseite mit Cassiopeia und Beispieldaten](../../../en/images/templates/templates-home-page-style-cassiopeia-sample-data.png)
+![Startseite mit Cassiopeia und Beispieldaten](../../../en/images/template-tips/home-page-in-different-style/01-templates-home-page-style-cassiopeia-sample-data.png)
 
 So wird das Layout erreicht:
 
@@ -24,11 +31,11 @@ So wird das Layout erreicht:
 
 Das große Bild unter der Menüleiste befindet sich in einem benutzerdefinierten Modul namens Bild, das der Banner-Position im Cassiopeia-Template zugewiesen ist.
 
-![benutzerdefiniertes Modul verwendet im Stil der Beispieldaten](../../../en/images/templates/templates-home-page-style-custom-module-image.png)
+![benutzerdefiniertes Modul verwendet im Stil der Beispieldaten](../../../en/images/template-tips/home-page-in-different-style/02-templates-home-page-style-custom-module-image.png)
 
 Im Menüzuweisung-Tab wird das Modul nur der Startseite zugewiesen:
 
-![Benutzerdefiniertes Modul Menüzuweisung Tab](../../../en/images/templates/templates-home-page-style-custom-module-menu-assignment.png)
+![Benutzerdefiniertes Modul Menüzuweisung Tab](../../../en/images/template-tips/home-page-in-different-style/03-templates-home-page-style-custom-module-menu-assignment.png)
 
 Das Hintergrundbild wird im Optionen-Tab des Module: Benutzerdefiniert Bearbeitungsformulars ausgewählt.
 
@@ -36,7 +43,7 @@ Im Erweitert-Tab / Layout-Feld wird das Banner-Element ausgewählt. Das Banner-L
 
 ### Template-Layout
 
-Das Standardmodul-Layout in `siteroot/modules/mod_custom/tmpl/default.php` zeigt das Modul nicht wie gewünscht an. Es gibt ein alternatives Layout in `siteroot/templates/cassiopeia/html/mod_custom/banner.php`. Da `banner.php` nicht im benutzerdefinierten Modulcode vorhanden ist, funktioniert es als ein Layout, das man auswählen kann, anstatt als ein Override, das immer verwendet wird. Im Bildmodul kann man das Standardlayout auswählen, speichern und die Seite erneut laden, um den Unterschied zu sehen. Wechseln Sie zurück zum Banner-Layout und speichern Sie erneut, um das normale Verhalten wiederherzustellen.
+Das Standardmodul-Layout in `siteroot/modules/mod_custom/tmpl/default.php` zeigt das Modul nicht wie gewünscht an. Es gibt ein alternatives Layout in `siteroot/template-tips/cassiopeia/html/mod_custom/banner.php`. Da `banner.php` nicht im benutzerdefinierten Modulcode vorhanden ist, funktioniert es als ein Layout, das man auswählen kann, anstatt als ein Override, das immer verwendet wird. Im Bildmodul kann man das Standardlayout auswählen, speichern und die Seite erneut laden, um den Unterschied zu sehen. Wechseln Sie zurück zum Banner-Layout und speichern Sie erneut, um das normale Verhalten wiederherzustellen.
 
 Es gibt separate Beiträge zu Overrides und Layouts.
 
@@ -44,7 +51,7 @@ Es gibt separate Beiträge zu Overrides und Layouts.
 
 Unter dem großen Bild befinden sich drei kleine Kästchen, jeweils mit einem Bild und Text darunter. Sie werden mit einem Beiträge - Newsflash-Modul in der Template-Position top-a erstellt. Das Modul ist so eingestellt, dass es 3 Elemente anzeigt. Seine Menüzuweisung ist nur auf der Startseite. Der Erweitert-Tab hat das Layout auf horizontal und den Modulstil auf noCard gesetzt.
 
-![Newsflash-Modul](../../../en/images/templates/templates-home-page-style-newsflash-module-image.png)
+![Newsflash-Modul](../../../en/images/template-tips/home-page-in-different-style/04-templates-home-page-style-newsflash-module-image.png)
 
 Damit endet die Erklärung, wie die Cassiopeia-Beispieldaten Startseite erstellt wurde.  
 

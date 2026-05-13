@@ -1,4 +1,11 @@
-<!-- Filename: How_do_Windows_file_permissions_work? / Display title: Dateiberechtigungen: Windows -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_do_Windows_file_permissions_work?",
+  "title": "Dateiberechtigungen: Windows ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

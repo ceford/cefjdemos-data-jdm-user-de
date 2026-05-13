@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Privacy_Setup / Display title: Datenschutzeinstellungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Privacy_Setup",
+  "title": "Datenschutzeinstellungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Datenschutzkomponente
 
@@ -19,7 +26,7 @@ Das Datenschutz-Dashboard bietet eine Zusammenfassung der **Datenschutzanfragen*
 
 - Wählen Sie **Benutzer → Datenschutz** im Administrator-Menü.
 
-![Datenschutz-Dashboard](../../../en/images/privacy/privacy-dashboard.png)
+![Datenschutz-Dashboard](../../../en/images/privacy/privacy-setup/01-privacy-dashboard.png)
 
 Im Datenschutz-Dashboard werden standardmäßig zwei Module angezeigt:
 
@@ -48,7 +55,7 @@ Um Einwilligungen einzurichten:
 - Finden Sie das Plugin **System - Datenschutz-Einwilligung** (nicht zu verwechseln mit dem Datenschutz - Einwilligungen Plugin).
 - Wählen Sie aus, um das Datenformular des Plugins zu öffnen.
 
-![plugin system privacy consent](../../../en/images/privacy/plugin-system-privacy-consent.png)
+![plugin system privacy consent](../../../en/images/privacy/privacy-setup/02-plugin-system-privacy-consent.png)
 
 - Setzen Sie den **Status** auf **Aktiviert**.
 - Optional: Wählen oder erstellen Sie einen Beitrag, der im Registrierungsformular verlinkt wird. Oder setzen Sie den Datenschutzt-Typ auf Menüpunkt und wählen oder erstellen Sie einen Menüpunkt.
@@ -82,7 +89,7 @@ Dieses Plugin ist standardmäßig nicht aktiviert. So aktivieren Sie es:
 
 Zusammen erscheinen die beiden Plugins im Benutzerregistrierungsformular wie im folgenden Screenshot:
 
-![privacy consents site view](../../../en/images/privacy/privacy-consents-site.png)
+![privacy consents site view](../../../en/images/privacy/privacy-setup/03-privacy-consents-site.png)
 
 ## Menüpunkt: Anfrage nach Datenschutzinformationen
 
@@ -118,13 +125,13 @@ Schauen Sie sich die anderen Menüelemente der Datenschutzerweiterung an.
 
 Dieser Bildschirm ist der zentrale Ort für die Bearbeitung und Verwaltung von Benutzerinformationsanfragen. Bitte lesen Sie den zugehörigen Beitrag zum Datenschutz-Workflow für Anleitungen zur Bearbeitung von Anfragen.
 
-![Datenschutzanfragen](../../../en/images/privacy/privacy-information-requests.png)
+![Datenschutzanfragen](../../../en/images/privacy/privacy-setup/04-privacy-information-requests.png)
 
 ### Erweiterungsfähigkeiten
 
 Dieser Bildschirm sammelt und zeigt Informationen über die datenschutzbezogenen Fähigkeiten an, die von einzelnen Erweiterungen gemeldet werden. Er soll bei der Erstellung von Dokumentationen wie einem Datenschutzrichtlinienbeitrag oder einem Beitrag zu den Nutzungsbedingungen helfen.
 
-![Datenschutzfähigkeiten der Erweiterung](../../../en/images/privacy/privacy-extension-capabilities.png)
+![Datenschutzfähigkeiten der Erweiterung](../../../en/images/privacy/privacy-setup/05-privacy-extension-capabilities.png)
 
 Die Seiteninhalte stammen aus Sprachstrings im Kern, in der Datenschutzerweiterung und in Plugins, die das onPrivacyCollectAdminCapabilities-Ereignis implementieren. Dazu gehören:
 
@@ -141,7 +148,7 @@ Die Informationen werden in der Sprache angezeigt, die für die Administratoranm
 
 Dieser Bildschirm zeigt eine Liste von Einwilligungen an, die neuesten zuerst. Sie wird in der Sprache angezeigt, die im Einwilligungsformular verwendet wurde, üblicherweise während der Registrierung. Sie können nach dem Namen eines bestimmten Benutzers suchen. Beachten Sie, dass die Einwilligung zu den Allgemeinen Geschäftsbedingungen der Seite hier nicht aufgezeichnet wird. Diese ist nur im Protokoll der Benutzeraktionen vorhanden.
 
-![Datenschutzeinwilligungen](../../../en/images/privacy/privacy-consents.png)
+![Datenschutzeinwilligungen](../../../en/images/privacy/privacy-setup/06-privacy-consents.png)
 
 *Übersetzt von openai.com*
 

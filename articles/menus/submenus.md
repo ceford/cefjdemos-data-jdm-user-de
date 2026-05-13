@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Submenus / Display title: Untermenüs -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Submenus",
+  "title": "Untermenüs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Menügrundlagen
 
@@ -26,7 +33,7 @@ Angenommen, Sie haben eine Reihe von Beiträgen über Tiere. Es könnten Familie
 
 Die Listen könnten ziemlich lang sein, sodass Sie möglicherweise nur eine Liste von Katzenrassen auf Seiten über Katzen und nur eine Liste von Hunderassen auf Seiten über Hunde anzeigen möchten. Der folgende Screenshot zeigt das Ziellayout, das der Benutzer erreichen möchte:
 
-![untermenüs ziele tiere katzen](../../../en/images/menus/submenus-objectives-animals-cats.png)
+![untermenüs ziele tiere katzen](../../../en/images/menus/submenus/01-submenus-objectives-animals-cats.png)
 
 In diesem Beispiel wird beim Auswählen des Menüelements "Tiere" die Seite "Tiere" geladen und das Katzen-Menümodul verschwindet (und auch kein Hunde-Modul). Wählen Sie das Menüelement "Katzen" aus, erscheint das Katzen-Menümodul neben der Katzen-Seite. Wählen Sie das Menüelement "Burmesen" aus, erscheint die Burmesen-Seite. Wählen Sie das Menüelement "Hunde" aus, wird das Katzen-Menümodul durch ein Hunde-Menümodul neben der Hunde-Seite ersetzt.
 
@@ -52,7 +59,7 @@ Aus dem Administrator-Menü:
 - In einigen Fällen müssen Sie sich vielleicht erinnern, wofür dieses Menü gedacht ist. Füllen Sie daher das Beschreibungsfeld aus.
 - Speichern oder Speichern & Schließen.
 
-![untermenüs neues menü](../../../en/images/menus/submenus-new-menu.png)
+![untermenüs neues menü](../../../en/images/menus/submenus/02-submenus-new-menu.png)
 
 ## Menüeinträge erstellen
 
@@ -95,7 +102,7 @@ Fahren Sie fort, bis Sie sieben Menüeinträge haben, einen für jeden Beitrag.
 
 Nachdem Sie alle Ihre Menüpunkte erstellt haben, überprüfen Sie, ob sie die korrekten Eltern-Kind-Beziehungen haben und in der richtigen Reihenfolge sind. Sie können nach der Spalte Reihenfolge (die zweite Spalte) sortieren und die Haltegriffe (vertikale Ellipse) verwenden, um Elemente in die richtige Reihenfolge zu ziehen. Wenn ein Element einen falschen Elternpunkt hat, wählen Sie einfach den Titel des Elements aus und ändern den Elternpunkt im Formular Menüs: Beitrag bearbeiten.
 
-![Untermenüs Menüpunkte Liste](../../../en/images/menus/submenus-menu-items-list.png)
+![Untermenüs Menüpunkte Liste](../../../en/images/menus/submenus/03-submenus-menu-items-list.png)
 
 ## Menümodule
 
@@ -119,7 +126,7 @@ Im Administrator-Menü:
   - Endebene: 2 (dies beschränkt die Elemente auf die Menüpunkte Katzen und Hunde)
   - Position: sidebar-left (oder wo immer es passt)
 
-![Untermenüs Tiere Modul](../../../en/images/menus/submenus-animals-module.png)
+![Untermenüs Tiere Modul](../../../en/images/menus/submenus/04-submenus-animals-module.png)
 
 ### Menüzuweisung für Tiere
 
@@ -131,7 +138,7 @@ Untermenüs werden normalerweise nur auf Seiten angezeigt, auf denen sie relevan
 - Stellen Sie sicher, dass keine anderen Kästchen markiert sind.
 - Speichern & Schließen
 
-![Untermenüs Tiere Modul Menüzuweisung](../../../en/images/menus/submenus-animals-module-menu-assignment.png)
+![Untermenüs Tiere Modul Menüzuweisung](../../../en/images/menus/submenus/05-submenus-animals-module-menu-assignment.png)
 
 ## Untermodul für Katzen-Menü
 
@@ -173,7 +180,7 @@ Bis hierhin ist alles gut! Aber es gibt keinen Link zur Tierseite im Hauptmenü 
   - Menüpunkt-Typ: Menüpunkt-Alias
   - Menüpunkt: Tiere - aus der Liste der vorhandenen Menüpunkte ausgewählt.
 
-![Untermenüs Tiere-Alias](../../../en/images/menus/submenus-animals-alias.png)
+![Untermenüs Tiere-Alias](../../../en/images/menus/submenus/06-submenus-animals-alias.png)
 
 - Speichern
 - Reihenfolge - nach dem Speichern kann die Reihenfolge geändert werden. In diesem Beispiel wird es als erstes platziert.
@@ -182,7 +189,7 @@ Bis hierhin ist alles gut! Aber es gibt keinen Link zur Tierseite im Hauptmenü 
 
 Sehen Sie sich die Seiten auf Ihrer Website an. In diesem Beispiel werden die meisten Seiten die Untermenüs nicht auf der linken Seite anzeigen. Der Link "Tiere" im oberen Menü öffnet die Tierseite, von der aus es möglich ist, zu den Katzen- oder Hundeseiten zu navigieren:
 
-![submenus objectives animals dogs](../../../en/images/menus/submenus-objectives-animals-dogs.png)
+![submenus objectives animals dogs](../../../en/images/menus/submenus/07-submenus-objectives-animals-dogs.png)
 
 *Übersetzt von openai.com*
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:How_to_Show_a_Calendar_Month_List_of_Archived_Articles_Using_a_Module / Display title: Archivierte Beiträge -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:How_to_Show_a_Calendar_Month_List_of_Archived_Articles_Using_a_Module",
+  "title": "Archivierte Beiträge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -65,7 +72,7 @@ Wenn Sie bereit sind, wählen Sie die Schaltfläche **Speichern & Schließen**.
 
 Das Modul wird in der Seitenleiste der Webseite veröffentlicht und zeigt eine Liste von Links an, die durch die Anzahl der im Modul festgelegten anzuzeigenden Monate bestimmt wird.
 
-![Beispiel für ein Modul mit archivierten Beiträgen](../../../en/images/modules/modules-archived-articles.png)
+![Beispiel für ein Modul mit archivierten Beiträgen](../../../en/images/modules/articles-archived-module/01-modules-archived-articles.png)
 
 ## Tipps
 

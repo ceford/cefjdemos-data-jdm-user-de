@@ -1,4 +1,11 @@
-<!-- Filename: Verifying_permissions / Display title: Dateiberechtigungen: Linux -->
+<!--
+{
+  "source": "https://docs.joomla.org/Verifying_permissions",
+  "title": "Dateiberechtigungen: Linux ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -22,11 +29,11 @@ Es gibt verschiedene Methoden, um die Berechtigungen von Website-Dateien oder -O
 
 Abhängig davon, was Sie verwenden, sollten Sie etwas sehen, das diesem Bild eines Teils des Joomla-Wurzel-Dateisystems in cPanel ähnelt:
 
-![Berechtigungen in cPanel überprüfen](../../../en/images/test-installations/verifying-permissions-cpanel.png)
+![Berechtigungen in cPanel überprüfen](../../../en/images/test-installations/permissions-linux/01-verifying-permissions-cpanel.png)
 
 Die Berechtigungen befinden sich ganz rechts und werden von einer Null vorangestellt, um zu zeigen, dass es sich um oktale Zahlen handelt. Es sollte ein Formular vorhanden sein, um die Berechtigungen eines oder mehrerer ausgewählter Elemente zu ändern:
 
-![Berechtigungen in cPanel ändern](../../../en/images/test-installations/verifying-permissions-cpanel-change.png)
+![Berechtigungen in cPanel ändern](../../../en/images/test-installations/permissions-linux/02-verifying-permissions-cpanel-change.png)
 
 In einem Terminalfenster werden Datei- und Ordnerberechtigungen als Buchstabengruppen anstelle von Zahlen angezeigt (das führende `d` zeigt an, dass das Element ein Verzeichnis ist):
 

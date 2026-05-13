@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Switching_Templates / Display title: Vorlagen wechseln -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Switching_Templates",
+  "title": "Vorlagen wechseln ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Site- und Administrator-Templates
 
@@ -13,7 +20,7 @@ Eine Ihrer Vorlagen muss als Standard markiert sein. Diese wird für alle Seiten
 - Wählen Sie **System → Vorlagen-Panel → Website-Vorlagenstile** im Administrator-Menü aus.
 - Wählen Sie eine der Schaltflächen in der Standardspalte aus.
 
-![Vorlagen-Website-Stile Listenansicht](../../../en/images/templates/switch-templates-styles-list.png)
+![Vorlagen-Website-Stile Listenansicht](../../../en/images/template-tips/switching-templates/01-switch-templates-styles-list.png)
 
 Schauen Sie sich Ihre Website an, um zu überprüfen, dass alle Seiten die Standardvorlage verwenden.
 
@@ -30,7 +37,7 @@ Aus der Liste der Vorlagenstile:
 - Wählen Sie einzelne Menüpunkte aus oder schalten Sie alle Elemente in einem Menü um.
 - Speichern
 
-![templates style edit page menu assignment tab](../../../en/images/templates/switch-templates-styles-edit-style-menu-assignment.png)
+![templates style edit page menu assignment tab](../../../en/images/template-tips/switching-templates/02-switch-templates-styles-edit-style-menu-assignment.png)
 
 In diesem Beispiel wurden alle Menüpunkte im Menü `Main Menu Testing` ausgewählt. Gehen Sie zu Ihrer Website zurück und wählen Sie einen der Menüpunkte aus, die das ausgewählte Template verwenden sollen.
 
@@ -43,7 +50,7 @@ Diese Methode wird verwendet, um das Template für einzelne Menüpunkte festzule
 - Wählen Sie im Feld **Template-Stil** den gewünschten Template-Stil aus.
 - Speichern
 
-![templates menus edit item form showing style selection](../../../en/images/templates/switch-templates-styles-edit-menu-style.png)
+![templates menus edit item form showing style selection](../../../en/images/template-tips/switching-templates/03-switch-templates-styles-edit-menu-style.png)
 
 Gehen Sie zu Ihrer Website zurück und wählen Sie den geänderten Menüpunkt, um zu überprüfen, ob er mit dem ausgewählten Template-Stil angezeigt wird.
 

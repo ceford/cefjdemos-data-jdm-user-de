@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:Workflow_Scenarios_Example_1 / Display title: Arbeitsablauf Beispiel 1 -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:Workflow_Scenarios_Example_1",
+  "title": "Arbeitsablauf Beispiel 1 ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ Ein Workflow besteht aus *Phasen* und *Übergängen* zwischen diesen Phasen. Fü
 
 Eine einzelne Website kann viele Workflows haben. Hier wird ein *Newsletter-Workflow* als Beispiel verwendet, um zu erklären, wie drei Personen mit unterschiedlichen Rollen an der Erstellung eines Newsletter-Beitrags beteiligt sein können. Das Beispiel nutzt die Joomla-Standardbenutzergruppen Autor, Redakteur und Verleger. Das hat ein Problem: Ein Autor kann nur veröffentlichte Beiträge sehen und kann unveröffentlichte Beiträge nicht erneut bearbeiten. Eine Methode, um dieses Problem zu vermeiden, wird in [Beispiel 2](jdocmanual?article=user/workflows/workflow-example-2) behandelt.
 
-![Workflows-Liste](../../../en/images/workflows/example-1-workflows-list.png)
+![Workflows-Liste](../../../en/images/workflows/workflow-example-1/01-example-1-workflows-list.png)
 
 Beachten Sie, dass der *Basis-Workflow* als *Standard* festgelegt ist. Das kann später in diesem Beitrag problematische Folgen haben!
 
@@ -22,7 +29,7 @@ Beachten Sie, dass der *Basis-Workflow* als *Standard* festgelegt ist. Das kann 
 
 Dieser Workflow hat vier Phasen:
 
-![Liste der Workflows](../../../en/images/workflows/example-1-workflow-stages.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-1/02-example-1-workflow-stages.png)
 
 - **Entwurf** ist die Phase, die von Arthur für einen neuen Beitrag erstellt wird.
 - **Überprüfung** ist die Phase, in der Eddie den Inhalt korrekturliest.
@@ -35,7 +42,7 @@ Die Formulare zur Dateneingabe für die Phasen erfordern wenig Erklärung, nur e
 
 Zwei Übergänge sind zwischen jeder Phase erforderlich: einer, um die Phase zurückzusetzen, wenn in der vorherigen Phase noch mehr Arbeit erforderlich ist; und ein zweiter, um in die nächste Phase zu wechseln. Zusätzliche Übergänge sind erforderlich, um das Ende eines Beitrags zu behandeln:
 
-![Liste der Workflows](../../../en/images/workflows/example-1-workflow-transitions.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-1/03-example-1-workflow-transitions.png)
 
 - **Entwurf/Überprüfung** um die Phase von Entwurf zu Überprüfung zu wechseln.
 - **Überprüfung/Entwurf** um die Phase von Überprüfung zu Entwurf zurückzusetzen.
@@ -53,7 +60,7 @@ Die letzten drei Übergänge ermöglichen es Pru, den Status eines Beitrags zu �
 
 Das Dateneingabeformular hat vier Registerkarten, beginnend mit der Registerkarte *Übergang*:
 
-![Liste der Workflows](../../../en/images/workflows/example-1-edit-transition.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-1/04-example-1-edit-transition.png)
 
 - **Name** Es ist am besten, die aktuelle und die Zielphase im Namen zu verwenden.
 - **Aktuelle Phase** Die Phase vor dem Übergang.
@@ -62,14 +69,14 @@ Das Dateneingabeformular hat vier Registerkarten, beginnend mit der Registerkart
 
 #### Die Registerkarte *Übergangsaktionen*:
 
-![Liste der Workflows](../../../en/images/workflows/example-1-edit-transition-actions.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-1/05-example-1-edit-transition-actions.png)
 
 - **Hervorgehobenen Status** Definieren Sie den hervorgehobenen Status, den ein Element nach Ausführung dieses Übergangs haben soll. Lassen Sie dies auf *-Nicht ausgewählt-* wenn der Benutzer, der diesen Übergang wahrscheinlich ausführt, keine Berechtigung hat, Beiträge hervorzuheben.
 - **Veröffentlichungsstatus** Definieren Sie den veröffentlichten Status, den ein Element nach Ausführung dieses Übergangs haben soll. Lassen Sie dies auf *-Nicht ausgewählt-* wenn der Benutzer, der diesen Übergang wahrscheinlich ausführt, keine Berechtigung hat, den Beitragstatus zu ändern.
 
 #### Die Registerkarte *Benachrichtigungen*:
 
-![Liste der Workflows](../../../en/images/workflows/example-1-edit-transition-notification.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-1/06-example-1-edit-transition-notification.png)
 
 - **Benachrichtigung senden** Stellen Sie dies auf *Ja*, wo Benachrichtigungen erforderlich sind, zum Beispiel wenn Arthur Eddie benachrichtigen muss, dass ein Beitrag zur Überprüfung bereit ist.
 - **Zusätzlicher Nachrichtentext** Dies ist generischer zusätzlicher Text, um dem Empfänger zu helfen.
@@ -88,7 +95,7 @@ Jedem Beitrag wird beim ersten Speichern ein Workflow zugewiesen. Wird der Beitr
 
 Eine neue Newsletter-Kategorie wird benötigt, um den Newsletter als Kategorie-Blog anzuzeigen und sicherzustellen, dass die Newsletter-Beiträge dem Newsletter-Workflow zugeordnet werden.
 
-![Workflows Liste](../../../en/images/workflows/example-1-newsletter-category.png)
+![Workflows Liste](../../../en/images/workflows/workflow-example-1/07-example-1-newsletter-category.png)
 
 ## Der Menüpunkt Newsletter
 
@@ -149,11 +156,11 @@ Sie können den Backend-Zugriff für alle Mitglieder dieser Gruppen wie folgt er
 
 Dadurch können Arthur, Eddie und Pru sich am Backend anmelden und auf die Inhaltselemente zugreifen. Ein stark reduziertes Start-Dashboard:
 
-![Start-Dashboard für Arthur](../../../en/images/workflows/example-1-backend-home.png)
+![Start-Dashboard für Arthur](../../../en/images/workflows/workflow-example-1/08-example-1-backend-home.png)
 
 Aber Arthur hat Zugriff auf seine Entwurfsbeiträge:
 
-![Beitragsliste für Arthur](../../../en/images/workflows/example-1-backend-articles.png)
+![Beitragsliste für Arthur](../../../en/images/workflows/workflow-example-1/09-example-1-backend-articles.png)
 
 Beachten Sie, dass Arthur das letzte Element in der Liste nicht bearbeiten kann, da es nicht einer seiner eigenen Beiträge ist. Der Beitragstitel ist nicht verlinkt. Ebenso kann Arthur keine der vorhandenen Kategorien bearbeiten, da er keine Berechtigung hat, und auch diese sind nicht verlinkt. Er kann eine neue Kategorie erstellen, aber sie ist unveröffentlicht und er kann sie nicht veröffentlichen!
 
@@ -171,7 +178,7 @@ Wenn Sie einem Beitrag den falschen Workflow zuweisen, stehen zwei Methoden zur 
 - Wählen Sie einen passenden Ziel-Workflow und eine Stufe.
 - Wählen Sie die Schaltfläche **Vorgang ausführen**.
 
-![Beitragsliste für Arthur](../../../en/images/workflows/example-1-backend-batch.png)
+![Beitragsliste für Arthur](../../../en/images/workflows/workflow-example-1/10-example-1-backend-batch.png)
 
 ### Alternativmethode
 

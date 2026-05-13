@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Fields_and_Field_Groups / Display title: Felder und Feldgruppen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Fields_and_Field_Groups",
+  "title": "Felder und Feldgruppen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -14,7 +21,7 @@ Wenn ein Feld keiner Gruppe zugeordnet ist, erscheint es im Editierformular auf 
 
 Für Beiträge über die Natur könnten die Beitrag-Kategorie und Unterkategorien für jeden Zweig der lebenden Welt wie im folgenden Beispiel erscheinen:
 
-![Beitragskategorien für die Natur](../../../en/images/fields/fields-articles-categories-list.png)
+![Beitragskategorien für die Natur](../../../en/images/fields/fields-and-field-groups/01-fields-articles-categories-list.png)
 
 Einige offensichtliche Merkmale der Natur, die zu beachten sind:
 
@@ -37,7 +44,7 @@ Das Erstellen von Feldgruppen für Beiträge ist sehr einfach:
 - Geben Sie eine **Beschreibung** ein. Diese erscheint unter dem Feld im Beitragsbearbeitungsformular, wenn *Inline-Hilfe umschalten* ausgewählt ist.
 - Wählen Sie **Speichern & Schließen** aus der Symbolleiste.
 
-![Liste der Inhaltsfeldgruppen](../../../en/images/fields/fields-field-groups-list.png)
+![Liste der Inhaltsfeldgruppen](../../../en/images/fields/fields-and-field-groups/02-fields-field-groups-list.png)
 
 ### Reihenfolge
 
@@ -51,7 +58,7 @@ Um ein neues Beitragsfeld zu erstellen, wählen Sie **Content → Felder** aus d
 
 Beachten Sie, dass in dem untenstehenden Screenshot dieses Feld der Feldergruppe Natur und der Kategorie Natur zugewiesen wurde. Das stellt sicher, dass es immer in Beiträgen der Kategorie Natur und jeder Unterkategorie erscheint.
 
-![Textfeld - lateinischer Name in Naturgruppe](../../../en/images/fields/fields-latin-name.png)
+![Textfeld - lateinischer Name in Naturgruppe](../../../en/images/fields/fields-and-field-groups/03-fields-latin-name.png)
 
 ### Kontrollkästchen - Blütezeit
 
@@ -59,13 +66,13 @@ Kontrollkästchen erscheinen im Beitragsbearbeitungsformular, damit Sie die Blü
 
 Beachten Sie, dass in diesem Screenshot das Feld der Gruppe Blumen und der Kategorie Blumen zugewiesen wurde. Das sollte sicherstellen, dass das Feld nur in Beiträgen über Blumen vorhanden ist.
 
-![Kontrollkästchenfeld - Blütezeit](../../../en/images/fields/fields-flowering-season.png)
+![Kontrollkästchenfeld - Blütezeit](../../../en/images/fields/fields-and-field-groups/04-fields-flowering-season.png)
 
 ### Farbe - Color
 
 Nur um es verwirrend zu machen, ist der Name des Feldtyps Color (US-Schreibweise), aber das Label in der Dokumentation ist Colour (britische Schreibweise).
 
-![Feld Farbe](../../../en/images/fields/fields-colour.png)
+![Feld Farbe](../../../en/images/fields/fields-and-field-groups/05-fields-colour.png)
 
 Das Feld Farbe ist der Feldergruppe Natur und der Kategorie Natur zugewiesen, da es nicht einzigartig für Blumen ist.
 
@@ -73,7 +80,7 @@ Das Feld Farbe ist der Feldergruppe Natur und der Kategorie Natur zugewiesen, da
 
 Die Winterhärte einer Pflanze kann als Ganzzahl von 1 bis 7 dargestellt werden. Es gibt kein Feld für eine reelle Zahl, also könnten Länge und Breite Ganzzahlen mit einer Skala (cm oder m oder ft) im Label sein. Es gibt *Präfix*- und *Suffix*-Einstellungen im Tab *Optionen*. Wenn es keine offensichtliche obere Grenze gibt, lassen Sie das Feld *Letztes:* leer.
 
-![Feld Winterhärte](../../../en/images/fields/fields-hardiness.png)
+![Feld Winterhärte](../../../en/images/fields/fields-and-field-groups/06-fields-hardiness.png)
 
 RHS Winterhärte ist eine Eigenschaft, die üblicherweise auf Blumen angewendet wird.
 
@@ -88,7 +95,7 @@ mit diesen Reitern neu geladen.
 
 ### Naturreiter
 
-![Bluebell-Artikel Naturreiter](../../../en/images/fields/field-article-bluebell-nature-tab.png)
+![Bluebell-Artikel Naturreiter](../../../en/images/fields/fields-and-field-groups/07-field-article-bluebell-nature-tab.png)
 
 - **Lateinischer Name** Dies ist ein Texteingabefeld, sodass es einfach eine Frage des
   Eingebens des lateinischen Namens der Lebensform ist, die der Beitrag abdeckt.
@@ -102,7 +109,7 @@ mit diesen Reitern neu geladen.
 
 ### Pflanzenreiter
 
-![Bluebell-Artikel Pflanzenreiter](../../../en/images/fields/field-article-bluebell-flowers-tab.png)
+![Bluebell-Artikel Pflanzenreiter](../../../en/images/fields/fields-and-field-groups/08-field-article-bluebell-flowers-tab.png)
 
 - **Blütezeit** Das Kontrollkästchenfeld - Bluebells sind bekannte Frühlingsblumen,
   daher ist die Auswahl eines Kontrollkästchens angebracht.
@@ -115,7 +122,7 @@ mit diesen Reitern neu geladen.
 
 Schauen Sie sich das Ergebnis auf Ihrer Seite an. In diesem Beispiel wurde ein einzelnes Beitragsmenüelement erstellt:
 
-![Bluebell-Beitragsansicht](../../../en/images/fields/field-article-bluebell-site.png)
+![Bluebell-Beitragsansicht](../../../en/images/fields/fields-and-field-groups/09-field-article-bluebell-site.png)
 
 ### Die hexadezimale Farbe
 

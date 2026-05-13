@@ -1,4 +1,11 @@
-<!-- Filename: jdocmanual?manual=user&heading=news&filename=news-feeds.md / Display title: Nachrichtenfeeds -->
+<!--
+{
+  "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=news&filename=news-feeds.md",
+  "title": "Nachrichtenfeeds ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung in News-Feeds
 
@@ -6,7 +13,7 @@ Es war einmal gängige Praxis, dass eine Website Nachrichtenbeiträge von entfer
 
 Die Methode, um Nachrichten zu teilen, ist *Really Simple Syndication*, gewöhnlich abgekürzt als **RSS**, und diese hat immer noch einen Platz in der Website-Promotion. Der folgende Screenshot zeigt *NetNewsWire*, einen freien und quelloffenen RSS-Reader für Mac. Andere RSS-Reader sind für andere Plattformen verfügbar. Die Abbildung zeigt den **Joomla! Ankündigungen** RSS-Feed ausgewählt. Zehn Ankündigungen werden mit Titel und kurzer Beschreibung aufgelistet. Die ausgewählte Ankündigung wird vollständig in der rechten Spalte angezeigt.
 
-![RSS-Feed von Joomla Ankündigungen](../../../en/images/news-feeds/news-netnewswire-display.png)
+![RSS-Feed von Joomla Ankündigungen](../../../en/images/news-feeds/news-feeds/01-news-netnewswire-display.png)
 
 Stellen Sie sich vor, was ein oder mehrere RSS-Feeds für Ihre Website tun könnten!
 
@@ -32,13 +39,13 @@ Der RSS-Feed kann auf einer Startseite mit hervorgehobenen Beiträgen nicht ausg
 
 Es gibt ein Kernmodul, das Sie auf Hervorgehobene oder Kategorie-Blog-Seiten platzieren können, um einen Syndikationslink bereitzustellen. Füllen Sie die Felder im Modul-Tab aus. Die meisten haben geeignete Standardwerte. Wenn das Feld für die Bezeichnung leer gelassen wird, lautet die Standardbezeichnung auf Englisch *Feed Entries*. Wählen Sie im Tab *Menüzuweisung* die Option **Auf allen Seiten**. Das Modul wird nur auf Hervorgehobenen und Kategorie-Blog-Seiten angezeigt.
 
-![Syndikations-Feeds Daten-Eingabe](../../../en/images/news-feeds/news-syndication-feeds-form.png)
+![Syndikations-Feeds Daten-Eingabe](../../../en/images/news-feeds/news-feeds/02-news-syndication-feeds-form.png)
 
 Denken Sie daran, das Modul einer *Position* zuzuweisen und es auf *Veröffentlicht* zu setzen.
 
 In der Site-Seitenansicht zeigt das Modul einen Link an. Er ist nicht zum Anklicken vorgesehen, es sei denn, Sie haben einen lokalen Newsreader konfiguriert. Der Link muss kopiert werden, um ihn in einem Newsreader auf einer anderen Seite oder einer Newsreader-Anwendung zu verwenden.
 
-![Syndikations-Feeds Anzeige](../../../en/images/news-feeds/news-syndication-feeds-display.png)
+![Syndikations-Feeds Anzeige](../../../en/images/news-feeds/news-feeds/03-news-syndication-feeds-display.png)
 
 Beachten Sie, dass der Link für die Beiträge auf dieser Seite ist. Wenn Ihre Seite mehrere Kategorie-Blog-Seiten hat, werden Sie mehrere unterschiedliche RSS-Feeds haben.
 *Übersetzt von openai.com*

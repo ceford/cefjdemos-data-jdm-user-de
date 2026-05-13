@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Media_Field / Display title: Medienbereich -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Medienbereich ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -13,7 +20,7 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 - **Vorschau** Zeigt oder verbirgt die Miniaturansicht des ausgewählten Bildes.
 - **Bildklasse** Die Klasse, die dem img-Tag beim Ausgeben hinzugefügt wird. Eine Klasse von *w-25* reduziert die Breite des Bildes auf 25% des übergeordneten Containers.
 
-![Medienfeld-Erstellung](../../../en/images/fields/fields-media-edit.png)
+![Medienfeld-Erstellung](../../../en/images/fields/adding-custom-fields-media-field/01-fields-media-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Einbindung des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie es in Ihren eigenen Feldtiteln weg.
 
@@ -21,14 +28,14 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 
 Das Dateneingabeformular ist eine einfache Version des Medienauswahlformulars.
 
-![Medienfelddateneingabe](../../../en/images/fields/fields-media-data-entry.png)
+![Medienfelddateneingabe](../../../en/images/fields/adding-custom-fields-media-field/02-fields-media-data-entry.png)
 
 
 ## Datenanzeige
 
 Der folgende Screenshot der Website zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist für die Position des Feldes verantwortlich, und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![Medienfeld Website-Anzeige](../../../en/images/fields/fields-media-site.png)
+![Medienfeld Website-Anzeige](../../../en/images/fields/adding-custom-fields-media-field/03-fields-media-site.png)
 
 *Übersetzt von openai.com*
 

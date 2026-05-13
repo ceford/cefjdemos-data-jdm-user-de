@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Managing_Media / Display title: Medienverwaltung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Managing_Media",
+  "title": "Medienverwaltung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -20,7 +27,7 @@ In den ersten beiden Fällen erscheint die Medien-Komponente in einem normalen K
 
 Das folgende Bild zeigt die Medienseite direkt nach der Joomla-Installation, jedoch mit dem ausgewählten Ordner cassiopeia/sampledata. Ein *files*-Ordner wurde hinzugefügt, um Nicht-Bild-Dateien zu speichern, und ein zusätzlicher Ordner namens *garbage* wurde hinzugefügt, um das Löschen von Ordnern zu veranschaulichen:
 
-![Medienseite mit Beispieldaten cassiopeia](../../../en/images/media/media-sample-data-cassiopeia.png)
+![Medienseite mit Beispieldaten cassiopeia](../../../en/images/media/managing-media/01-media-sample-data-cassiopeia.png)
 
 ## Verwalten von Ordnern
 
@@ -60,7 +67,7 @@ Wenn Sie einen anderen Ordner auswählen, wird der vorherige Ordner auf derselbe
 
 Der zur Löschung ausgewählte Ordner wird unten dargestellt:
 
-![Medienseite zeigt Papierkorb-Ordner](../../../en/images/media/media-sample-data-garbage-select.png)
+![Medienseite zeigt Papierkorb-Ordner](../../../en/images/media/managing-media/02-media-sample-data-garbage-select.png)
 
 ## Medienbereich-Werkzeugleiste
 

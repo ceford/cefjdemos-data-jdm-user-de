@@ -1,4 +1,11 @@
-<!-- Filename: Localhost / Display title: Schema.org - Benutzerdefiniert -->
+<!--
+{
+  "source": "https://docs.joomla.org/Localhost",
+  "title": "Schema.org - Benutzerdefiniert ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -24,7 +31,7 @@ Die *timeRequired*-Eigenschaft repräsentiert die geschätzte Lesezeit im ISO 86
 
 Unten steht ein Beispiel für ein benutzerdefiniertes Schemafeld in einem Beitragsbearbeitungsformular.
 
-![A custom schema edit form](../../../en/images/schemas/edit-schema-custom.png)
+![A custom schema edit form](../../../en/images/schemas/custom/01-edit-schema-custom.png)
 
 *Übersetzt von openai.com*
 

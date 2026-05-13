@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Menu_Item_Order / Display title: Reihenfolge der Menüeinträge -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Menu_Item_Order",
+  "title": "Reihenfolge der Menüeinträge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -19,7 +26,7 @@ Ausgehend vom Administrator-Menü:
 - Wählen Sie das Symbol des zu verschiebenden Elements aus und ziehen Sie es.
 - Lassen Sie das gezogene Element an seiner neuen Position fallen.
 
-![Menüeintragsreihenfolge ziehen](../../../en/images/menus/menus-menu-item-order-drag.png)
+![Menüeintragsreihenfolge ziehen](../../../en/images/menus/menu-item-order/01-menus-menu-item-order-drag.png)
 
 Diese Methode kann unpraktisch sein, wenn es übergeordnete Menüeinträge mit vielen untergeordneten Einträgen gibt. Sie können ein übergeordnetes Element leichter verschieben, indem Sie die untergeordneten Elemente ausblenden:
 
@@ -41,7 +48,7 @@ Ausgehend vom Administrator-Menü:
 - Wählen Sie den Titellink des Menüeintrags, den Sie verschieben möchten, um das Bearbeitungsformular für den Menüeintrag zu öffnen.
 - Wählen Sie im Formular "Menüs: Eintrag bearbeiten" das Feld **Reihenfolge** aus, nach welchem Eintrag der zu verschiebende Eintrag platziert werden soll, oder die Positionen *- Erster -* oder *- Letzter -*.
 
-![Reihenfolge der Menüeinträge](../../../en/images/menus/menus-menu-item-order-list.png)
+![Reihenfolge der Menüeinträge](../../../en/images/menus/menu-item-order/02-menus-menu-item-order-list.png)
 
 - **Speichern** oder **Speichern & Schließen**
 

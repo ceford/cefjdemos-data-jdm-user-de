@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Module_and_Menu_Styles / Display title: Modul- und Menü-Stile -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Module_and_Menu_Styles",
+  "title": "Modul- und Menü-Stile ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Über Cascading Style Sheets
 
@@ -22,7 +29,7 @@ Aber was, wenn Sie ein Modul oder eine ganze Seite stylen möchten? Zum Beispiel
 
 Dieses einfache Beispiel wendet benutzerdefinierte Stile auf das Anmeldemodul und dessen Überschrift an. Der folgende Screenshot zeigt die eingegebenen Stilenamen im Tab "Erweitert" des Moduls: Bearbeitungsformular für Login. Die Modulklasse wurde auf `make-me-light-green` und die Kopfzeilenklasse auf `make-me-dark-green` gesetzt. Beachten Sie, dass Sie in Klassennamen Minuszeichen oder Unterstriche einschließen können, aber Leerzeichen trennen verschiedene Klassennamen.
 
-![Bearbeitungsformular für das Anmeldemodul im Tab "Erweitert" mit benutzerdefinierter Klasse](../../../en/images/templates/templates-edit-module-style.png)
+![Bearbeitungsformular für das Anmeldemodul im Tab "Erweitert" mit benutzerdefinierter Klasse](../../../en/images/template-tips/module-and-menu-styles/01-templates-edit-module-style.png)
 
 Die folgenden Stildefinitionen werden in der user.css-Datei verwendet:
 ```css
@@ -37,7 +44,7 @@ Die folgenden Stildefinitionen werden in der user.css-Datei verwendet:
 ```
 Achten Sie auf den Punkt (.), der in CSS verwendet wird, um eine Klasse mit diesem Namen zu definieren. Der Punkt darf nicht im Modul-Dateneingabeformular verwendet werden. Das Ergebnis in diesem Beispiel ist wie folgt:
 
-![Ansicht der benutzerdefinierten Modulansicht mit Entwicklerwerkzeugen](../../../en/images/templates/templates-edit-module-style-result.png)
+![Ansicht der benutzerdefinierten Modulansicht mit Entwicklerwerkzeugen](../../../en/images/template-tips/module-and-menu-styles/02-templates-edit-module-style-result.png)
 
 Der untere Teil des Bildes zeigt das Browser-Entwicklungstool-Fenster, wobei das `<div>`-Tag des Anmeldemoduls ausgewählt ist. Sie können sehen, dass der benutzerdefinierte Modulklassenstil an die bereits im Modultemplate definierten Stile angehängt wurde. Die nächste Zeile zeigt das `<h3>`-Tag ebenfalls mit der benutzerdefinierten Kopfzeilenklasse, die an bereits definierte Stile angehängt wurde.
 
@@ -61,7 +68,7 @@ Es ist der letzte Punkt in dieser Liste, der in diesem Beitrag behandelt wird. W
 ```
 Die Klasse wird dem Body-Tag der Seite hinzugefügt:
 
-![Darstellung der angepassten Seite mit Entwickler-Tools](../../../en/images/templates/templates-edit-page-class-result.png)
+![Darstellung der angepassten Seite mit Entwickler-Tools](../../../en/images/template-tips/module-and-menu-styles/03-templates-edit-page-class-result.png)
 
 QED!
 

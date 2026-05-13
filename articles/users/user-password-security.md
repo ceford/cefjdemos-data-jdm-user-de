@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Enhancing_Password_Security_with_Symbolic_Characters / Display title: Benutzer-Passwort-Sicherheit -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Enhancing_Password_Security_with_Symbolic_Characters",
+  "title": "Benutzer-Passwort-Sicherheit ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

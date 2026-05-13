@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Introduction_to_Joomla! / Display title: Einführung in Joomla!  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Introduction_to_Joomla!",
+  "title": "Einführung in Joomla!  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -16,7 +23,7 @@ Eine Joomla!-Installation besteht aus den Dateien, die zur Verwaltung und Anzeig
 
 Diese Vorlage bietet alles, was Sie benötigen, um mit Ihrer eigenen Website zu beginnen. Sie kann mit Vorlageeinstellungen und benutzerspezifischen Merkmalen wie Bildern und Farben angepasst werden.
 
-![Die Cassiopeia-Vorlage](../../../en/images/getting-started/introduction-to-joomla-cassiopeia.png)
+![Die Cassiopeia-Vorlage](../../../en/images/getting-started/introduction-to-joomla/01-introduction-to-joomla-cassiopeia.png)
 
 Wenn Cassiopeia nicht ganz zu Ihrer Website passt, gibt es Hunderte anderer Vorlagen von Drittanbietern, sowohl kostenlos als auch kommerziell.
 
@@ -30,7 +37,7 @@ Wenn Cassiopeia nicht ganz zu Ihrer Website passt, gibt es Hunderte anderer Vorl
 
 Diese Vorlage wird von der Öffentlichkeit nicht gesehen, daher ist es selten notwendig, nach einer Alternative zu suchen.
 
-![Die Atum-Vorlage](../../../en/images/getting-started/introduction-to-joomla-atum.png)
+![Die Atum-Vorlage](../../../en/images/getting-started/introduction-to-joomla/02-introduction-to-joomla-atum.png)
 
 Sie können konfigurieren, was auf den verschiedenen Dashboards erscheint, aber das sollte am besten erst geändert werden, wenn die Erfahrung eine Änderung rechtfertigt.
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Adding_a_Custom_Administrator_Menu / Display title: Benutzerdefiniertes Administrator-Menü -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Adding_a_Custom_Administrator_Menu",
+  "title": "Benutzerdefiniertes Administrator-Menü ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -75,13 +82,13 @@ In der Menü-Liste wählen Sie die Schaltfläche **Verknüpfte Module** im Eintr
 
 ## Bildschirmfoto
 
-![Benutzerdefiniertes Administrator-Menükomponenten-Auswahl](../../../en/images/menus/menus-custom-administrator-menu.png)
+![Benutzerdefiniertes Administrator-Menükomponenten-Auswahl](../../../en/images/menus/adding-a-custom-administrator-menu/01-menus-custom-administrator-menu.png)
 
 ## Ergebnis
 
 Erstellen Sie einen Benutzer in der Zweiggruppe, um selbst zu testen. Melden Sie sich als dieser Benutzer in der Administratoroberfläche an, um das Ergebnis zu sehen:
 
-![benutzerdefiniertes Administrator-Menü Ergebnis](../../../en/images/menus/menus-custom-administrator-menu-result.png)
+![benutzerdefiniertes Administrator-Menü Ergebnis](../../../en/images/menus/adding-a-custom-administrator-menu/02-menus-custom-administrator-menu-result.png)
 
 ## Notizen
 

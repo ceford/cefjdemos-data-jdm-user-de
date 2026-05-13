@@ -1,4 +1,11 @@
-<!-- Filename: jdocmanual?manual=user&heading=performance&filename=page-analysis.md / Display title: Seitenanalyse  -->
+<!--
+{
+  "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=performance&filename=page-analysis.md",
+  "title": "Seitenanalyse  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Lighthouse
 
@@ -12,7 +19,7 @@ Sie können das Tool online über PageSpeed Insights auf dieser Seite nutzen.
 
 Der folgende Screenshot zeigt den ersten Teil des PageSpeed Insights-Berichts:
 
-![PageSpeed Insights-Bericht](../../../en/images/performance/performance-pagespeed-insights.png)
+![PageSpeed Insights-Bericht](../../../en/images/performance/page-analysis/01-performance-pagespeed-insights.png)
 
 ## Leistungsverbesserungen
 

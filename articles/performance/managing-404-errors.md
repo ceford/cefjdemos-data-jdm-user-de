@@ -1,4 +1,11 @@
-<!-- Filename: Managing_404_Errors / Display title: Umgang mit 404-Fehlern -->
+<!--
+{
+  "source": "https://docs.joomla.org/Managing_404_Errors",
+  "title": "Umgang mit 404-Fehlern ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Warum 404 Nicht Gefunden Wichtig Ist
 
@@ -16,7 +23,7 @@ Wenn Sie Search Central besuchen, gibt es einen Abschnitt, der Ihnen URL-Fehler 
 
 Wenn es ein temporäres Problem auf Ihrer Website gab, können Sie Fehler als behoben markieren.
 
-![webmaster tools](../../../en/images/performance/404-discovery.png)
+![webmaster tools](../../../en/images/performance/managing-404-errors/01-404-discovery.png)
 
 ## Probleme beheben
 
@@ -28,21 +35,21 @@ Wenn Sie eine Seite umleiten müssen, können Sie das System - Redirect-Plugin v
 
 Wenn du deinen 404-Traffic überwachen möchtest, ist der beste Weg, dies in Analytics zu tun, indem du beobachtest, was passiert, wenn ein 404-Fehler auftritt. In den meisten Fällen ändert sich der Seitentitel auf 404 – also können wir ein benutzerdefiniertes Segment erstellen, das den Traffic mit einem Titel von 404 filtert und dir mitteilt, was die Einstiegsseite ist. Dies sollte es dir ermöglichen, deine 404-Fehler zu überwachen und proaktiv zu verwalten, um sicherzustellen, dass deine Website-Besucher nicht auf toten Links landen.
 
-![Analytics warnt 404-Traffic](../../../en/images/performance/404-analytics-alerts.png)
+![Analytics warnt 404-Traffic](../../../en/images/performance/managing-404-errors/02-404-analytics-alerts.png)
 
-![Analytics warnt vor Publikumsübersicht](../../../en/images/performance/404-analytics-alerts-2.png)
+![Analytics warnt vor Publikumsübersicht](../../../en/images/performance/managing-404-errors/03-404-analytics-alerts-2.png)
 
 Google bietet in Analytics auch die Möglichkeit, Warnungen einzurichten. Warnungen ermöglichen es dir, per E-Mail benachrichtigt zu werden, wenn bestimmte Ereignisse eintreten. In diesem Fall können wir eine Warnung einrichten, um benachrichtigt zu werden, wenn es in einer Woche zu einem Anstieg von mehr als 5% bei der Anzahl der 404-Fehler kommt – was bedeuten könnte, dass wir ein Problem mit der Webseite haben, das untersucht werden muss.
 
 Dies ist eine großartige Möglichkeit, die Dinge im Auge zu behalten, auch wenn du dich nicht in dein Dashboard eingeloggt hast!
 
-![Email-Benachrichtigung von Analytics](../../../en/images/performance/404-analytics-alerts-email.png)
+![Email-Benachrichtigung von Analytics](../../../en/images/performance/managing-404-errors/04-404-analytics-alerts-email.png)
 
 ## Überwachung von Fehlern mit einem Dashboard
 
 Es gibt auch ein Dashboard, das Sie installieren können, das *Datenintegritäts-Dashboard* genannt wird. Es zeigt Ihnen Informationen über 404-Fehler sowie einige andere Metriken, die für Sie von Interesse sein könnten. Suchen Sie einfach in der Google Analytics Gallery nach *Datenintegritäts-Dashboard* und wählen Sie das Profil aus, unter dem Sie es installieren möchten.
 
-![Datenintegrität](../../../en/images/performance/404-data-integrity.png)
+![Datenintegrität](../../../en/images/performance/managing-404-errors/05-404-data-integrity.png)
 
 *Übersetzt von openai.com*
 

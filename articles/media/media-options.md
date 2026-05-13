@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Media:_Options / Display title: Medien: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Media:_Options",
+  "title": "Medien: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -8,7 +15,7 @@ Um das Formular *Medien: Optionen* zu öffnen, wählen Sie die **Optionen**-Scha
 
 ## Screenshot
 
-![Das Medienoptionen-Formular](../../../en/images/media/media-options.png)
+![Das Medienoptionen-Formular](../../../en/images/media/media-options/01-media-options.png)
 
 ## Pfad zu Dateien und Ordnern
 
@@ -22,7 +29,7 @@ Geben Sie im Optionen-Formular den Ordnernamen im Feld **Pfad zu Dateien Ordner*
 
 Wenn alles eingerichtet ist, können Sie im lokalen Teil der Medienansicht zwischen den Ordnern für Bilder und Dateien wählen.
 
-![Die Medienseite](../../../en/images/media/media-sample-data-cassiopeia.png)
+![Die Medienseite](../../../en/images/media/media-options/02-media-sample-data-cassiopeia.png)
 
 ## Zusätzliche Bild- oder Dokumenttypen
 

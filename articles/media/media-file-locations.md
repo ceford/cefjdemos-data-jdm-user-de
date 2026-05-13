@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:Media_File_Locations / Display title: Mediendatei-Standorte -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:Media_File_Locations",
+  "title": "Mediendatei-Standorte ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -12,7 +19,7 @@ Um einen Ort für Dateien einzurichten, der getrennt von Bildern ist, erstellen 
 
 Finden Sie das *FileSystem - Lokales* Plugin in der Liste der Plugins und öffnen Sie es. Fügen Sie Ihren neu erstellten *files*-Ordner zur Liste der Orte hinzu, an denen Sie Medien aufbewahren können. Klicken Sie einfach auf die + Schaltfläche und wählen Sie **files** aus der Liste der verfügbaren Ordner.
 
-![Dateisystem-Plugin](../../../en/images/plugins/plugin-group-file-system-local.png)
+![Dateisystem-Plugin](../../../en/images/media/media-file-locations/01-plugin-group-file-system-local.png)
 
 Die **Miniaturbilder erstellen**-Option auf **Ja** gesetzt, führt zur Erstellung von kleinen Bildern mit einer maximalen Höhe oder Breite von 200 Pixeln in media/cache/com_media/thumbs mit der gleichen Ordnerstruktur wie der Medienordner. Dies sollte die Anzeigegeschwindigkeit eines Ordners mit vielen Bildern erheblich erhöhen. Für Dateien ist dies nicht notwendig, da sie durch Symbole dargestellt werden.
 

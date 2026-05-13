@@ -1,22 +1,29 @@
-<!-- Filename: J4.x:User_Password_Reset / Display title: Benutzer-Passwort zurücksetzen  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:User_Password_Reset",
+  "title": "Benutzer-Passwort zurücksetzen  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Benutzer-Zurücksetzung
 
 Wenn Ihre Benutzer die Anmeldung auf der Website erlaubt ist und ein Benutzer sich entweder nicht an den Benutzernamen oder das Passwort erinnern kann, ist es am besten, von der Person zu verlangen, die Anmeldeinformationen selbst zurückzusetzen, indem sie die Links im Anmeldeformular verwendet:
 
-![Anmeldemodul für Website-Benutzer](../../../en/images/users/user-site-login-module.png)
+![Anmeldemodul für Website-Benutzer](../../../en/images/users/user-password-reset/01-user-site-login-module.png)
 
 In jedem Fall führt das Auswählen eines Links zu einem Formular, in dem die mit dem Konto verknüpfte E-Mail-Adresse eingetragen werden muss:
 
-![Formular zum Zurücksetzen des vergessenen Passworts auf der Website](../../../en/images/users/user-forgot-password-reset.png)
+![Formular zum Zurücksetzen des vergessenen Passworts auf der Website](../../../en/images/users/user-password-reset/02-user-forgot-password-reset.png)
 
 Der gesamte Prozess wird vom Benutzer durchgeführt, ohne dass ein Eingreifen eines Administrators erforderlich ist. Dies ist das Formular zur Bestätigung des vergessenen Passworts:
 
-![Formular zur Bestätigung des vergessenen Passworts auf der Website](../../../en/images/users/user-forgot-password-confirm.png)
+![Formular zur Bestätigung des vergessenen Passworts auf der Website](../../../en/images/users/user-password-reset/03-user-forgot-password-confirm.png)
 
 Und schließlich muss der Benutzer ein neues Passwort eingeben:
 
-![Formular zum Zurücksetzen des vergessenen Passworts auf der Website](../../../en/images/users/user-forgot-password-complete.png)
+![Formular zum Zurücksetzen des vergessenen Passworts auf der Website](../../../en/images/users/user-password-reset/04-user-forgot-password-complete.png)
 
 ## Administrator-Zurücksetzung
 
@@ -30,7 +37,7 @@ Wenn es nur eine Administrator-Anmeldung gibt, muss ein Zurücksetzen des Benutz
 - Setzen Sie das Feld **Passwort zurücksetzen erforderlich** auf *Ja*.
 - **Speichern & Schließen**
 
-![Benutzerbearbeitungsformular für Administratoren](../../../en/images/users/users-edit-user-john-doe.png)
+![Benutzerbearbeitungsformular für Administratoren](../../../en/images/users/user-password-reset/05-users-edit-user-john-doe.png)
 
 Sie müssen dann eine E-Mail an den Benutzer senden, die das neue vorläufige Passwort im Klartext enthält. Nach dem Login kann der Benutzer die Startseite der Website sehen, aber jeder Versuch, zu einer anderen Seite zu navigieren, führt den Benutzer zum neuen Passwortformular.
 

@@ -1,4 +1,11 @@
-<!-- Filename: How_do_you_block_directory_scans_using_htaccess%3F / Display title: Verzeichnisauflistung verbieten  -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_do_you_block_directory_scans_using_htaccess%3F",
+  "title": "Verzeichnisauflistung verbieten  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Hintergrund
 

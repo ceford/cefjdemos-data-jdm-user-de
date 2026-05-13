@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Cassiopeia_templateDetails.xml / Display title: Cassiopeia templateDetails.xml  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Cassiopeia_templateDetails.xml",
+  "title": "Cassiopeia templateDetails.xml  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Standort und Zweck
 
@@ -40,11 +47,11 @@ Der erste Abschnitt der Vorlagendaten definiert normalerweise die Vorlageninform
 
 Beachten Sie, dass eine Vorlage, die untergeordnete Vorlagen haben kann, den Inherit-Wert auf 1 gesetzt hat. Untergeordnete Vorlagen haben diesen Wert auf 0 gesetzt. Diese Daten werden in der Ansicht "Templates: Vorlagen (Site)" verwendet, wie unten gezeigt.
 
-![site templates list](../../../en/images/templates/templates-list.png)
+![site templates list](../../../en/images/templates/cassiopeia-templatedetails-xml/01-templates-list.png)
 
 Die Beschreibung enthält einen Sprachschlüssel und nicht den tatsächlichen Beschreibungstext. Der Schlüssel wird zur Laufzeit durch den Text ersetzt, der aus einer Sprachdatei abgerufen wird. Die Sprachdateien sind im Sprachabschnitt von `templateDetails.xml` definiert.
 
-![templates edit style form](../../../en/images/templates/templates-edit-style.png)
+![templates edit style form](../../../en/images/templates/cassiopeia-templatedetails-xml/02-templates-edit-style.png)
 
 ### Ordner und Dateien
 
@@ -70,7 +77,7 @@ Ordner und Dateien für die Cassiopeia-Vorlage werden an zwei verschiedenen Orte
 
 Dies ist das Muster, das in allen modernen Joomla 4 und 5 Vorlagen zu sehen ist. Die Struktur kann in der Ansicht "Templates: Anpassen (Cassiopeia)" gesehen werden:
 
-![templates customise cassiopeia page](../../../en/images/templates/templates-customise-cassiopeia.png)
+![templates customise cassiopeia page](../../../en/images/templates/cassiopeia-templatedetails-xml/03-templates-customise-cassiopeia.png)
 
 ### Modulpositionen
 
@@ -101,11 +108,11 @@ Jedes Tag erstellt eine Modulposition, die in der Positionsliste eines Modul-Bea
 
 Cassiopeia hat genügend Vorlagenpositionen! Wenn Sie denken, dass Sie eine zusätzliche benötigen, liegen Sie wahrscheinlich falsch. Denken Sie daran, dass jedem Modul eine beliebige Anzahl von Modulen zugewiesen werden kann und sie auf der Modulseitenliste in Reihenfolge sortiert werden können. Verfügbare Positionen:
 
-![Cassiopeia template positions diagram](../../../en/images/templates/cassiopeia-template-positions.png)
+![Cassiopeia template positions diagram](../../../en/images/templates/cassiopeia-templatedetails-xml/04-cassiopeia-template-positions.png)
 
 Sie können auch die Modulpositionen in jeder Vorlage sehen: Gehen Sie zu **System → Site Templates** und wählen Sie die Schaltfläche "Optionen" in der Symbolleiste. Stellen Sie im Optionsformular das Feld "Vorschau Modulpositionen" auf "Aktiviert". Speichern und schließen Sie. Gehen Sie zu Ihrer Website und fügen Sie ?tp=1 an das Ende einer URL hinzu (oder &tp=1, wenn bereits ein ? in der URL ist). Joomla wird alle verfügbaren Vorlagenpositionen anzeigen, auch diejenigen, die nicht verwendet wurden:
 
-![Cassiopeia template positions](../../../en/images/templates/templates-template-positions-by-tp.png)
+![Cassiopeia template positions](../../../en/images/templates/cassiopeia-templatedetails-xml/05-templates-template-positions-by-tp.png)
 
 ### Sprachen
 
@@ -124,7 +131,7 @@ Die Sprachdateien für die standardmäßige englische GB-Sprache werden in site/
 
 Eine Vorlage kann Anzeigeoptionen bieten, die vom Administrator im Formular "Vorlage: Stil bearbeiten" gewählt werden können. Zum Beispiel ermöglicht die Registerkarte "Erweitert" der Cassiopeia-Vorlage einem Administrator, die Marke zu ändern, ein Logo hinzuzufügen, ein Schriftartenschema auszuwählen und mehr.
 
-![templates edit style form advanced tab](../../../en/images/templates/templates-edit-style-advanced.png)
+![templates edit style form advanced tab](../../../en/images/templates/cassiopeia-templatedetails-xml/06-templates-edit-style-advanced.png)
 
 Die Vorlagenoptionen sind innerhalb einer Struktur definiert, die Felder innerhalb von Fieldsets erstellt. Jedes Fieldset erscheint als Registerkarte im Bearbeitungsformular. Dies ist die Struktur, die die Registerkarte "Erweitert" oben erstellt.
 

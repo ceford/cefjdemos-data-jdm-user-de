@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Assorted_Issues / Display title: Verschiedene Beiträge  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Assorted_Issues",
+  "title": "Verschiedene Beiträge  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Weiterleitungsproblem nach dem Upgrade auf 4.0.6
 

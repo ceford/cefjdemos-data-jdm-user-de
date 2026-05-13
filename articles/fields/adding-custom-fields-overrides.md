@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Overrides / Display title: Beispiel für eine Vorlagenüberschreibung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Beispiel für eine Vorlagenüberschreibung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Automatische Anzeige von Feldern
 

@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:Articles:_Filter_Options / Display title: Beiträge: Filteroptionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:Articles:_Filter_Options",
+  "title": "Beiträge: Filteroptionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -8,7 +15,7 @@ Der folgende Screenshot zeigt die Beiträge, die zur Vorbereitung dieses Satzes 
 
 Die *Filteroptionen* wurden geöffnet, um die verfügbaren Filter anzuzeigen.
 
-![Beitragsliste](../../../en/images/articles/articles-filter-options.png)
+![Beitragsliste](../../../en/images/articles/articles-filter-options/01-articles-filter-options.png)
 
 Diese Liste enthält über 20 Beiträge, die aus der Installation der *Mehrsprachigen Beispielinhalte* erstellt wurden, sowie einige weitere Beiträge, die später hinzugefügt wurden.
 

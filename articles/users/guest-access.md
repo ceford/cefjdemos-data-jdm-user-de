@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Guest_Access / Display title: Gastzugriff -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Guest_Access",
+  "title": "Gastzugriff ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zugriffsebenen
 
@@ -22,7 +29,7 @@ Die Verwendung des Gastzugriffs kann mit einem Anmelde-Menüpunkt veranschaulich
 - Speichern
 - Optional: Wählen Sie die Liste Bestellung aus und wählen Sie den Eintrag **nach** dem Sie den Anmeldeeintrag anzeigen lassen möchten.
 
-![Anmeldeformular-Menü für Gastzugang eingeschränkt](../../../en/images/users/guest-access-menu-login.png)
+![Anmeldeformular-Menü für Gastzugang eingeschränkt](../../../en/images/users/guest-access/01-guest-access-menu-login.png)
 
 - Speichern und Schließen.
 - Sehen Sie sich die Website an. Überprüfen Sie, ob der Anmelde-Menüpunkt funktioniert. Prüfen Sie, ob er nach dem Anmelden verschwindet.
@@ -40,7 +47,7 @@ Die Nutzung der Zugriffsebene "Registriert" kann mit einem Logout-Menüpunkt ver
 - Speichern
 - Optional: Wählen Sie das Dropdown-Menü Reihenfolge und wählen Sie den Punkt, **nach dem** das Login-Element erscheinen soll.
 
-![Abmeldeformular, beschränkt auf registrierten Zugriff](../../../en/images/users/guest-access-menu-logout.png)
+![Abmeldeformular, beschränkt auf registrierten Zugriff](../../../en/images/users/guest-access/02-guest-access-menu-logout.png)
 
 - Speichern und Schließen.
 - Besichtigen Sie die Website. Überprüfen Sie, ob der Logout-Menüpunkt funktioniert. Stellen Sie sicher, dass er nach dem Abmelden verschwindet.

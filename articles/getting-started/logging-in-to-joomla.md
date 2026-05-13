@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Logging_in_to_Joomla / Display title: Anmelden bei Joomla -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Logging_in_to_Joomla",
+  "title": "Anmelden bei Joomla ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -16,7 +23,7 @@ Das Folgende behandelt das An- und Abmelden sowohl vom Backend als auch vom Fron
 
 Navigieren Sie zur Administrator-Anmeldeseite. Dies ist die Webadresse der Website, ergänzt um /administrator, z. B. my-joomla-website.com/administrator, was die Joomla-Administrator-Anmeldeseite aufruft:
 
-![Administrator-Anmeldeformular](../../../en/images/getting-started/logging-in-to-joomla-administrator-login-form.png)
+![Administrator-Anmeldeformular](../../../en/images/getting-started/logging-in-to-joomla/01-logging-in-to-joomla-administrator-login-form.png)
 
 1.  Geben Sie Ihren **Benutzernamen** ein
 2.  Geben Sie Ihr **Passwort** ein
@@ -33,7 +40,7 @@ Wählen Sie die Schaltfläche **Anmelden**, um zum Joomla! Home-Dashboard weiter
 
 Um sich abzumelden, wählen Sie das **Benutzermenü** und dann **Abmelden**.
 
-![Administrator-Abmeldelink](../../../en/images/getting-started/logging-in-to-joomla-logout-link.png)
+![Administrator-Abmeldelink](../../../en/images/getting-started/logging-in-to-joomla/02-logging-in-to-joomla-logout-link.png)
 
 ### Seitenanmeldung
 
@@ -41,7 +48,7 @@ Wenn der Frontend-Zugriff aktiviert ist, wurde ein Anmeldeformular auf der Websi
 
 Dieses Beispiel verwendet ein Anmeldeformular, das sich in der rechten Seitenleiste befindet.
 
-![Seitenanmeldemodul](../../../en/images/getting-started/logging-in-to-joomla-site-login-form.png)
+![Seitenanmeldemodul](../../../en/images/getting-started/logging-in-to-joomla/03-logging-in-to-joomla-site-login-form.png)
 
 Im **Anmeldeformular**
 
@@ -54,7 +61,7 @@ Wenn Sie sich vom Frontend der Website anmelden, bleiben Sie möglicherweise auf
 
 ### Seitenabmeldung
 
-![Seitenabmeldemodul](../../../en/images/getting-started/logging-in-to-joomla-site-logout-form.png)
+![Seitenabmeldemodul](../../../en/images/getting-started/logging-in-to-joomla/04-logging-in-to-joomla-site-logout-form.png)
 
 Um sich abzumelden, gehen Sie zum Anmeldeformular und wählen Sie die Schaltfläche **Abmelden**.
 

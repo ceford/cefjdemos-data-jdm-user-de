@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Getting_Started:_Adding_an_Article / Display title: Einen Beitrag hinzufügen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_an_Article",
+  "title": "Einen Beitrag hinzufügen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -14,7 +21,7 @@ Bis ein Beitrag erstellt wurde, zeigt die Beitragsseite eine Platzhalterseite an
 
 Auf fast jeder Seite befindet sich direkt unter der Titelleiste eine Leiste mit Aktionsschaltflächen. Diese wird als Symbolleiste bezeichnet. Die Schaltflächen unterscheiden sich von Seite zu Seite und sind manchmal inaktiv, erscheinen grau, bis ein Element in der Liste der Elemente ausgewählt wird. Der folgende Screenshot zeigt die Beitragsliste mit einem ausgewählten Beitrags-Checkbox. Die *Aktion*-Schaltfläche ist eine Dropdown-Liste, die ausgewählt wurde, um die verfügbaren Optionen anzuzeigen.
 
-![Beitragsliste mit aktivierter Aktion-Schaltfläche](../../../en/images/getting-started/articles-list.png)
+![Beitragsliste mit aktivierter Aktion-Schaltfläche](../../../en/images/getting-started/adding-an-article/01-articles-list.png)
 
 Wählen Sie die Schaltfläche *Neu* in der *Symbolleiste* der *Beiträge*-Seite, um ein Beitragsbearbeitungsformular zu öffnen.
 
@@ -22,7 +29,7 @@ Wählen Sie die Schaltfläche *Neu* in der *Symbolleiste* der *Beiträge*-Seite,
 
 Bis ein Beitrag gespeichert wurde, lautet die Bezeichnung der *Titel-Leiste* *Beiträge: Neu* und es gibt nur wenige Symbolleisten-Schaltflächen. Die *Abbrechen*-Schaltfläche kann verwendet werden, um die Erstellung eines Beitrags abzubrechen. Es gibt keine Warnmeldung. Jegliche eingegebene Inhalte werden verworfen. Nach dem Speichern lautet die Bezeichnung der Titel-Leiste *Beiträge: Bearbeiten* und die Symbolleiste verfügt über viele weitere Schaltflächen.
 
-![Beitrag Bearbeitungsformular](../../../en/images/getting-started/article-edit-form.png)
+![Beitrag Bearbeitungsformular](../../../en/images/getting-started/adding-an-article/02-article-edit-form.png)
 
 Auf der Bearbeiten-Seite gibt es eine verwirrende Anzahl von Formularfeldern, aber alle außer zwei haben sinnvolle Standardwerte. Die Felder, die ausgefüllt werden sollen:
 
@@ -36,7 +43,7 @@ Auf der Bearbeiten-Seite gibt es eine verwirrende Anzahl von Formularfeldern, ab
 
 Um zu sehen, wie es aussieht, können Sie die *Vorschau*-Schaltfläche in der Symbolleiste auswählen.
 
-![Beitragsliste mit aktivierter Aktionsschaltfläche](../../../en/images/getting-started/article-edit-preview.png)
+![Beitragsliste mit aktivierter Aktionsschaltfläche](../../../en/images/getting-started/adding-an-article/03-article-edit-preview.png)
 
 Beachten Sie die Metadaten des Beitrags: die Informationen zwischen dem Titel und dem Inhalt. Sie können konfigurieren, welche Informationen angezeigt werden und wo sie erscheinen, mit diesen anderen Formularfeldern für Beiträge. Später...
 
@@ -56,7 +63,7 @@ Eine neue Joomla-Installation hat ein Site-Menü mit einem einzelnen Menüpunkt 
 
 Der folgende Screenshot zeigt eine Seitenansicht des ersten Teils der oben beschriebenen Beiträge. Ihre neue Joomla!-Seite wird lediglich das *Hauptmenü*, das *Anmeldeformular* und Ihre Beiträge enthalten. Dieser Screenshot zeigt eine mehrsprachige Seite, die die gleiche Seite in vielen verschiedenen Sprachen anzeigt und über weiteren Inhalt verfügt, der in späteren Tutorials verwendet wird.
 
-![Seitenansicht mit Kategorieblog-Layout](../../../en/images/getting-started/article-site-view.png)
+![Seitenansicht mit Kategorieblog-Layout](../../../en/images/getting-started/adding-an-article/04-article-site-view.png)
 
 ### Breadcrumbs
 

@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Add_a_class_selector_to_the_create_link_dialog / Display title: Beitrag: Bearbeiten - Linkstile -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
+  "title": "Beitrag: Bearbeiten - Linkstile ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 
@@ -11,7 +18,7 @@ Benutzerdefinierte Linkklassen, die zu den TinyMCE-Editoroptionen hinzugefügt w
 3. Fügen Sie Klassen zur *Linkklassenliste* hinzu, z.B. Bootstrap-Klassen, um stilvolle Buttons zu erstellen. Möglicherweise müssen Sie die Liste von links nach rechts scrollen oder die Bildschirmvergrößerung ändern, um die Hinzufügen-, Entfernen- und Anordnen-Schaltflächen am Ende zu sehen.
 4. Speichern & Schließen.
 
-![Set link classes in tinymce](../../../en/images/articles/article-edit-link-style-tinymce.png)
+![Set link classes in tinymce](../../../en/images/articles/article-link-styles/01-article-edit-link-style-tinymce.png)
 
 Du kannst Beispiele für Vorlagen, die nativ Bootstrap nutzen, in der offiziellen [Bootstrap-Dokumentation](https://getbootstrap.com/docs/5.3/components/buttons/) finden.
 
@@ -52,11 +59,11 @@ Bitte verwenden Sie das Wort Beiträge anstelle von Artikel.
 6. Speichern Sie den Beitrag.
 7. Vorschau des Beitrags anzeigen.
 
-![Apply link style in an article](../../../en/images/articles/article-edit-link-style-apply.png)
+![Apply link style in an article](../../../en/images/articles/article-link-styles/02-article-edit-link-style-apply.png)
 
 Und dies ist ein Beispiel, bei dem die Link-Button-Klasse auf `btn btn-sm btn-outline-info` gesetzt wurde und der verknüpfte Text *Bootstrap* ist.
 
-![Preview of a custom Link Button](../../../en/images/articles/article-edit-link-style-preview.png)
+![Preview of a custom Link Button](../../../en/images/articles/article-link-styles/03-article-edit-link-style-preview.png)
 
 ## Erweiterte Anwendung: Anwenden benutzerdefinierter Klassen
 

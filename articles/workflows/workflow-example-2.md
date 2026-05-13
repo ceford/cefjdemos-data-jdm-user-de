@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:Workflow_Scenarios_Example_2 / Display title: Workflow-Beispiel 2 -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:Workflow_Scenarios_Example_2",
+  "title": "Workflow-Beispiel 2 ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -12,14 +19,14 @@ Erstellen Sie zuerst neue Benutzergruppen, alle Kinder von *Registriert*.
 - **Vorsitzender** Ein Kind von *Komitee*
 - **Sekretär** Ein Kind von *Komitee*
 
-![Benutzerdefinierte Benutzergruppen](../../../en/images/workflows/example-2-user-groups.png)
+![Benutzerdefinierte Benutzergruppen](../../../en/images/workflows/workflow-example-2/01-example-2-user-groups.png)
 
 ## Benutzerzugriffsebene
 
 - Erstellen Sie eine neue Ebene, **Komitee**, und fügen Sie *Komitee* den Benutzergruppen mit Zugriff auf Beiträge hinzu.
 - Fügen Sie in der *Speziellen* Zugriffsebene *Komitee* den Benutzergruppen mit Zugriff auf Beiträge hinzu.
 
-![Zugriffsebenen ansehen](../../../en/images/workflows/example-2-viewing-access-levels.png)
+![Zugriffsebenen ansehen](../../../en/images/workflows/workflow-example-2/02-example-2-viewing-access-levels.png)
 
 ## Benutzer erstellen
 
@@ -36,7 +43,7 @@ Erstellen Sie zuerst neue Benutzergruppen, alle Kinder von *Registriert*.
   - **Vorsitzender** Alle auf *Erlaubt* gesetzt, außer *Löschen*. Vielleicht...
   - **Sekretär** Alle auf *Erlaubt* gesetzt, außer *Löschen* und *Status bearbeiten*.
 
-![Liste der Workflows](../../../en/images/workflows/example-2-workflows-list.png)
+![Liste der Workflows](../../../en/images/workflows/workflow-example-2/03-example-2-workflows-list.png)
 
 ### Erstellen Sie die Workflow-Phasen
 
@@ -50,7 +57,7 @@ Erstellen Sie zuerst neue Benutzergruppen, alle Kinder von *Registriert*.
   - **Hinweis** *Papiere veröffentlicht.* 
   - **Berechtigungen** Alle auf *Geerbt* belassen.
 
-![Workflow-Phasen](../../../en/images/workflows/example-2-stages-committee-workflow.png)
+![Workflow-Phasen](../../../en/images/workflows/workflow-example-2/04-example-2-stages-committee-workflow.png)
 
 ### Erstellen Sie die Workflow-Übergänge
 
@@ -120,7 +127,7 @@ Dies ist der Übergang, der ausgeführt wird, wenn ein Ausschusspapier nicht meh
 - **Berechtigungen-Tab**
   - **Sekretär** Setzen Sie *Übergang ausführen* auf *Verweigert*.
 
-![Workflow-Übergänge](../../../en/images/workflows/example-2-transitions-committee-workflow.png)
+![Workflow-Übergänge](../../../en/images/workflows/workflow-example-2/05-example-2-transitions-committee-workflow.png)
 
 ## Eine neue Kategorie erstellen
 
@@ -142,7 +149,7 @@ Dies ist der Übergang, der ausgeführt wird, wenn ein Ausschusspapier nicht meh
 - **Kategorie auswählen** *Ausschuss*
 - **Zugriff** *Ausschuss*
 
-![Ausschusspapiere Menüpunkt](../../../en/images/workflows/example-2-menu-item.png)
+![Ausschusspapiere Menüpunkt](../../../en/images/workflows/workflow-example-2/06-example-2-menu-item.png)
 
 ## Überprüfen Sie die Seite
 
@@ -152,7 +159,7 @@ Alice, Bob und Charlie können das Menüelement sehen, aber sonst niemand, nicht
 
 Alice und Bob können auch einen Bearbeitungslink für jeden Beitrag und einen **Neuen Beitrag**-Button sehen. Dies wird normalerweise von Bob verwendet, um ein Ausschusspapier zu erstellen, aber Alice kann das auch tun.
 
-![Bobs Ansicht der Kategorieliste der Ausschusspapiere](../../../en/images/workflows/example-2-committee-papers.png)
+![Bobs Ansicht der Kategorieliste der Ausschusspapiere](../../../en/images/workflows/workflow-example-2/07-example-2-committee-papers.png)
 
 ### Um ein Ausschusspapier zu erstellen und zu veröffentlichen
 

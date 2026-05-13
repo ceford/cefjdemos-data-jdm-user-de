@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Content_Dashboard / Display title: Inhalts-Dashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Content_Dashboard",
+  "title": "Inhalts-Dashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ Das Inhalts-Dashboard wird über das Symbol rechts neben dem Menüpunkt "Inhalte
 
 ## Screenshot
 
-![Inhalts-Dashboard](../../../en/images/dashboards/content-dashboard.png)
+![Inhalts-Dashboard](../../../en/images/dashboards/content-dashboard/01-content-dashboard.png)
 
 *Übersetzt von openai.com*
 

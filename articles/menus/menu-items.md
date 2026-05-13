@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Menu_Items / Display title: Menüeinträge -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Menu_Items",
+  "title": "Menüeinträge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -8,7 +15,7 @@ Menüeinträge sind die grundlegenden Navigationseinheiten einer Joomla-Website.
 
 Menüpunkt-Typen sind in jeder Komponente definiert, die Ansichten für die Website hat. Der Joomla-Kern enthält etwa 10 solcher Komponenten, von denen jede mehrere Ansichten hat, was insgesamt über 30 Typen ergibt. Der folgende Screenshot zeigt die **Menüs: Alle Menüeinträge**-Liste mit einer Auswahl von Menüpunkt-Typen unter dem Menütitel in der **Titel**-Spalte:
 
-![Liste der Menüeinträge](../../../en/images/menus/menus-all-menu-items-list.png)
+![Liste der Menüeinträge](../../../en/images/menus/menu-items/01-menus-all-menu-items-list.png)
 
 ## Hinzufügen eines Menüpunkts
 
@@ -22,7 +29,7 @@ Im Formular **Menüs: Neuer Beitrag**:
 - Geben Sie im Feld **Titel** einen passenden kurzen Titel für den Menüpunkt ein.
 - Verwenden Sie im Feld **Menüpunkttyp** die Schaltfläche **Auswählen**, um das Dialogfeld Menüpunkttyp zu öffnen.
 
-![menüpunkte typ auswählen](../../../en/images/menus/menus-menu-items-select-type.png)
+![menüpunkte typ auswählen](../../../en/images/menus/menu-items/02-menus-menu-items-select-type.png)
 
 - Wählen Sie den benötigten Typ aus, in diesem Beispiel den Einzelbeitrag-Typ.
 
@@ -33,7 +40,7 @@ Das Dateneingabeformular **Menüs: Neuer Beitrag** wird sich ändern, um Felder 
 - **Speichern**
 - Wenn Sie die Reihenfolge dieses Beitrags im Menü ändern möchten, verwenden Sie das Feld **Reihenfolge** auf der rechten Seite. Standardmäßig ist er zuletzt. Sie können ihn **Erster** oder nach jedem anderen Menüpunkt, den Sie auswählen, anordnen.
 
-![menüpunkte beitrag bearbeiten](../../../en/images/menus/menus-menu-items-edit-item.png)
+![menüpunkte beitrag bearbeiten](../../../en/images/menus/menu-items/03-menus-menu-items-edit-item.png)
 
 - Sehen Sie sich die Website an, um zu überprüfen, ob alles wie gewünscht ist.
 

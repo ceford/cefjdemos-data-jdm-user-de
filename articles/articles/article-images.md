@@ -1,4 +1,11 @@
-<!-- Filename: Adding_an_image_to_an_article / Display title: Beitrag: Bearbeiten - Bilder  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Adding_an_image_to_an_article",
+  "title": "Beitrag: Bearbeiten - Bilder  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -20,7 +27,7 @@ Der beste Weg, um lokale Bilder einzufügen, ist die Verwendung des Buttons **CM
 
 **Wichtig:** Setzen Sie zuerst den Cursor an die Stelle, an der das Bild erscheinen soll. Dies könnte am Anfang oder Ende eines Absatzes oder in einem leeren Absatz sein.
 
-![Das Medien-Popup-Dialogfeld](../../../en/images/articles/articles-edit-images-media.png)
+![Das Medien-Popup-Dialogfeld](../../../en/images/articles/article-images/01-articles-edit-images-media.png)
 
 Navigieren Sie im Popup-Dialog zu dem Bild, das Sie verwenden möchten, und wählen Sie es aus. Bei der Auswahl erscheint ein Formular, das nach zusätzlichen Daten fragt.
 
@@ -50,7 +57,7 @@ Wenn das Bild, das Sie verwenden möchten, sich nicht im images-Ordner Ihrer Joo
 - Füllen Sie die anderen Felder nach Bedarf aus.
 - Die Registerkarte **Erweitert** bietet einige Formatierungsoptionen, die als In-Line-Stile angewendet werden. Experimentieren Sie mit 1rem, 2, groove.
 
-![Das Dialogfeld „Bild einfügen“](../../../en/images/articles/articles-edit-images-external-image.png)
+![Das Dialogfeld „Bild einfügen“](../../../en/images/articles/article-images/02-articles-edit-images-external-image.png)
 
 ### Verwenden von Drag & Drop zum Einfügen von Remote-Bildlinks
 

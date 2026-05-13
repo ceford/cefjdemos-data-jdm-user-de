@@ -1,4 +1,11 @@
-<!-- Filename: Keyboard_Shortcuts / Display title: Tastenkombinationen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Keyboard_Shortcuts",
+  "title": "Tastenkombinationen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Article_Check-out_and_Check-in / Display title: Beitrag: Check-in  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Article_Check-out_and_Check-in",
+  "title": "Beitrag: Check-in  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -32,7 +39,7 @@ Aus dem Administrator-Menü:
   **System → Wartungspanel → Globaler Check-in**.
 - Die Liste zeigt die Anzahl der ausgecheckten Elemente.
 
-![Globale Check-in-Seite](../../../en/images/articles/global-checkin.png)
+![Globale Check-in-Seite](../../../en/images/articles/article-check-in/01-global-checkin.png)
 
 - Wählen Sie in der Liste der Datenbanktabellen das Kontrollkästchen für den Typ des auszucheckenden Elements aus.
 - Wählen Sie *Check-in* aus der Toolbar.

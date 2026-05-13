@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Article_Headings / Display title: Beitrag: Bearbeiten - Überschriften -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Article_Headings",
+  "title": "Beitrag: Bearbeiten - Überschriften ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Überschrift-Semantik
 
@@ -38,7 +45,7 @@ Semantische Überschriften sollten keine Ebenen überspringen, etwa durch die Ei
 - Am unteren Bildschirmrand wird der Container-Indikator HX anzeigen.
 - Sie können auf jeden markierten Text doppelklicken, um eine schnelle Änderung vorzunehmen, z. B. von P zu H2 (Umkehr) oder H2 zu H3, indem Sie eine Popup-Leiste verwenden, wie im folgenden Screenshot gezeigt:
 
-![Beitragsbearbeitungsformular mit ausgewähltem H3](../../../en/images/articles/articles-edit-headings.png)
+![Beitragsbearbeitungsformular mit ausgewähltem H3](../../../en/images/articles/article-headings/01-articles-edit-headings.png)
 
 Hinweis: Üblicherweise verwenden alle HTML-Tags Kleinbuchstaben. Wenn Sie die Schaltfläche *Editor umschalten* auswählen, um sich den Quellcode anzusehen, werden Sie feststellen, dass die Absätze und Überschriften in Tags mit Kleinbuchstaben gesetzt sind.
 

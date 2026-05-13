@@ -1,4 +1,11 @@
-<!-- Filename: Smart_Search_Frequently_Asked_Questions / Display title: Häufig gestellte Fragen zur intelligenten Suche   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Smart_Search_Frequently_Asked_Questions",
+  "title": "Häufig gestellte Fragen zur intelligenten Suche   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Warum sollte ich Smart Search verwenden?
 

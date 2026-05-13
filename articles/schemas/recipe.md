@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org/Type_Recipe_-_Using_Recipe_Plugin / Display title: Schema.org - Rezept -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Rezept ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -30,7 +37,7 @@ Der Abschnitt *Allgemeines Feld* ermöglicht das Eingeben von *Titel* und *Wert*
 
 Nachfolgend ist ein Beispiel für ein Rezeptschema in einem Beitragsbearbeitungsformular.
 
-![A recipe schema edit form](../../../en/images/schemas/edit-schema-recipe.png)
+![A recipe schema edit form](../../../en/images/schemas/recipe/01-edit-schema-recipe.png)
 
 *Übersetzt von openai.com*
 

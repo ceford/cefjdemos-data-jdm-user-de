@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Getting_Started:_Adding_a_Menu_Item / Display title: Hinzufügen eines Menüpunktes -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Menu_Item",
+  "title": "Hinzufügen eines Menüpunktes ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -10,7 +17,7 @@ Angenommen, einer Ihrer Beiträge ist so wichtig, dass er einen Menüpunkt verdi
 
 ## Die Menü-Bearbeitungsseite
 
-![Menüpunkt-Bearbeitungsformular](../../../en/images/getting-started/menu-item-edit-form.png)
+![Menüpunkt-Bearbeitungsformular](../../../en/images/getting-started/adding-a-menu-item/01-menu-item-edit-form.png)
 
 Das Formular *Menüs: Neuer Eintrag* hat vier Pflichtfelder, die es auszufüllen gilt:
 
@@ -24,7 +31,7 @@ Das Formular *Menüs: Neuer Eintrag* hat vier Pflichtfelder, die es auszufüllen
 
 Das ist alles, was getan werden muss. Alles andere ist optional. Werfen Sie einen Blick auf die Startseite der Website. Der Menüpunkt im Hauptmenü verlinkt direkt auf diese Seite.
 
-![Seitenansicht eines einzelnen Beitrags](../../../en/images/getting-started/menu-item-single-article-site-view.png)
+![Seitenansicht eines einzelnen Beitrags](../../../en/images/getting-started/adding-a-menu-item/02-menu-item-single-article-site-view.png)
 
 ## Mehrere Menüeinträge
 
@@ -40,7 +47,7 @@ Bis jetzt läuft alles gut. Aber was passiert, wenn Sie 10, 100, 1000 oder mehr 
 
 Gehen Sie zur Startseite der Website und laden Sie sie neu. Wählen Sie den neuen Menüeintrag *Beiträge über Säugetiere* aus.
 
-![Kategorieliste der Beiträge über Säugetiere](../../../en/images/getting-started/menu-item-category-list-site-view.png)
+![Kategorieliste der Beiträge über Säugetiere](../../../en/images/getting-started/adding-a-menu-item/03-menu-item-category-list-site-view.png)
 
 Wählen Sie den Beitragstitel Säugetiere aus, um zur Beitragsansicht zu gelangen. Wenn Sie viele Beiträge haben, können Sie sie hier finden und benötigen keine einzelnen Menüeinträge für die Beiträge.
 

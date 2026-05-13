@@ -1,4 +1,11 @@
-<!-- Filename: How_do_UNIX_file_permissions_work%3F / Display title: UNIX-Dateiberechtigungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_do_UNIX_file_permissions_work%3F",
+  "title": "UNIX-Dateiberechtigungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Unix/Linux-Dateiberechtigungen können verwirrend sein. Die grundlegenden UNIX-Berechtigungen gibt es in drei Varianten:
 

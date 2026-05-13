@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Article_Pagination / Display title: Beitrag: Bearbeiten - Paginierung  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Article_Pagination",
+  "title": "Beitrag: Bearbeiten - Paginierung  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Lange Beiträge
 
@@ -16,12 +23,12 @@ Um Seitenumbrüche hinzuzufügen, öffnen Sie zunächst einen Beitrag im Textedi
   - *Inhaltsverzeichnis-Alias* – dies wird als Text im Inhaltsverzeichnis verwendet. Beispiel: Kapitel 2
 - Wählen Sie die Schaltfläche **Seitenumbruch einfügen** aus.
 
-![Seitenumbruch-Dialogformular](../../../en/images/articles/articles-edit-pagination.png)
+![Seitenumbruch-Dialogformular](../../../en/images/articles/article-pagination/01-articles-edit-pagination.png)
 
 - Wiederholen Sie dies für jeden Seitenumbruch, den Sie erstellen möchten.
 - Speichern Sie den Beitrag und sehen Sie sich die Vorschau oder die Website-Ansicht an.
 
-![Beitrags-Paginierung Website-Ansicht](../../../en/images/articles/articles-site-pagination.png)
+![Beitrags-Paginierung Website-Ansicht](../../../en/images/articles/article-pagination/02-articles-site-pagination.png)
 
 ## Bearbeiten oder Verschieben eines Seitenumbruchs
 
@@ -40,7 +47,7 @@ Sie können einen Seitenumbruch auswählen und löschen. Sie können ihn jedoch 
 
 Der Quelltext-Editor befindet sich in einem Popup-Dialog:
 
-![Quelltext-Editor](../../../en/images/articles/articles-edit-pagination-source-code.png)
+![Quelltext-Editor](../../../en/images/articles/article-pagination/03-articles-edit-pagination-source-code.png)
 
 *Übersetzt von openai.com*
 

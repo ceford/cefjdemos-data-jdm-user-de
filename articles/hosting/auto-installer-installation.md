@@ -1,4 +1,11 @@
-<!-- Filename: Installing_Joomla_using_an_Auto_Installer / Display title: Installation des Auto-Installers  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Installing_Joomla_using_an_Auto_Installer",
+  "title": "Installation des Auto-Installers  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Übersicht
 
@@ -20,7 +27,7 @@ Einige Hosting-Anbieter bieten Skript-Installer für häufig genutzte Website-So
 2.  Wählen Sie den Link *Neue Installation* in der Joomla! Übersicht.
 3.  Füllen Sie die verschiedenen Details aus und klicken Sie auf Absenden. Für jeden Schritt weiterhin auf Absenden klicken!
 
-![Fantastico joomla installierungsformular](../../../en/images/hosting/auto-installer-fantastico.jpg)
+![Fantastico joomla installierungsformular](../../../en/images/hosting/auto-installer-installation/01-auto-installer-fantastico.jpg)
 
 ## Softaculous
 
@@ -31,7 +38,7 @@ Einige Hosting-Anbieter bieten Skript-Installer für häufig genutzte Website-So
     Beispiel-Daten, die in Joomla enthalten sind, zu importieren.
 4.  Nachdem Sie die Details ausgefüllt haben, wählen Sie Abschicken.
 
-![Softaculous Joomla Installationsformular](../../../en/images/hosting/auto-installer-softaculous.jpg)
+![Softaculous Joomla Installationsformular](../../../en/images/hosting/auto-installer-installation/02-auto-installer-softaculous.jpg)
 
 Mit Auto-Installern geht das Installieren und Aktualisieren wirklich schnell.
 

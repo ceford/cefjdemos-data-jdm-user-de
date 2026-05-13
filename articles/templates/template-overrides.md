@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Template_Overrides / Display title: Template-Überschreibungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Template_Overrides",
+  "title": "Template-Überschreibungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -10,7 +17,7 @@ Viele der Joomla-Erweiterungen haben recht komplexe Ausgabe-Templates, die schwe
 
 Beginnen Sie, indem Sie im Administrator-Menü **System → Vorlagen → Seitenvorlagen** auswählen und dann auf den Punkt „Cassiopeia Details und Dateien“ klicken. Dadurch wird das Formular „Vorlagen: Anpassen (Cassiopeia)“ geöffnet:
 
-![template customise cassiopeia site tab](../../../en/images/templates/templates-customise-cassiopeia.png)
+![template customise cassiopeia site tab](../../../en/images/templates/template-overrides/01-templates-customise-cassiopeia.png)
 
 **Wichtig:** Bearbeiten Sie keine der Dateien, die als Teil der Cassiopeia-Vorlage geliefert werden. Bei der nächsten Joomla-Aktualisierung könnten diese Dateien überschrieben werden und Ihre Änderungen würden verloren gehen.
 
@@ -20,7 +27,7 @@ Der html-Ordner ist der Ort, an dem sich die Overrides befinden. Wenn Sie den ht
 
 Wählen Sie die Registerkarte Overrides erstellen, um die Liste der Module, Komponenten, Plugins und Layouts anzuzeigen, für die Sie Overrides erstellen können:
 
-![templates customise cassiopeia overrides tab](../../../en/images/templates/cassiopeia-customisation-create-overrides.png)
+![templates customise cassiopeia overrides tab](../../../en/images/templates/template-overrides/02-cassiopeia-customisation-create-overrides.png)
 
 Wählen Sie das Element mod_login aus. Die mod_login-Vorlagendateien werden in den Ordner html kopiert, und Sie kehren zur Registerkarte Editor zurück. Erweitern Sie die Ordner html und mod_login. Sie sehen default.php und default_logout.php.
 
@@ -33,7 +40,7 @@ Beachten Sie, wie einfach es ist, Dateien zu löschen, falls Sie Ihre Meinung ä
 Im Editor-Tab wählen Sie die Datei default_logout.php aus. Beachten Sie die
 Schaltflächen oben rechts: Originaldatei anzeigen und Unterschiede anzeigen. Letztere ist für den folgenden Screenshot auf Ja gesetzt, um einige hinzugefügte Codezeilen am oberen Rand der Datei zu zeigen. Diese Codezeilen berechnen, wann die Benutzersitzung nach dem Laden der Seite mit dem Logout-Formular abläuft.
 
-![templates anpassen cassiopeia Überschreibungen Tab](../../../en/images/templates/cassiopeia-customisation-edit-logout-override.png)
+![templates anpassen cassiopeia Überschreibungen Tab](../../../en/images/templates/template-overrides/03-cassiopeia-customisation-edit-logout-override.png)
 
 Der Diff-Bereich zeigt hinzugefügte Zeilen mit einem grünen Hintergrund und gelöschte Zeilen mit einem roten Hintergrund. In diesem Fall gibt es keine gelöschten Zeilen. Der Code wird hier angezeigt, falls Sie ihn kopieren und selbst ausprobieren möchten.
 
@@ -57,7 +64,7 @@ Ihre Sitzung läuft um <br><?php echo $endTime; ?>
 
 Speichern Sie die Seite und laden Sie sie erneut, die das Logout-Formular enthält.
 
-![templates anpassen cassiopeia Überschreibungen Tab](../../../en/images/templates/cassiopeia-customisation-logout-override-result.png)
+![templates anpassen cassiopeia Überschreibungen Tab](../../../en/images/templates/template-overrides/04-cassiopeia-customisation-logout-override-result.png)
 
 Sie sollten sehen, dass sich das Logout-Formular jedes Mal ändert, wenn die Seite neu geladen wird. Aber was, wenn Sie Ihre Meinung ändern? Oder verschiedene Optionen für verschiedene Benutzergruppen haben? Willkommen bei Layouts, dem Thema eines separaten Beitrags.
 
@@ -65,7 +72,7 @@ Sie sollten sehen, dass sich das Logout-Formular jedes Mal ändert, wenn die Sei
 
 Die Registerkarte Erstellen von Überschreibungen im Formular Vorlagen: Anpassen (Cassiopeia) wird verwendet, um beliebige Elemente der Joomla-Ausgabe zu erstellen, für die Überschreibungen möglich sind. Die Namen der Überschreibungsordner beginnen meist mit com\_, mod\_ oder plg\_. Beachten Sie, dass der zweite Teil eines Plugin-Überschreibungsordners die Plugin-Gruppe angibt. Hier ist eine beispielhafte Auswahl von Überschreibungsordnern:
 
-![Vorlagen anpassen Cassiopeia Überschreibungen Tab](../../../en/images/templates/templates-customise-example-override-folder.png)
+![Vorlagen anpassen Cassiopeia Überschreibungen Tab](../../../en/images/templates/template-overrides/05-templates-customise-example-override-folder.png)
 
 ## Layout-Overrides
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Multi-factor_Authentication / Display title: Multifaktor-Authentifizierung  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Multi-factor_Authentication",
+  "title": "Multifaktor-Authentifizierung  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -64,7 +71,7 @@ Beachten Sie, dass es ein separates Plugin **System - WebAuthn Passwortloser Log
 
 Das Formular Benutzer: Optionen enthält ein Formular für die Multi-Faktor-Authentifizierung, um zu konfigurieren, wie die Multi-Faktor-Authentifizierung in Joomla funktioniert. Wählen Sie die Schaltfläche Inline-Hilfe umschalten, um Informationen zu jeder Option zu erhalten.
 
-![benutzeroptionen multifaktor-authentifizierungsformular](../../../en/images/users/users-configuration-mfa.png)
+![benutzeroptionen multifaktor-authentifizierungsformular](../../../en/images/users/multi-factor-authentication/01-users-configuration-mfa.png)
 
 ## Benutzerprofil
 
@@ -72,7 +79,7 @@ Das Formular Administrator / Benutzer: Profil bearbeiten hat separate Tabs für 
 
 Das Formular Webseite / Dein Profil bearbeiten hat die Backend-Formular-Tabs übereinander angeordnet, was verwirrend sein kann, da die Web-Authentifizierung zweimal erscheint: zuerst für passwortlosen Login und dann für die Multi-Faktor-Authentifizierung. Die folgende Abbildung zeigt den Abschnitt zur Multi-Faktor-Authentifizierung des Formulars, nachdem eine Methode erstellt wurde. Dies setzt die Funktion automatisch auf aktiviert und zeigt die Option zur Erstellung von Backup-Codes an.
 
-![Ansicht des Formulars zur Multi-Faktor-Authentifizierung eines Benutzers auf der Webseite](../../../en/images/users/multi-factor-authentication-site-profile.jpg)
+![Ansicht des Formulars zur Multi-Faktor-Authentifizierung eines Benutzers auf der Webseite](../../../en/images/users/multi-factor-authentication/02-multi-factor-authentication-site-profile.jpg)
 
 Wie oben erwähnt, können Sie jede ausprobieren, indem Sie die + Hinzufügen ... Schaltfläche auswählen, aber wählen Sie Abbrechen im nachfolgenden Formular, wenn Sie sich entscheiden, nicht fortzufahren.
 

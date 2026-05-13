@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Workflow / Display title: Veröffentlichungs-Workflow -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Workflow",
+  "title": "Veröffentlichungs-Workflow ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -20,7 +27,7 @@ Es gibt eine Tutorial-Seite, die Schritte zur Erstellung eines Beispiel-Workflow
 
 Wenn Workflows aktiviert sind, kann die Liste der verfügbaren Workflows durch die Auswahl von **Content → Workflows** im Administrator-Menü angezeigt werden.
 
-![Workflow-Liste](../../../en/images/workflows/workflows-list.png)
+![Workflow-Liste](../../../en/images/workflows/workflow/01-workflows-list.png)
 
 - Der **Status** eines Workflows kann Aktiviert, Deaktiviert oder Gelöscht sein.
 - Der **Name** ist ein Link zum Bearbeitungsformular des Workflows.
@@ -33,18 +40,18 @@ Wenn Workflows aktiviert sind, kann die Liste der verfügbaren Workflows durch d
 
 Die Phasen sind über die *Workflows*-Liste zugänglich. Wählen Sie den gelben Knopf, der die Anzahl der Phasen anzeigt.
 
-![Liste der Workflow-Phasen](../../../en/images/workflows/workflow-stages-list.png)
+![Liste der Workflow-Phasen](../../../en/images/workflows/workflow/02-workflow-stages-list.png)
 
 Wählen Sie den Namen einer Phase aus, um sie zu bearbeiten.
 
-![Bearbeitungsformular der Workflow-Phase](../../../en/images/workflows/workflow-stage-edit.png)
+![Bearbeitungsformular der Workflow-Phase](../../../en/images/workflows/workflow/03-workflow-stage-edit.png)
 
 ## Übergänge
 
 In Workflows wechseln Beiträge von einer Phase zur nächsten. Die Übergänge werden
 über die *Übergänge* Liste verwaltet.
 
-![Die Übergänge Liste](../../../en/images/workflows/workflow-transitions-list.png)
+![Die Übergänge Liste](../../../en/images/workflows/workflow/04-workflow-transitions-list.png)
 
 - Die *Aktuelle Phase* definiert, wo dieser Übergang beginnt.
 - Die *Zielphase* definiert, wo dieser Übergang endet.
@@ -53,12 +60,12 @@ In Workflows wechseln Beiträge von einer Phase zur nächsten. Die Übergänge w
 
 Die *Aktuelle* und *Zielphasen* werden im *Übergang Bearbeiten* Formular festgelegt:
 
-![Übergang Bearbeiten Formular](../../../en/images/workflows/workflow-transition-edit.png)
+![Übergang Bearbeiten Formular](../../../en/images/workflows/workflow/05-workflow-transition-edit.png)
 
 Der Tab *Übergangsaktionen* wird verwendet, um den *Status* des Elements zu definieren,
 nachdem der Übergang abgeschlossen ist.
 
-![Übergang Bearbeiten Formular Aktionen Tab](../../../en/images/workflows/workflow-transition-edit-actions-tab.png)
+![Übergang Bearbeiten Formular Aktionen Tab](../../../en/images/workflows/workflow/06-workflow-transition-edit-actions-tab.png)
 
 - **Hervorhebungsstatus** Ob das Element *Hervorgehoben* wird oder nicht.
 - **Veröffentlichungsstatus** Wählen Sie aus der Liste den Zielstatus.
@@ -68,7 +75,7 @@ Benachrichtigung für diesen Status gesendet wird. Zum Beispiel, wenn ein Beitra
 geschrieben wurde, aber noch lektoriert werden muss, könnte eine E-Mail an den 
 Editor gesendet werden.
 
-![Übergang Bearbeiten Formular Benachrichtigungen Tab](../../../en/images/workflows/workflow-transition-edit-notifications-tab.png)
+![Übergang Bearbeiten Formular Benachrichtigungen Tab](../../../en/images/workflows/workflow/07-workflow-transition-edit-notifications-tab.png)
 
 - **Benachrichtigung senden** Wenn auf *Ja* gesetzt, erscheinen zusätzliche Felder.
 - **Zusätzlicher Nachrichtentext** Fügen Sie zusätzlichen Nachrichtentext hinzu oder 
@@ -89,7 +96,7 @@ Die Workflow-Plugins werden für Aktionen eingesetzt, die durch Übergänge aufg
 **System → Plugins** und ändern Sie den Filter *- Typ auswählen -* in *workflow*.
 Jedes dieser Plugins kann deaktiviert werden, wenn es nicht benötigt wird.
 
-![Workflow Plugins Liste](../../../en/images/workflows/workflow-plugins.png)
+![Workflow Plugins Liste](../../../en/images/workflows/workflow/08-workflow-plugins.png)
 
 - **Workflow Hervorhebung** Diese Aktion implementiert die Änderung des 
   *Hervorgehobenen* Status eines Beitrags von *Ja* zu *Nein*.
@@ -105,7 +112,7 @@ Jedes dieser Plugins kann deaktiviert werden, wenn es nicht benötigt wird.
 
 Beiträge können Kategorien zugewiesen werden. Sie entsprechen einem bestimmten Workflow und können auf verschiedene Weise angepasst werden. Sie können einen Status, eine übergeordnete Kategorie festlegen und auch den Zugriff sowie die Berechtigungen einschränken. Diese Option befindet sich nicht im Workflow-Bildschirm. Für diese Option müssen Sie zu **Inhalt → Kategorien** gehen. Öffnen Sie dort eine beliebige Kategorie und Sie sehen einen *Workflows*-Reiter.
 
-![Beiträge Kategorie Workflow bearbeiten](../../../en/images/workflows/workflow-categories-blog.png)
+![Beiträge Kategorie Workflow bearbeiten](../../../en/images/workflows/workflow/09-workflow-categories-blog.png)
 
 ### Beispiel
 

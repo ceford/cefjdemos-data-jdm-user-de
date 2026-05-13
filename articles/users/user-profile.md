@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:User_Profile / Display title: Benutzerprofil -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:User_Profile",
+  "title": "Benutzerprofil ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Registrierungsdaten
 
@@ -10,7 +17,7 @@ Die Benutzerinformationen, die mit dem Standardformular zur Benutzerregistrierun
 - Im zweiten Teil des Formulars deaktivieren Sie alle Elemente, die nicht im Benutzerprofilformular erscheinen sollen.
 - Speichern & Schließen
 
-![benutzerprofil-plugin](../../../en/images/users/user-profile-plugin.png)
+![benutzerprofil-plugin](../../../en/images/users/user-profile/01-user-profile-plugin.png)
 
 - Wenn die Selbstregistrierung erlaubt ist, öffnen Sie das Benutzerregistrierungsformular, um zu überprüfen, ob alle zusätzlichen Benutzerprofilfelder vorhanden sind.
 - Erstellen Sie im Administrator-Menü einen neuen Benutzer oder bearbeiten Sie einen vorhandenen Benutzer. Wählen Sie die Registerkarte **Benutzerprofil** und überprüfen Sie, ob alle zusätzlichen Benutzerprofilfelder vorhanden sind.
@@ -28,11 +35,11 @@ Vom Administrator-Menü aus:
 - Stellen Sie das Feld **Zugriff** auf **Registriert** ein. Dies ist WICHTIG! Der Menüpunkt sollte nur beim Einloggen sichtbar sein.
 - Speichern und schließen.
 
-![Benutzerprofil-Menüpunkt-Formular](../../../en/images/users/user-profile-menu-item-form.png)
+![Benutzerprofil-Menüpunkt-Formular](../../../en/images/users/user-profile/02-user-profile-menu-item-form.png)
 
 - Melden Sie sich auf der Website an und verwenden Sie den Link, um das Benutzerprofil zu überprüfen.
 
-![Benutzerprofil-Zusammenfassung](../../../en/images/users/user-profile-summary.png)
+![Benutzerprofil-Zusammenfassung](../../../en/images/users/user-profile/03-user-profile-summary.png)
 
 - Probieren Sie die Schaltfläche **Profil bearbeiten** aus.
 

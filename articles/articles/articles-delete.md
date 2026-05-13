@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Deleting_an_Article / Display title: Beiträge: Löschen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Deleting_an_Article",
+  "title": "Beiträge: Löschen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -19,7 +26,7 @@ In Joomla ist das Löschen eines Beitrags ein zweistufiger Prozess. Die erste St
 - Wählen Sie die Schaltfläche **Aktionen** in der Symbolleiste.
 - Wählen Sie **Papierkorb** im Dropdown-Menü.
 
-![Beitrag zum Löschen ausgewählt](../../../en/images/articles/articles-selected-to-trash.png)
+![Beitrag zum Löschen ausgewählt](../../../en/images/articles/articles-delete/01-articles-selected-to-trash.png)
 
 Es wird eine Bestätigungsmeldung angezeigt, und der Beitrag wird aus der aktuellen Liste der Beiträge verschwunden sein, da diese normalerweise keine gelöschten Elemente enthält.
 
@@ -32,7 +39,7 @@ Um die Liste der gelöschten Beiträge anzuzeigen:
 - Wählen Sie die Schaltfläche **Filteroptionen**, um die Liste der Filter zu öffnen.
 - Wählen Sie **Gelöscht** aus der Liste *-- Status auswählen --*.
 
-![Anzeige der gelöschten Beiträge](../../../en/images/articles/articles-trash-list.png)
+![Anzeige der gelöschten Beiträge](../../../en/images/articles/articles-delete/02-articles-trash-list.png)
 
 ### Wiederherstellen
 

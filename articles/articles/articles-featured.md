@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Featured_Articles / Display title: Beiträge: Vorgestellt -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Featured_Articles",
+  "title": "Beiträge: Vorgestellt ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -20,7 +27,7 @@ Um die für ein *Featured Articles* Layout ausgewählten Beiträge zu sehen:
 
 Der folgende Screenshot zeigt eine Liste ausgewählter Beiträge mit vier Artikeln, genug, um ein interessantes Blog-Layout zu erstellen.:
 
-![Ausgewählte Beiträge](../../../en/images/articles/articles-featured.png)
+![Ausgewählte Beiträge](../../../en/images/articles/articles-featured/01-articles-featured.png)
 
 ### Reihenfolge der ausgewählten Beiträge
 
@@ -32,7 +39,7 @@ Ein Blog-Layout funktioniert am besten, wenn die Textmenge in jedem Beitrag auf 
 
 ## Erscheinungsbild der Website
 
-![Ansicht der Beitragsfunktion auf der Website](../../../en/images/articles/articles-featured-site.png)
+![Ansicht der Beitragsfunktion auf der Website](../../../en/images/articles/articles-featured/02-articles-featured-site.png)
 
 *Übersetzt von openai.com*
 

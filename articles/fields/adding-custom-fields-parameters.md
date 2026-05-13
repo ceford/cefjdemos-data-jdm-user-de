@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Parameters_for_all_Custom_Fields / Display title: Feldparameter -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Feldparameter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Felddaten-Eingabeformular
 
@@ -9,7 +16,7 @@ Eine Felderliste wird zunächst leer sein. Um zu beginnen, zum Beispiel mit Beit
 
 Das Formular besteht aus einem Titelfeld und vier Registerkarten.
 
-![Allgemeine Registerkarte der Feldparameter](../../../en/images/fields/fields-parameters-general-tab.png)
+![Allgemeine Registerkarte der Feldparameter](../../../en/images/fields/adding-custom-fields-parameters/01-fields-parameters-general-tab.png)
 
 ## Titel
 
@@ -44,7 +51,7 @@ Der Titel wird auf der *Beiträge: Felder* Listen-Seite angezeigt, wo er ausgew�
 
 ### Optionen Registerkarte
 
-![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/fields-parameters-options-tab.png)
+![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/adding-custom-fields-parameters/02-fields-parameters-options-tab.png)
 
 #### Formularoptionen
 
@@ -80,13 +87,13 @@ Der Titel wird auf der *Beiträge: Felder* Listen-Seite angezeigt, wo er ausgew�
 
 ### Veröffentlichung Registerkarte
 
-![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/fields-parameters-publishing-tab.png)
+![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/adding-custom-fields-parameters/03-fields-parameters-publishing-tab.png)
 
 ### Berechtigungen Registerkarte
 
 Die Berechtigungen für jede Benutzergruppe sind selbsterklärend für die Aktionen *Löschen*, *Bearbeiten* und *Status bearbeiten*. Die Berechtigungen zeigen, wer was mit dem gesamten Feld tun darf – also z. B. es löschen, ändern oder dessen Veröffentlichung aufheben.
 
-![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/fields-parameters-permissions-tab.png)
+![Feldparameter allgemeinen Registerkarte](../../../en/images/fields/adding-custom-fields-parameters/04-fields-parameters-permissions-tab.png)
 
 Die Berechtigung *Benutzerdefinierten Feldwert bearbeiten* kann verwirrend sein. Sie legt fest, wer den Inhalt des Feldes ändern darf. Standardmäßig ist sie für alle Gruppen außer den Super Benutzern auf **Nicht erlaubt (Vererbt)** gesetzt. Zwei Beispiele:
 

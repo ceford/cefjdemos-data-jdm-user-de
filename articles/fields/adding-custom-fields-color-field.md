@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Color_Field / Display title: Farbfläche -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Farbfläche ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -10,7 +17,7 @@ Spezielle Optionen für dieses Feld:
 
 - **Feldklasse** Setzen Sie auf *w-auto*, um das Feld nur so breit wie nötig für den Farbfelder und den Wert zu machen.
 
-![Farbe Feld Erstellung](../../../en/images/fields/fields-colour-edit.png)
+![Farbe Feld Erstellung](../../../en/images/fields/adding-custom-fields-color-field/01-fields-colour-edit.png)
 
 **Hinweis:** In diesem Beispiel ist die Aufnahme des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie es in Ihren eigenen Feldtiteln weg.
 
@@ -18,7 +25,7 @@ Spezielle Optionen für dieses Feld:
 
 Sie können einen Hex-Farbwert eingeben, wenn Sie wissen, dass Hex-Zahlen von 0 bis 9 und dann von a bis f reichen. Die Zahlenpaare stehen dabei für Rot, Grün und Blau. Also steht #00ff00 für kein Rot, maximales Grün und kein Blau. Alternativ können Sie einen Cursor verwenden, um eine Farbe visuell auszuwählen.
 
-![Feldeingabe für Farbe](../../../en/images/fields/fields-colour-data-entry.png)
+![Feldeingabe für Farbe](../../../en/images/fields/adding-custom-fields-color-field/02-fields-colour-data-entry.png)
 
 
 ## Datenanzeige
@@ -38,5 +45,5 @@ Und der Hex-Wert wird durch ein Farbmuster mit der Hintergrundfarbe des Wertes v
 
 Suchen Sie nach dem **Blumenfarbe**-Eintrag.
 
-![Feldanzeige der Farben auf der Website](../../../en/images/fields/fields-colour-site.png)
+![Feldanzeige der Farben auf der Website](../../../en/images/fields/adding-custom-fields-color-field/03-fields-colour-site.png)
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Child_Templates / Display title: Kindvorlagen  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Child_Templates",
+  "title": "Kindvorlagen  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -14,7 +21,7 @@ Beginnen Sie mit **System → Vorlagen-Panel → Website-Vorlagen**
 - Wählen Sie die Schaltfläche *Untervorlage erstellen*.
 - Füllen Sie das Popup-Dialogfeld für die Untervorlage aus und wählen Sie die Schaltfläche Untervorlage erstellen:
 
-![child template modal create form](../../../en/images/templates/child-templates-create-green.png)
+![child template modal create form](../../../en/images/templates/child-templates/01-child-templates-create-green.png)
 
 Die Auswahl von Cassiopeia - Standard im Feld Zusätzliche Vorlagenstile scheint unnötig zu sein (ist das ein Fehler?).
 
@@ -31,7 +38,7 @@ An diesem Punkt gibt es eine Ordnerstruktur, aber nur eine Datei: templateDetail
 - Wählen Sie den Dateityp `.css`.
 - Wählen Sie die Schaltfläche *Erstellen*.
 
-![child template create user css form](../../../en/images/templates/child-templates-create-green-user-css.png)
+![child template create user css form](../../../en/images/templates/child-templates/02-child-templates-create-green-user-css.png)
 
 Die Datei user.css ist leer und bereit für Ihre eigenen benutzerdefinierten Stile. Geben Sie folgendes ein, um das grüne Thema zu starten:
 ```css
@@ -80,7 +87,7 @@ An diesem Punkt wird ein Menüpunkt benötigt, um die Untervorlage zu verwenden.
 - Wählen Sie einen Menüpunkt-Typ aus dem Popup-Dialog für Menüpunkt-Typ - Vorgestellte Beiträge in diesem Beispiel.
 - Wählen Sie *cassiopeia_manual - Standard* aus dem Formularfeld *Vorlagenstil*.
 
-![child template menu item edit form](../../../en/images/templates/child-templates-create-green-menu-item.png)
+![child template menu item edit form](../../../en/images/templates/child-templates/03-child-templates-create-green-menu-item.png)
 
 - Für den Zweck des folgenden Screenshots wurde das Blog-Layout auf Hauptbeiträge: 0, Einführungselemente: 3 und Mehrs­paltige Anordnung: Quer eingestellt.
 
@@ -88,7 +95,7 @@ An diesem Punkt wird ein Menüpunkt benötigt, um die Untervorlage zu verwenden.
 
 - Auf der Startseite Ihrer Website wählen Sie den neu erstellten Menüpunkt.
 
-![site showing custom green theme template](../../../en/images/templates/child-templates-green-site-result.png)
+![site showing custom green theme template](../../../en/images/templates/child-templates/04-child-templates-green-site-result.png)
 
 ### Stil bearbeiten
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:How_To_Use_Content_Tags_in_Joomla / Display title: Inhalts-Tags -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
+  "title": "Inhalts-Tags ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -22,7 +29,7 @@ Die Tag-Anzeige kann deaktiviert werden! Dies mag unlogisch erscheinen, ist aber
 
 - Wählen Sie **Komponenten → Tags** aus dem Administrator-Menü.
 
-![die Tags-Liste Seite](../../../en/images/tags/tags-list.png)
+![die Tags-Liste Seite](../../../en/images/tags/content-tags/01-tags-list.png)
 
 Unabhängig davon, wie Tags erstellt werden, können sie in dieser Liste gefunden werden.
 
@@ -32,7 +39,7 @@ Unabhängig davon, wie Tags erstellt werden, können sie in dieser Liste gefunde
 
 Wählen Sie die Schaltfläche **Neu** in der Symbolleiste der Tag-Liste.
 
-![neuer Tag namens predator](../../../en/images/tags/new-tag-predator.png)
+![neuer Tag namens predator](../../../en/images/tags/content-tags/02-new-tag-predator.png)
 
 - **Titel** Dies ist das einzige *Pflichtfeld*.
 - **Alias** Dieser wird beim Speichern aus dem Titel erstellt.
@@ -67,7 +74,7 @@ Wo auch immer Sie neue Tags in Joomla hinzufügen, werden sie alle in der Tag-Li
 
 ### Der Tag-Liste-Filter
 
-![Tags Liste Filter nach Typ](../../../en/images/tags/tags-list-filter.png)
+![Tags Liste Filter nach Typ](../../../en/images/tags/content-tags/03-tags-list-filter.png)
 
 Sie können die Liste auf verschiedene Weise beeinflussen:
 
@@ -94,11 +101,11 @@ Im Tag-Bearbeitungsformular:
 
 Sobald Tags auf Ihrer Website erstellt wurden, können sie nicht nur in Inhalten, sondern auch in einigen nützlichen Modulen wie **Beliebte Tags** und **Ähnliche Tags** verwendet werden. Die folgenden Beispiele zeigen, wie diese auf einer Standardinstallation mit dem Standard-Template **Cassiopeia** aussehen.
 
-![Beispiel zur Nutzung von Tags auf der Website, gelber Labrador](../../../en/images/tags/tag-examples-yellow-labrador.png)
+![Beispiel zur Nutzung von Tags auf der Website, gelber Labrador](../../../en/images/tags/content-tags/04-tag-examples-yellow-labrador.png)
 
 Wenn Sie auf eines der Tags klicken, gelangen Sie zu einer Seite, die alle Beiträge auflistet, die diesem bestimmten Tag zugewiesen sind:
 
-![Beispiel zur Nutzung von Tags auf der Website, schwarzer Labrador](../../../en/images/tags/tag-examples-black-labrador.png)
+![Beispiel zur Nutzung von Tags auf der Website, schwarzer Labrador](../../../en/images/tags/content-tags/05-tag-examples-black-labrador.png)
 
 Ein Klick auf einen Tag führt Sie zu einer Seite, die eine Liste aller mit diesem speziellen Tag versehenen Beiträge ausgibt. Im Grunde ist es eine gefilterte Liste Ihrer getaggten Website-Inhalte. Ein Filterfeld wird bereitgestellt, um das Auffinden von Beiträgen zu erleichtern, wenn die Liste wächst. Sie können auch die Anzahl der Ergebnisse festlegen, die Sie in einer einzelnen Ansicht sehen möchten.
 

@@ -1,10 +1,17 @@
-<!-- Filename: J5.x:Improving_SEO_with_Strict_Routing_and_SEF_URLs / Display title: SEO Strikte Weiterleitung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Improving_SEO_with_Strict_Routing_and_SEF_URLs",
+  "title": "SEO Strikte Weiterleitung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
 Die Option "Striktes Routing", die in Joomla 5.2 eingeführt wurde, verbessert die SEO-Leistung der Plattform, indem sie strengere Routing-Regeln mithilfe eines Schalters im *System - SEF* Plugin ermöglicht. Sie hilft, doppelte Inhalte zu eliminieren, indem sie konsistentere URLs erzwingt und Duplikate mit einer 301-Weiterleitung zur korrekten URL umleitet.
 
-![system sef plugin settings](../../../en/images/seo/seo-system-sef-plugin.png)
+![system sef plugin settings](../../../en/images/seo/strict-routing/01-seo-system-sef-plugin.png)
 
 ### Erzwingen von Suffixen
 

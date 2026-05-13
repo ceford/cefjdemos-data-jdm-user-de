@@ -1,4 +1,11 @@
-<!-- Filename: Entering_raw_HTML_in_editors / Display title: HTML-Filter -->
+<!--
+{
+  "source": "https://docs.joomla.org/Entering_raw_HTML_in_editors",
+  "title": "HTML-Filter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## HTML-Textarea-Tag
 
@@ -23,7 +30,7 @@ Sie können einen der verfügbaren Editoren auswählen, einschließlich „Keine
 
 Wählen Sie im Haupt-Dashboard die Option Globale Konfiguration und dann die Registerkarte Textfilter. Die Standardeinstellungen haben *Kein HTML* für die Gruppen Gast, Öffentlich und Registriert ausgewählt. Jede dieser Gruppen könnte die Möglichkeit haben, ein Textfeld auszufüllen, beispielsweise in einem Kontaktformular, das zusätzliche Informationen zu einem Problem anfordert, sodass das automatische Entfernen aller HTML-Tags in der Regel angemessen ist. Andere Gruppen, mit Ausnahme der Super-Benutzer, sind durch die Standard-Verboten-Liste eingeschränkt. Super-Benutzer haben keine Filterung.
 
-![globale Konfiguration der Textfilter](../../../en/images/configuration/global-configuration-filters-tab.png) 
+![globale Konfiguration der Textfilter](../../../en/images/editors/html-filters/01-global-configuration-filters-tab.png) 
 
 Die Anmerkungen erklären, was in der Standard-Verboten-Liste enthalten ist und wie die anderen Listen verwendet werden.
 

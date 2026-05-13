@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Text_Field / Display title: Textfeld -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Textfeld ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -14,7 +21,7 @@ Besondere Optionen in diesem Feld sind:
 - **Präfix** Dies erscheint vor dem Text in der Beitragsausgabe. Beispiel: £.
 - **Suffix** Dies erscheint nach dem Text in der Beitragsausgabe, Beispiel: EUR.
 
-![Textfeld-Erstellung](../../../en/images/fields/fields-text-edit.png)
+![Textfeld-Erstellung](../../../en/images/fields/adding-custom-fields-text-field/01-fields-text-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Aufnahme des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie es in Ihren eigenen Feldtiteln weg.
 
@@ -22,13 +29,13 @@ Besondere Optionen in diesem Feld sind:
 
 Einfach: Geben Sie Ihren Text ein.
 
-![Texteingabefeld](../../../en/images/fields/fields-text-data-entry.png)
+![Texteingabefeld](../../../en/images/fields/adding-custom-fields-text-field/02-fields-text-data-entry.png)
 
 ## Datenanzeige
 
 Der folgende Screenshot der Website zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist für die Position des Feldes verantwortlich, und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![Textfeld Site-Anzeige](../../../en/images/fields/fields-text-site.png)
+![Textfeld Site-Anzeige](../../../en/images/fields/adding-custom-fields-text-field/03-fields-text-site.png)
 
 Das Feld Text folgt dem Feld Label.
 *Übersetzt von openai.com*

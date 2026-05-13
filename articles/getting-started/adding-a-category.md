@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Getting_Started:_Adding_a_Category / Display title: Hinzufügen einer Kategorie  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Category",
+  "title": "Hinzufügen einer Kategorie  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -50,7 +57,7 @@ Menüelemente werden in einem späteren Beitrag behandelt.
 
 Das folgende Beispiel verwendet eine Kategorie "Säugetiere", inspiriert von der obigen Liste, um zu demonstrieren, wie man eine neue Kategorie erstellt:
 
-![Kategorie-Bearbeitungsformular](../../../en/images/getting-started/article-category-edit.png)
+![Kategorie-Bearbeitungsformular](../../../en/images/getting-started/adding-a-category/01-article-category-edit.png)
 
 - Wählen Sie den **Inhalt**-Punkt aus dem Administrator-Menü, um ihn zu erweitern.
 - Wählen Sie das **+**-Symbol neben dem Menüpunkt *Kategorien*, um das Kategorie-Bearbeitungsformular zu öffnen.

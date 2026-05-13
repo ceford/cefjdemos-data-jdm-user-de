@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:Article_Access_Restriction / Display title: Beitrag: Zugriffsbeschränkung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:Article_Access_Restriction",
+  "title": "Beitrag: Zugriffsbeschränkung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -10,7 +17,7 @@ Dieser Beitrag beschreibt die Implementierung der Zugangsbeschränkung im *Beitr
 
 Joomla bietet die Zugriffsebenen, die im folgenden Screenshot zu sehen sind:
 
-![Benutzerzugriffsebenen](../../../en/images/articles/article-access-user-groups.png)
+![Benutzerzugriffsebenen](../../../en/images/articles/article-access-restriction/01-article-access-user-groups.png)
 
 Die Zugriffsebenen erscheinen im *Inhalt*-Tab des Formulars *Beitrag: Bearbeiten*.
 

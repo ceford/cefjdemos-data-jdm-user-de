@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:FatalError / Display title: FatalError  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:FatalError",
+  "title": "FatalError  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -9,11 +16,11 @@ Von Zeit zu Zeit kann es vorkommen, dass Joomla statt der erwarteten Seite eine 
 
 ### Systemfehlerseite
 
-![System schwerwiegende Fehlerseite](../../../en/images/problems/fatal-error.png)
+![System schwerwiegende Fehlerseite](../../../en/images/problems/fatalerror/01-fatal-error.png)
 
 ### Template-Fehlerseite
 
-![Template-Fehlerseite](../../../en/images/problems/template-error.png)
+![Template-Fehlerseite](../../../en/images/problems/fatalerror/02-template-error.png)
 
 ## So beheben Sie das Problem
 
@@ -43,7 +50,7 @@ Datei *configuration.php* im Stammordner Ihrer Joomla-Website.
 
 Nachdem die Änderungen vorgenommen wurden, laden Sie die Seite erneut, die den Fehler verursacht hat. Nun sollten Sie eine Stack-Tracelog sehen. Beispiel:
 
-![Vorlagen-Fehlerseite](../../../en/images/problems/template-error-stack-trace.png)
+![Vorlagen-Fehlerseite](../../../en/images/problems/fatalerror/03-template-error-stack-trace.png)
 
 Der erste Eintrag im Stack-Tracelog zeigt an, wo der Fehler ausgelöst wurde. Manchmal reicht das aus, um die fehlerhafte Erweiterung zu identifizieren. Manchmal liegt die fehlerhafte Erweiterung weiter unten im Stack-Tracelog. Das mag für Sie vielleicht nicht viel bedeuten, aber das Stack-Tracelog ist äußerst wertvoll für die Experten, die Fragen in den Joomla-Foren beantworten.
 

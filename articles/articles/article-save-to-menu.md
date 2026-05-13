@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Adding_a_menu_link_in_an_article / Display title: Beitrag: Zum Menü hinzufügen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Adding_a_menu_link_in_an_article",
+  "title": "Beitrag: Zum Menü hinzufügen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

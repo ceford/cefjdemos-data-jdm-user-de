@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Banners / Display title: Banner  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Banners",
+  "title": "Banner  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Über Banner
 

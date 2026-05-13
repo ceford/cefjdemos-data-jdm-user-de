@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org / Display title: Einführung in Schemas -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Einführung in Schemas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Rich Snippets
 
@@ -18,7 +25,7 @@ In Joomla werden Rich Snippets mithilfe von strukturierten Daten-Markups basiere
 
 Um zu beginnen, gehen Sie zu **System -> Plugins** und aktivieren Sie das *System - Schema.org* Plugin. Wenn dieses Plugin nicht aktiviert ist, wird es keine Schema-Registerkarte in einem Beitragsbearbeitungsformular geben, selbst wenn alle einzelnen Plugins aktiviert sind.
 
-![List of schema plugins](../../../en/images/schemas/schema-plugins-list.png)
+![List of schema plugins](../../../en/images/schemas/introduction-to-schema-org/01-schema-plugins-list.png)
 
 ### System Bearbeiten - Schema.org Plugin
 
@@ -28,13 +35,13 @@ Um zu beginnen, gehen Sie zu **System -> Plugins** und aktivieren Sie das *Syste
 - **Social-Media-Konten** Fügen Sie Ihre Unternehmens- oder persönlichen Social-Media-Konten hinzu. Wählen Sie das grüne Pluszeichen, um Zeilen zum Formular hinzuzufügen.
 - Wählen Sie **Speichern & Schließen**.
 
-![edit system schema org plugin](../../../en/images/schemas/edit-system-schema-org-plugin.png)
+![edit system schema org plugin](../../../en/images/schemas/introduction-to-schema-org/02-edit-system-schema-org-plugin.png)
 
 ### Einen Beitrag bearbeiten
 
 Gehe zu einem deiner Beiträge und fülle die Schema-Formularfelder aus. Wenn der *Schema-Typ* auf *Keine* gesetzt ist, die Standardeinstellung, gibt es keine Felder zum Ausfüllen. Wähle ein beliebiges Schema, um eine Liste von Feldern zu sehen, die für dieses Schema geeignet sind. Der folgende Screenshot zeigt einen Beitrag mit dem gewählten Artikel-Schema:
 
-![edit article scheme form](../../../en/images/schemas/schema-form-in-an-article.png)
+![edit article scheme form](../../../en/images/schemas/introduction-to-schema-org/03-schema-form-in-an-article.png)
 
 ### Ausgabe
 

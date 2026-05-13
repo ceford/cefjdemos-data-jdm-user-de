@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Media:_Upload_Delete_Rename / Display title: Hochladen Löschen Umbenennen  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Media:_Upload_Delete_Rename",
+  "title": "Hochladen Löschen Umbenennen  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einfache Medienfunktionen
 

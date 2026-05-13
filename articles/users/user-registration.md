@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:User_Registration / Display title: Benutzerregistrierung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:User_Registration",
+  "title": "Benutzerregistrierung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Registrierungsrichtlinie
 
@@ -16,7 +23,7 @@ Die Selbstregistrierung von Benutzern ist standardmäßig nicht erlaubt. Jeder n
   - Selbst: Der Benutzer erhält eine E-Mail mit einem Aktivierungslink. Das Konto wird aktiviert, wenn der Benutzer auf den Aktivierungslink klickt.
   - Administrator: Der Benutzer erhält eine E-Mail mit einem Aktivierungslink. Wenn der Benutzer auf diesen Link klickt, wird der Seitenadministrator per E-Mail benachrichtigt. Der Seitenadministrator muss dann das Konto des Benutzers aktivieren.
 
-![Benutzerkonfiguration Benutzeroptionen-Registerkarte](../../../en/images/users/users-configuration-user-options.png)
+![Benutzerkonfiguration Benutzeroptionen-Registerkarte](../../../en/images/users/user-registration/01-users-configuration-user-options.png)
 
 - **Speichern & Schließen**
 - Fügen Sie ein *Login*-Modul hinzu. Oder
@@ -34,7 +41,7 @@ Wenn die Selbstregistrierung nicht erlaubt ist, muss jeder neue Benutzer von ein
 - Wählen Sie **Benutzer** → **Verwalten +** im Administrator-Menü.
 - Füllen Sie das Formular **Benutzerdetails hinzufügen** aus. Die meisten Felder haben geeignete Standardwerte.
 
-![Neue Benutzerdaten-Eingabeseite](../../../en/images/users/users-new-user.png)
+![Neue Benutzerdaten-Eingabeseite](../../../en/images/users/user-registration/02-users-new-user.png)
 
 - Wählen Sie den Tab **Zugeordnete Benutzergruppen** und aktivieren Sie das Kontrollkästchen der gewünschten Benutzergruppe. Registriert ist standardmäßig aktiviert.
 - **Speichern & Schließen**.
@@ -50,7 +57,7 @@ Um einen Benutzer zu sperren:
 - Suchen Sie den Benutzer in der *Benutzer* Liste. Nutzen Sie den Textfilter, falls nötig.
 - Wählen Sie das Aktiviert-Symbol, das als grüner Haken neben dem Benutzernamen erscheint. Beim Überfahren mit der Maus erscheint ein **Sperren**-Label.
 
-![Neue Benutzerdateneingabeseite](../../../en/images/users/users-hover-block.png)
+![Neue Benutzerdateneingabeseite](../../../en/images/users/user-registration/03-users-hover-block.png)
 
 - Wählen Sie das *Aktiviert*-Symbol. Die Seite wird neu geladen, wobei das Aktiviert-Symbol als graues Kreuz erscheint.
 

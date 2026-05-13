@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org/Type_Organization_-_Using_Organization_Plugin / Display title: Schema.org - BlogPosting -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - BlogPosting ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -30,7 +37,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ein Beispiel eines BlogPosting-Schemas in einem Beitragsbearbeitungsformular.
 
-![A blogposting schema edit form](../../../en/images/schemas/edit-schema-blogposting.png)
+![A blogposting schema edit form](../../../en/images/schemas/blogposting/01-edit-schema-blogposting.png)
 
 *Übersetzt von openai.com*
 

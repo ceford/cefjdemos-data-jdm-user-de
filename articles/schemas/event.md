@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org/Type_Event_-_Using_Event_Plugin / Display title: Schema.org - Ereignis -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Ereignis ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -21,7 +28,7 @@ Die *Generisches Feld*-Sektion ermöglicht das Eingeben von *Titel*- und *Wert*-
 
 Unten ist ein Beispiel für ein Veranstaltungsschema in einem Bearbeitungsformular für Beiträge.
 
-![An event schema edit form](../../../en/images/schemas/edit-schema-event.png)
+![An event schema edit form](../../../en/images/schemas/event/01-edit-schema-event.png)
 
 *Übersetzt von openai.com*
 

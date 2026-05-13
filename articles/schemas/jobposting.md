@@ -1,4 +1,11 @@
-<!-- Filename: J5.x:Schema_org/Type_JobPosting_-_Using_JobPosting_Plugin / Display title: Schema.org - Stellenanzeige -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Stellenanzeige ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -29,7 +36,7 @@ Der Abschnitt *Allgemeines Feld* ermöglicht die Eingabe von *Titel* und *Wert*-
 
 Nachfolgend ein Beispiel für ein JobPosting-Schema in einem Beitrags-Bearbeitungsformular.
 
-![A jobposting schema edit form](../../../en/images/schemas/edit-schema-jobposting.png)
+![A jobposting schema edit form](../../../en/images/schemas/jobposting/01-edit-schema-jobposting.png)
 
 Bitte den folgenden Markdown-Text von Englisch auf Deutsch übersetzen. Bitte verwende das Wort Beiträge anstelle von Artikel. :  
 *Übersetzt von openai.com*

@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Sql_Field / Display title: SQL Feld -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "SQL Feld ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -19,7 +26,7 @@ FROM `#__countrybase_countries`
 WHERE `state` = 1
 ORDER BY `title` ASC
 ```
-![SQL Feld Erstellung](../../../en/images/fields/fields-sql-edit.png)
+![SQL Feld Erstellung](../../../en/images/fields/adding-custom-fields-sql-field/01-fields-sql-edit.png)
 
 **Hinweis:** In diesem Beispiel ist die Aufnahme des Feldtyps im Titel nur zu Demonstrationszwecken vorgesehen. Lassen Sie es in Ihren eigenen Feldtiteln weg.
 
@@ -27,14 +34,14 @@ ORDER BY `title` ASC
 
 Einfach - aus der Liste auswählen.
 
-![SQL-Feld-Dateneingabe](../../../en/images/fields/fields-sql-data-entry.png)
+![SQL-Feld-Dateneingabe](../../../en/images/fields/adding-custom-fields-sql-field/02-fields-sql-data-entry.png)
 
 
 ## Datenanzeige
 
 Der folgende Screenshot der Seite zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist für die Position des Feldes verantwortlich, und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![SQL-Feld-Anzeige auf der Seite](../../../en/images/fields/fields-sql-site.png)
+![SQL-Feld-Anzeige auf der Seite](../../../en/images/fields/adding-custom-fields-sql-field/03-fields-sql-site.png)
 
 Die Ausgabe ist ein einzelnes Element oder eine durch Kommas getrennte Liste von Elementen (Ländernamen) nach dem Feldlabel (Herkunftsland).
 

@@ -1,4 +1,11 @@
-<!-- Filename: category-list-override.md / Display title: Kategorienliste Überschreiben -->
+<!--
+{
+  "source": "https://docs.joomla.org/category-list-override.md",
+  "title": "Kategorienliste Überschreiben ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Der Menüpunkt "Kontakte in einer Kategorie auflisten"
 
@@ -39,7 +46,7 @@ Die Aufzählungsliste der benutzerdefinierten Felder kann verbessert werden, ind
 }
 ```
 
-![gestaltetes Geschäftskomitee](../../../en/images/contacts/contact-business-committee-styled.png)
+![gestaltetes Geschäftskomitee](../../../en/images/contacts/category-list-override/01-contact-business-committee-styled.png)
 
 Das ist so viel, wie mit dem Styling erreicht werden kann. Besser, aber immer noch nicht gut genug. Um weitere Elemente hinzuzufügen und das Layout zu ändern, wird ein Layout-Override erforderlich sein.
 
@@ -153,7 +160,7 @@ a:has(.contact-thumbnail) {
 
 ### Ergebnis
 
-![gegridder Geschäftsausschuss](../../../en/images/contacts/contact-business-committee-grid.png)
+![gegridder Geschäftsausschuss](../../../en/images/contacts/category-list-override/02-contact-business-committee-grid.png)
 
 *Übersetzt von openai.com*
 

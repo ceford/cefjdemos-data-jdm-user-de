@@ -1,10 +1,17 @@
-<!-- Filename: jdocmanual?manual=user&heading=plugins&filename=about-plugins.md / Display title: Über Plugins -->
+<!--
+{
+  "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=plugins&filename=about-plugins.md",
+  "title": "Über Plugins ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
 Plugins sind Joomla!-Erweiterungen, die *im Hintergrund* auf einen Auslöser reagieren. Es gibt ungefähr 160 Kern-Plugins in über 20 Gruppen. Drittanbieter-Entwickler bieten noch viele weitere an. Das folgende Bild zeigt den Anfang der Plugin-Liste, bei der die Listenlänge für den Screenshot auf 5 eingestellt wurde.
 
-![Plugin-Liste](../../../en/images/plugins/plugins-list.png)
+![Plugin-Liste](../../../en/images/plugins/about-plugins/01-plugins-list.png)
 
 ## Plugin-Typen
 

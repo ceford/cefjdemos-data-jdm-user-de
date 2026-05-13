@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Home_Dashboard / Display title: Start-Dashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Home_Dashboard",
+  "title": "Start-Dashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -17,7 +24,7 @@ Die meisten der Elemente sind selbsterklärende Links, die diejenigen im Adminis
 
 ## Bildschirmfoto
 
-![Start-Dashboard](../../../en/images/dashboards/home-dashboard.png)
+![Start-Dashboard](../../../en/images/dashboards/home-dashboard/01-home-dashboard.png)
 
 *Übersetzt von openai.com*  
 

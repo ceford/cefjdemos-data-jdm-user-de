@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Privacy_Outline / Display title: Datenschutzübersicht -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Privacy_Outline",
+  "title": "Datenschutzübersicht ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Inhalt
 

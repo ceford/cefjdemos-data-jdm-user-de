@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Cassiopeia_Template_Customisation / Display title: Cassiopeia-Anpassung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Cassiopeia_Template_Customisation",
+  "title": "Cassiopeia-Anpassung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,13 +13,13 @@ Cassiopeia ist die mit Joomla 4 gelieferte Vorlagen-Website. Es ist eine ausgeze
 
 Die folgende Abbildung zeigt das Erscheinungsbild einer Joomla 4-Website mit einem Beitrag und einigen erstellten Menüpunkten.
 
-![Cassiopeia Einzelbeitragsansicht](../../../en/images/templates/cassiopeia-customisation-article-view.png)
+![Cassiopeia Einzelbeitragsansicht](../../../en/images/templates/cassiopeia-template-customisation/01-cassiopeia-customisation-article-view.png)
 
 ## Vorlagen: Stil bearbeiten
 
 Sie können mit dem Erscheinungsbild der Website experimentieren, indem Sie das Formular Stil bearbeiten öffnen. Gehen Sie zu **System → Vorlagen → Vorlagenstil der Website** und wählen Sie den Titel der Vorlage in der Spalte Stil, Cassiopeia - Standard. Der Tab „Erweitert“ enthält Einstellungen, die Sie anpassen können:
 
-![Cassiopeia Stil bearbeiten Erweitert-Tab](../../../en/images/templates/cassiopeia-customisation-edit-style.png)
+![Cassiopeia Stil bearbeiten Erweitert-Tab](../../../en/images/templates/cassiopeia-template-customisation/02-cassiopeia-customisation-edit-style.png)
 
 Um die Optionen auszuprobieren, öffnen Sie einen Browser-Tab oder ein Fenster mit der Administrator-Schnittstelle und einen zweiten Tab oder Fenster mit der Website-Schnittstelle und wechseln Sie nach jeder gespeicherten Änderung hin und her.
 
@@ -38,7 +45,7 @@ Sie könnten die Marke auf Nein setzen, wenn Sie ein Branding in einem benutzerd
 
 - **Stets zu Ihren Diensten** Wenn vorhanden, erscheinen die Worte im Sloganfeld in kleiner Schriftgröße unter dem Logobild oder Markennamen.
 
-![Cassiopeia Marke mit Slogan](../../../en/images/templates/cassiopeia-customisation-brand-with-tagline.png)
+![Cassiopeia Marke mit Slogan](../../../en/images/templates/cassiopeia-template-customisation/03-cassiopeia-customisation-brand-with-tagline.png)
 
 ### Schriftarten-Schema
 
@@ -50,7 +57,7 @@ Sie könnten die Marke auf Nein setzen, wenn Sie ein Branding in einem benutzerd
 - **Standard** Eine dunkelblaue Hintergrundfarbe für die Markenleiste und andere Funktionen wie die Login-Taste.
 - **Alternative** Eine kastanienbraune Hintergrundfarbe statt Dunkelblau.
 
-![Cassiopeia alternatives Farbschema](../../../en/images/templates/cassiopeia-customisation-alt-color-scheme.png)
+![Cassiopeia alternatives Farbschema](../../../en/images/templates/cassiopeia-template-customisation/04-cassiopeia-customisation-alt-color-scheme.png)
 
 ### Layout
 
@@ -59,7 +66,7 @@ Sie könnten die Marke auf Nein setzen, wenn Sie ein Branding in einem benutzerd
 
 Die Ansicht auf einem mobilen Gerät mit schmalem Bildschirm:
 
-![Cassiopeia mobile Ansicht](../../../en/images/templates/cassiopeia-customisation-mobile-view.png)
+![Cassiopeia mobile Ansicht](../../../en/images/templates/cassiopeia-template-customisation/05-cassiopeia-customisation-mobile-view.png)
 
 ### Fixierter Header
 
@@ -71,13 +78,13 @@ Die Ansicht auf einem mobilen Gerät mit schmalem Bildschirm:
 - **Nein** die Standardeinstellung. Es gibt keinen Zurück-zum-Anfang-Link.
 - **Ja** Wenn der Inhalt höher ist als das Ansichtsfeld, befindet sich unten rechts auf der Seite eine Schaltfläche mit einem Pfeil nach oben. Wählen Sie diese aus, um zurück zum Seitenanfang zu scrollen.
 
-![Cassiopeia Zurück-zum-Anfang](../../../en/images/templates/cassiopeia-customisation-back-to-top.png)
+![Cassiopeia Zurück-zum-Anfang](../../../en/images/templates/cassiopeia-template-customisation/06-cassiopeia-customisation-back-to-top.png)
 
 ## Cassiopeia-Vorlagenpositionen
 
 Beim Erstellen einer Website mit Cassiopeia ist es sehr nützlich, die Standorte der Positionen zu kennen, die Sie für Module verwenden können. Einige sind beschreibend, wie *menu* und *bottom-a*, aber es ist nicht sofort ersichtlich, wo sie sich befinden, bis sie verwendet werden. Diese Abbildung sollte helfen:
 
-![Cassiopeia-Vorlagenpositionen](../../../en/images/templates/cassiopeia-template-positions.png)
+![Cassiopeia-Vorlagenpositionen](../../../en/images/templates/cassiopeia-template-customisation/07-cassiopeia-template-positions.png)
 
 Versuchen Sie Folgendes:
 
@@ -89,7 +96,7 @@ Im Tab "Modul" ändern Sie das Feld "Position" rechts auf Menü \[menu\]. Speich
 
 Wählen Sie im Menü-Bearbeitungsformular die Registerkarte "Erweitert" aus und scrollen Sie zum Feld "Layout". Es ist eine Dropdown-Liste mit vier Optionen. --Aus Modul-- / Standard ist standardmäßig ausgewählt. Probieren Sie die anderen Optionen aus und sehen Sie sich das Ergebnis an. (Denken Sie daran, im Bearbeitungsformular zu *speichern* und im Website-Ansichtsbereich neu zu laden.) Keine der --Aus Modul-- Optionen zeigt die untergeordneten Menüeinträge an, aber beide --Aus Cassiopeia-Vorlage-- tun dies.
 
-![Cassiopeia-Menüpositionen](../../../en/images/templates/cassiopeia-customisation-menu-position.png)
+![Cassiopeia-Menüpositionen](../../../en/images/templates/cassiopeia-template-customisation/08-cassiopeia-customisation-menu-position.png)
 
 Welchen Unterschied macht also **Collapsible**?
 
@@ -106,7 +113,7 @@ Was, wenn Ihnen die dunkelblaue Hintergrundfarbe des Headers nicht gefällt? Ang
 
 Die Abbildung unten zeigt zwei Ordnergruppen. Die erste Gruppe besteht aus den Template-Ordnern und Dateien, die Sie nicht ändern sollten, zu denen Sie jedoch hinzufügen können. Insbesondere können Sie HTML-Dateien für Template-Overrides zum *html*-Ordner hinzufügen. Die zweite Gruppe enthält die Medien-Dateien des Templates, die Sie nicht ändern sollten. Sie können jedoch eine *user.css*-Datei zum *css*-Ordner und/oder eine *user.js*-Datei zum *js*-Ordner hinzufügen. Dies würden Sie tun, wenn Sie ein paar einfache Änderungen an der Webseitenoptik vornehmen möchten.
 
-![Cassiopeia Dateien bearbeiten](../../../en/images/templates/cassiopeia-customisation-edit-files.png)
+![Cassiopeia Dateien bearbeiten](../../../en/images/templates/cassiopeia-template-customisation/09-cassiopeia-customisation-edit-files.png)
 
 Beachten Sie, dass in einer neuen Joomla-Installation keine Datei ***user.css*** im Ordner **css** vorhanden ist. Diese Datei erstellen Sie selbst, um zuvor definierte Styles zu überschreiben. Wenn ***user.css*** bereits vorhanden ist, wählen Sie sie aus, um das Bearbeitungsformular zu öffnen. Ist sie noch nicht vorhanden, erstellen Sie sie jetzt:
 
@@ -137,7 +144,7 @@ Beachten Sie hier, dass der vorangestellte Punkt (.) ein Klassen-Selektor ist, z
 
 Öffnen Sie im Browser-Tab, das die Seite enthält, die Entwicklerwerkzeuge Ihres Browsers, in diesem Beispiel Firefox, und wählen Sie das header-Tag aus.
 
-![Cassiopeia Entwicklerwerkzeuge](../../../en/images/templates/cassiopeia-customisation-developer-tools.png)
+![Cassiopeia Entwicklerwerkzeuge](../../../en/images/templates/cassiopeia-template-customisation/10-cassiopeia-customisation-developer-tools.png)
 
 Das zeigt die verwendeten Stile. Der Stil container-header ist dort, wo der background-color und das background-image gesetzt sind. Diese müssen in der *user.css*-Datei überschrieben werden. Probieren Sie dies:
 ```css
@@ -158,7 +165,7 @@ Erinnern Sie sich an den Kommentar, dass das Menü in der Topbar zu weit links i
 ```
 Dies ist das funktionierende grüne Thema:
 
-![Cassiopeia grünes Thema](../../../en/images/templates/cassiopeia-customisation-green-theme.png)
+![Cassiopeia grünes Thema](../../../en/images/templates/cassiopeia-template-customisation/11-cassiopeia-customisation-green-theme.png)
 
 ### Barrierefreiheit
 
@@ -170,7 +177,7 @@ Der Tab „Überschreibungen erstellen“ im Formular „Templates: Anpassen (Ca
 
 Dies ist der Tab „Überschreibungen erstellen“:
 
-![Cassiopeia Überschreibungen erstellen](../../../en/images/templates/cassiopeia-customisation-create-overrides.png)
+![Cassiopeia Überschreibungen erstellen](../../../en/images/templates/cassiopeia-template-customisation/12-cassiopeia-customisation-create-overrides.png)
 
 Wenn Sie nur experimentieren und eigentlich keine Überschreibung möchten, können Sie das Bearbeitungsformular *schließen*, die Schaltfläche „Ordner verwalten“ in der Symbolleiste auswählen und die Schaltfläche „Löschen“ am unteren Rand des Formulars „Ordner verwalten“ auswählen.
 
@@ -180,7 +187,7 @@ Wenn Sie nur experimentieren und eigentlich keine Überschreibung möchten, kön
 
 Wenn Sie größere Änderungen am Erscheinungsbild der Website vornehmen möchten, können Sie eine Kindvorlage erstellen. Diese kopiert nur eine kleine Auswahl an Ordnern und Dateien, die Sie ändern oder hinzufügen können, während sie ansonsten weiterhin die Ordner und Dateien der übergeordneten Vorlage verwendet. Durch die Verwendung von Kindvorlagen können Sie einige Seiten mit einer Farbthematik und andere Seiten mit einer zweiten Farbthematik gestalten. Kindvorlagen werden an anderer Stelle behandelt. Hier ist eine Darstellung der Dateistruktur in einem Kind von Cassiopeia:
 
-![Cassiopeia Kindvorlagendateien](../../../en/images/templates/cassiopeia-customisation-child-template-files.png)
+![Cassiopeia Kindvorlagendateien](../../../en/images/templates/cassiopeia-template-customisation/13-cassiopeia-customisation-child-template-files.png)
 
 *Übersetzt von openai.com*
 

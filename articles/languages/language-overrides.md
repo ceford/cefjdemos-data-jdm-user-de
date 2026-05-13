@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Language_Overrides / Display title: Sprachüberschreibungen  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Language_Overrides",
+  "title": "Sprachüberschreibungen  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Speicherorte der Sprachdateien
 
@@ -70,11 +77,11 @@ Der neue Schlüssel kann nun in jede Sprache übersetzt werden. Die Übersetzung
 - Speichern & Schließen Sie das Formular.
 - Wiederholen Sie den Übersetzungsprozess für jede Sprache.
 
-![Formular zur Bearbeitung von Sprachüberschreibungen](../../../en/images/languages/language-overrides-edit.png)
+![Formular zur Bearbeitung von Sprachüberschreibungen](../../../en/images/languages/language-overrides/01-language-overrides-edit.png)
 
 Abschließend überprüfen Sie, ob die Übersetzung implementiert wurde.
 
-![Ergebnis der Überschreibung im Anmeldeformular der Website](../../../en/images/languages/language-overrides-custom-logout.png)
+![Ergebnis der Überschreibung im Anmeldeformular der Website](../../../en/images/languages/language-overrides/02-language-overrides-custom-logout.png)
 
 *Übersetzt von openai.com*
 

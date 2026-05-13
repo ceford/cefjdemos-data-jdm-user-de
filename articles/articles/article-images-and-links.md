@@ -1,4 +1,11 @@
-<!-- Filename: Article_Images_and_Links / Display title: Beitrag: Bearbeiten - Bilder und Links  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Article_Images_and_Links",
+  "title": "Beitrag: Bearbeiten - Bilder und Links  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -12,7 +19,7 @@ Andere Beiträge haben beschrieben, wie man Bilder und Links in den Inhalt eines
 
 Für diesen Beitrag, angefangen mit einem Bild eines grünen Laubfrosches, das 1024 Pixel breit war, wurden zwei kleinere Bilder in 128 und 256 Pixel Breite erstellt. Hinweis: Es ist am besten, Bilder in Ihrem bevorzugten Bildbearbeitungsprogramm wie *Gimp* vorzubereiten. Die kleinen und mittelgroßen Bilder wurden verwendet, um die folgenden Screenshots zu erstellen.
 
-![Beitragsbearbeitungsformular, Bilder- und Links-Tab](../../../en/images/articles/articles-edit-images-and-links-tab.png)
+![Beitragsbearbeitungsformular, Bilder- und Links-Tab](../../../en/images/articles/article-images-and-links/01-articles-edit-images-and-links-tab.png)
 
 ## Formularfelder
 
@@ -49,11 +56,11 @@ Genau die gleiche Dateneingabe wie bei Link A.
 
 Der Screenshot unten zeigt ein Kategorie-Blog-Layout mit dem *Einführungsbild*. Es wäre möglicherweise besser gewesen, ein Panoramabild mit gleicher Höhe, aber wesentlich größerer Breite zu verwenden, um den ungenutzten weißen Raum auszufüllen.
 
-![Amphibien-Kategorie-Blog-Seite](../../../en/images/articles/articles-site-amphibians-blog.png)
+![Amphibien-Kategorie-Blog-Seite](../../../en/images/articles/article-images-and-links/02-articles-site-amphibians-blog.png)
 
 Der Screenshot unten zeigt die einzelne Beitragsseite mit dem *Vollständigen Beitragsbild* und dem Link A. Das Bild wurde nach rechts verschoben, und die sichtbare Bildunterschrift fügt etwas zur Beschreibung hinzu, damit es für Screenreader logisch klingt.
 
-![Frösche einzelne Beitragsseite](../../../en/images/articles/articles-site-amphibians-frogs.png)
+![Frösche einzelne Beitragsseite](../../../en/images/articles/article-images-and-links/03-articles-site-amphibians-frogs.png)
 
 *Übersetzt von openai.com*
 

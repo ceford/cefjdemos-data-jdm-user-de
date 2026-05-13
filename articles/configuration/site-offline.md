@@ -1,10 +1,17 @@
-<!-- Filename: J4.x:Site_Offline / Display title: Seite Offline -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Site_Offline",
+  "title": "Seite Offline ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Nur für Website-Benutzer
 
 Es kann vorkommen, dass Sie Ihre Joomla!-Website für kurze Zeit für Besucher nicht verfügbar machen müssen. Für diesen Zweck gibt es einen einfachen **Seite offline** Konfigurationsschalter, der je nach Bedarf von **Nein** auf **Ja** geändert werden kann. Wenn er auf *Ja* gestellt ist, sehen alle Besucher der Website eine Offline-Nachrichtenseite mit Anmeldeformular. Das standardmäßige Offline-Formular kann mit einem Bild angepasst werden:
 
-![Bildschirm der Seite offline](../../../en/images/configuration/site-offline.png)
+![Bildschirm der Seite offline](../../../en/images/configuration/site-offline/01-site-offline.png)
 
 Der Offline-Schalter für die Website gilt nicht für die Administratoroberfläche, und Benutzer, die sich im Backend anmelden können, können sich weiterhin im Frontend anmelden. Der Frontend-Login ist nur für Benutzer in den Benutzergruppen Registriert, Autor, Editor und Beiträge gesperrt.
 

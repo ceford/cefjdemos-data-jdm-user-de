@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Adding_a_New_Menu / Display title: Ein neues Menü hinzufügen -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Adding_a_New_Menu",
+  "title": "Ein neues Menü hinzufügen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -12,7 +19,7 @@ Es gibt drei Schritte zur Erstellung eines verwendbaren Menüs:
 
 Dieser Screenshot zeigt die Menüs, die in einer mehrsprachigen Website verfügbar sind. In einer anfänglichen Joomla-Installation gibt es ein einzelnes *Hauptmenü*.
 
-![Menüliste](../../../en/images/menus/menus-manage.png)
+![Menüliste](../../../en/images/menus/adding-a-new-menu/01-menus-manage.png)
 
 Die Liste ermöglicht es Ihnen, auf beliebige grüne oder rote Buttons zu klicken, um direkt zur Liste der Menüpunkte in diesem Menü und Zustand zu gelangen.
 
@@ -29,7 +36,7 @@ Verwenden Sie eine der folgenden Schritte, um ein neues Menü zu erstellen:
   - **Titel**: Ein geeigneter Titel für das Menü. Dieser wird verwendet, um das Menü im Menu-Manager zu identifizieren.
   - **Einzigartiger Name**: Dies sollte ein einzigartiger Identifikationsname sein, der von Joomla! verwendet wird, um dieses Menü zu identifizieren. Leerzeichen sind nicht erlaubt, aber Sie können das Zeichen '-' verwenden, wie z. B. ressourcen-menu.
   - **Beschreibung**: Obwohl nicht erforderlich, ist dies oft nützlich auf einer Webseite mit vielen Menüs. Es erscheint unterhalb des *Titels* in der Menüliste, wie oben dargestellt.<br>
-    ![Neues Menü](../../../en/images/menus/menus-new.png)
+    ![Neues Menü](../../../en/images/menus/adding-a-new-menu/02-menus-new.png)
 - **Speichern & Schließen**
 
 In der Liste der Menüs hat das neu erstellte Menü eine Schaltfläche mit der Beschriftung **Ein Modul für dieses Menü hinzufügen**, was der nächste Schritt in der Menükreation ist. Sie könnten beginnen, Menüpunkte hinzuzufügen und später zurückkommen, um das Menümodul zu erstellen.
@@ -38,7 +45,7 @@ In der Liste der Menüs hat das neu erstellte Menü eine Schaltfläche mit der B
 
 In der Liste der Menüs ermöglicht die Spalte *Verknüpfte Module* die Auswahl eines bestehenden Menümoduls zu Bearbeitungszwecken. Sie können es sich ansehen und dann *Schließen*, ohne Änderungen vorzunehmen. Für Ihr neues Menü wählen Sie die Schaltfläche **Modul für dieses Menü hinzufügen**, um ein modales Fenster mit dem Dateneingabeformular für das Menümodul zu öffnen.
 
-![Dateneingabeformular für das Menümodul](../../../en/images/menus/menus-module.png)
+![Dateneingabeformular für das Menümodul](../../../en/images/menus/adding-a-new-menu/03-menus-module.png)
 
 Auszufüllende Felder:
 
@@ -71,12 +78,12 @@ In der **Menüs**-Liste wählen Sie in der Spalte **Menüeinträge** das Symbol 
 - Das **Status**-Feld sollte auf **Veröffentlicht** gesetzt sein.
 - Wählen Sie **Speichern & Schließen**.
 
-![Datenformular für Menüeinträge](../../../en/images/menus/menus-single-article.png)
+![Datenformular für Menüeinträge](../../../en/images/menus/adding-a-new-menu/04-menus-single-article.png)
 
 Fügen Sie bei Bedarf weitere Menüeinträge zum neuen Menü hinzu.
 
 Sobald Elemente zum Menü hinzugefügt wurden, überprüfen Sie, ob das Menü an der richtigen Position auf der Website angezeigt wird.
 
-![Menüanzeige](../../../en/images/menus/menus-display.png)
+![Menüanzeige](../../../en/images/menus/adding-a-new-menu/05-menus-display.png)
 
 *Übersetzt von openai.com*

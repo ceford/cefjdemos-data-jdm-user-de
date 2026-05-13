@@ -1,4 +1,11 @@
-<!-- Filename: Search_Engine_Friendly_URLs / Display title: Suchmaschinenfreundliche URLs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Search_Engine_Friendly_URLs",
+  "title": "Suchmaschinenfreundliche URLs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Pfade und Routen
 

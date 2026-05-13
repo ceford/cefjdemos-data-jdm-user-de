@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Calendar_Field / Display title: Kalenderfeld -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Kalenderfeld ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 
@@ -13,7 +20,7 @@ Allgemeine Feldparameter werden in einem separaten Beitrag beschrieben.
 * **Zeit anzeigen** Wenn auf *Ja* gesetzt, wird die Zeit dem Datumsfeld, dem Datumsauswahl-Tool und dem Ausgabedatum hinzugefügt. **Achtung**: Auch wenn Sie die Zeit im Standarddatum nicht angeben, wird die Zeit angezeigt, wenn die Option *Zeit anzeigen* aktiv ist.
 * **Platzhalter** Dies befindet sich im Reiter Optionen. Es kann auf ein Datumsformat wie *JJJJ-MM-TT* gesetzt werden, um Benutzer an das erforderliche Format zu erinnern und/oder eine Erinnerung daran, wofür das Datum ist, wie z.B. *Ankunftsdatum*.
 
-![Kalenderfeld-Erstellung](../../../en/images/fields/fields-calendar-edit.png)
+![Kalenderfeld-Erstellung](../../../en/images/fields/adding-custom-fields-calendar-field/01-fields-calendar-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Einbeziehung des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie dies in Ihren eigenen Feldtiteln weg.
 
@@ -23,7 +30,7 @@ Die Verwendung des Kalenderfeldes ist einfach. Sie können das Datum im erforder
 
 Der folgende Screenshot zeigt ein Erfassungsdatum:
 
-![Kalenderfeld Dateneingabe](../../../en/images/fields/fields-calendar-data-entry.png)
+![Kalenderfeld Dateneingabe](../../../en/images/fields/adding-custom-fields-calendar-field/02-fields-calendar-data-entry.png)
 
 Felder erscheinen nur in einem Beitrag, wenn sie im Dateneingabeformular des Beitrags ausgefüllt sind.
 
@@ -31,7 +38,7 @@ Felder erscheinen nur in einem Beitrag, wenn sie im Dateneingabeformular des Bei
 
 Der folgende Screenshot der Website zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist verantwortlich für die Position des Feldes und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![Kalenderfeld Website-Anzeige](../../../en/images/fields/fields-calendar-site.png)
+![Kalenderfeld Website-Anzeige](../../../en/images/fields/adding-custom-fields-calendar-field/03-fields-calendar-site.png)
 
 Die Datumsformate werden mit Sprachstrings lokalisiert.
 

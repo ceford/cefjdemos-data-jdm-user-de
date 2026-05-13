@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:_Article_Edit_Configure_Edit_Screen / Display title: Beitrag: Bearbeiten - Bearbeitungsbildschirm konfigurieren   -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:_Article_Edit_Configure_Edit_Screen",
+  "title": "Beitrag: Bearbeiten - Bearbeitungsbildschirm konfigurieren   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ Die Bearbeitungsoberflächen für Beiträge haben im Backend und Frontend unters
 
 ## Screenshot
 
-![Der konfigurierbare Bearbeitungsbildschirm-Tab](../../../en/images/articles/articles-edit-configure-edit-screen-tab.png)
+![Der konfigurierbare Bearbeitungsbildschirm-Tab](../../../en/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
 
 ## Konfiguration des Bearbeitungsbildschirm-Panels
 

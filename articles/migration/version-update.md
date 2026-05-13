@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Updating_from_an_existing_version / Display title: Versionsaktualisierung -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Updating_from_an_existing_version",
+  "title": "Versionsaktualisierung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -17,11 +24,11 @@ Obwohl Joomla Sie benachrichtigt, wenn ein Update verfügbar ist, müssen Sie da
 Wenn das Benachrichtigungsfenster im Home-Dashboard angezeigt wird, wähle die
 Schaltfläche **x.y.z verfügbar - Jetzt aktualisieren!**, um zur Aktualisierungskomponente zu gelangen.
 
-![Joomla-Aktualisierungsbenachrichtigung im Home-Dashboard](../../../en/images/migration/version-update-notification-home-dashboard.png)
+![Joomla-Aktualisierungsbenachrichtigung im Home-Dashboard](../../../en/images/migration/version-update/01-version-update-notification-home-dashboard.png)
 
 Alternativ kannst du auf die Aktualisierungskomponente aus dem Administrator-Menü zugreifen, indem du **System** wählst, um über das **System-Dashboard** zu gehen.
 
-![Joomla-Aktualisierungsbenachrichtigung im System-Dashboard](../../../en/images/migration/version-update-notification-system-dashboard.png)
+![Joomla-Aktualisierungsbenachrichtigung im System-Dashboard](../../../en/images/migration/version-update/02-version-update-notification-system-dashboard.png)
 
 Das System-Dashboard verfügt über ein *Aktualisierungspanel*, das einen Joomla-Link enthält, der die verfügbare Versionsnummer der Aktualisierung anzeigt. Wähle den **Joomla**-Link, um zur Aktualisierungskomponente zu gelangen.
 
@@ -31,7 +38,7 @@ Joomla! 4 und 5 bieten eine Vorab-Prüfung für Updates zu Minor-Versionen. Dies
 
 **Hinweis:** Der Bildschirm *Vorab-Prüfung* wird nicht angezeigt, wenn die Seite sich auf der aktuellen **Minor-Version** befindet.
 
-![joomla vorab prüfung](../../../en/images/migration/version-update-pre-update-check.png)
+![joomla vorab prüfung](../../../en/images/migration/version-update/03-version-update-pre-update-check.png)
 
 Achten Sie sorgfältig auf die Prüfungsergebnisse und ergreifen Sie Maßnahmen zur Behebung von hervorgehobenen Problemen, bevor Sie ein Update durchführen. Möglicherweise müssen Sie inkompatible Erweiterungen aktualisieren, deaktivieren oder deinstallieren, bevor Sie Joomla aktualisieren.
 
@@ -45,19 +52,19 @@ Wenn Sie die Vorab-Prüfung überprüft haben und zufrieden sind, wählen Sie **
 
 ### Bestätigung des Updates
 
-![update starten seite](../../../en/images/migration/version-update-start-update.png)
+![update starten seite](../../../en/images/migration/version-update/04-version-update-start-update.png)
 
 Aktivieren Sie das Kontrollkästchen, um zu bestätigen, dass Sie ein Backup erstellt und überprüft haben, ob Erweiterungen kompatibel sind, und klicken Sie dann auf **Start Update**.
 
 ### Update-Fortschritt
 
-![update-fortschritt seite](../../../en/images/migration/version-update-progress.png)
+![update-fortschritt seite](../../../en/images/migration/version-update/05-version-update-progress.png)
 
 Sobald das Update beginnt, erscheint ein Fortschrittsbalken, während die Joomla-Dateien aktualisiert werden.
 
 ### Abschluss
 
-![update abgeschlossen seite](../../../en/images/migration/version-update-completion.png)
+![update abgeschlossen seite](../../../en/images/migration/version-update/06-version-update-completion.png)
 
 Wenn der Fortschrittsbalken 100 % erreicht hat, bestätigt eine Systemmeldung, dass Ihre Seite aktualisiert wurde und die Versionsnummer. Die Versionsnummer wird auch in der oberen Symbolleiste neben dem Seitennamen aktualisiert.
 
@@ -75,7 +82,7 @@ Gehen Sie zum Frontend der Website und überprüfen Sie, ob es funktioniert und 
 
 Wählen Sie im Seitenleistenmenü **System**, um zum System-Dashboard zu gelangen. Dies gibt Ihnen einen Überblick über den aktuellen Status Ihrer Joomla-Website.
 
-![System-Dashboard nach Beitragsaktualisierung](../../../en/images/migration/version-update-after-update.png)
+![System-Dashboard nach Beitragsaktualisierung](../../../en/images/migration/version-update/07-version-update-after-update.png)
 
 In diesem Beispiel sehen wir, dass seit dem Update zwei Elemente vorhanden sind, die Aufmerksamkeit erfordern. Diese sind mit einem Etikett versehen, das eine Zahl enthält. Die Zahl bezieht sich darauf, wie viele Elemente Aufmerksamkeit erfordern. Durch Klicken auf jedes Element können Sie diese beheben.
 
@@ -85,11 +92,11 @@ In diesem Beispiel sehen wir, dass seit dem Update zwei Elemente vorhanden sind,
 
 Navigieren Sie zu **System → Wartung → Datenbank**. Wenn Ihre Datenbank auf dem neuesten Stand ist, sollten Sie einen ähnlichen Bildschirm wie den untenstehenden sehen:
 
-![Datenbanküberprüfung nach Beitragsaktualisierung ohne Probleme](../../../en/images/migration/version-update-after-update-database-check-no-problems.png)
+![Datenbanküberprüfung nach Beitragsaktualisierung ohne Probleme](../../../en/images/migration/version-update/08-version-update-after-update-database-check-no-problems.png)
 
 Wenn Ihre Datenbank nicht auf dem neuesten Stand ist, wird ein Bildschirm angezeigt, der die gefundenen Probleme auflistet, ähnlich wie der untenstehende:
 
-![Datenbanküberprüfung nach Beitragsaktualisierung mit Problemen](../../../en/images/migration/version-update-after-update-database-check-problems.png)
+![Datenbanküberprüfung nach Beitragsaktualisierung mit Problemen](../../../en/images/migration/version-update/09-version-update-after-update-database-check-problems.png)
 
 In diesem Fall wählen Sie den Namen der Problem-Erweiterung und dann die Schaltfläche Struktur aktualisieren in der Symbolleiste. Joomla wird Ihre Datenbank aktualisieren, um die aufgelisteten Probleme zu beheben, und dann den Bildschirm erneut anzeigen. Wenn die Behebung erfolgreich war, zeigt die Anzeige an, dass die Datenbank auf dem neuesten Stand ist.
 
@@ -99,13 +106,13 @@ In diesem Fall wählen Sie den Namen der Problem-Erweiterung und dann die Schalt
 
 In einigen Fällen, wenn Sie auf eine neue Joomla-Version aktualisieren, werden neue Kern-Erweiterungen hinzugefügt. Wenn es Probleme mit der Datenbankaktualisierung gab, wurden diese Erweiterungen möglicherweise nicht korrekt installiert. Um dies zu überprüfen, navigieren Sie zu **System → Entdecken**. Wählen Sie dann das Entdecken-Symbol in der Werkzeugleiste aus. Der Bildschirm sollte wie folgt aussehen:
 
-![Entdecken Screen ohne zu installierende Erweiterungen](../../../en/images/migration/version-update-after-update-discover.png)
+![Entdecken Screen ohne zu installierende Erweiterungen](../../../en/images/migration/version-update/10-version-update-after-update-discover.png)
 
 Wenn dies der Fall ist, wissen Sie, dass alle neuen Erweiterungen, die während des Updates hinzugefügt wurden, korrekt in der Datenbank installiert wurden.
 
 Wenn es nicht installierte Erweiterungen gibt, werden sie auf dem Bildschirm ähnlich dem folgenden angezeigt:
 
-![Entdecken Screen mit gefundenen Erweiterungen zur Installation](../../../en/images/migration/version-update-after-update-discover-found.png)
+![Entdecken Screen mit gefundenen Erweiterungen zur Installation](../../../en/images/migration/version-update/11-version-update-after-update-discover-found.png)
 
 In diesem Fall markieren Sie die Kästchen und klicken auf das Installieren-Symbol in der Werkzeugleiste. Joomla installiert die Erweiterung(en) und zeigt dann den Bildschirm an, der keine entdeckten Erweiterungen anzeigt. Zu diesem Zeitpunkt wurden die neuen Erweiterungen in der Datenbank installiert.
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Module_Display_by_Menu_Item / Display title: Modulanzeige nach Menüpunkt -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Module_Display_by_Menu_Item",
+  "title": "Modulanzeige nach Menüpunkt ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -28,7 +35,7 @@ Es gibt vier Optionen für die Menüzuweisung:
 - Auf allen Seiten außer den ausgewählten
 
 Für die letzten zwei Optionen wird ein Menüauswahl-Panel angezeigt. Anfänglich sind die Menüs darin vollständig erweitert, aber sie können mit der **Menüunterbäume erweitern** *Keine* Schaltfläche eingeklappt werden. Danach das gewünschte Menü erweitern.
-![Modul-Menüzuweisung](../../../en/images/modules/module-display-by-menu.png)
+![Modul-Menüzuweisung](../../../en/images/modules/module-display-by-menu-item/01-module-display-by-menu.png)
 
 Wählen Sie die Menüeinträge aus, um das Modul nach Wunsch anzuzeigen oder nicht anzuzeigen. 
 

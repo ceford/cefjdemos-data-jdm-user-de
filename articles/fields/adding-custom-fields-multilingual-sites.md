@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Multilingual_Sites / Display title: Mehrsprachige Websites -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Mehrsprachige Websites ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Let me know if you need further assistance!
 ## Einführung
@@ -50,7 +57,7 @@ Vom Administratormenü:
 
 Der folgende Screenshot zeigt ein Beispiel für die Erstellung einer Überschreibung für eine deutsche Sprachkonstante.
 
-![Erstellung von Überschreibungen in Deutsch](../../../en/images/fields/fields-overrides-creation-de.png)
+![Erstellung von Überschreibungen in Deutsch](../../../en/images/fields/adding-custom-fields-multilingual-sites/01-fields-overrides-creation-de.png)
 
 ## Definieren der Feldgruppe
 
@@ -80,11 +87,11 @@ Vom Administrator-Menü aus:
 
 Wenn Englisch ausgewählt ist, bevor Sie sich als Administrator anmelden, sollte das Kontakteingabeformular einen Tab mit dem englischen Namen Ihrer Feldgruppe und Felder in dieser Gruppe ebenfalls mit englischen Werten enthalten.
 
-![Dateneingabe auf Englisch](../../../en/images/fields/fields-overrides-entry.png)
+![Dateneingabe auf Englisch](../../../en/images/fields/adding-custom-fields-multilingual-sites/02-fields-overrides-entry.png)
 
 Wenn Deutsch ausgewählt wird, bevor Sie sich als Administrator anmelden, sollten Sie die deutschen Übersetzungen Ihrer Sprachkonstanten sehen:
 
-![Dateneingabe auf Deutsch](../../../en/images/fields/fields-overrides-entry-de.png)
+![Dateneingabe auf Deutsch](../../../en/images/fields/adding-custom-fields-multilingual-sites/03-fields-overrides-entry-de.png)
 
 Hinweis: Übersetzung durch translate.google.co.uk!
 
@@ -92,11 +99,11 @@ Hinweis: Übersetzung durch translate.google.co.uk!
 
 Auf Englisch:
 
-![Datenanzeige auf Englisch](../../../en/images/fields/fields-overrides-display.png)
+![Datenanzeige auf Englisch](../../../en/images/fields/adding-custom-fields-multilingual-sites/04-fields-overrides-display.png)
 
 Und auf Deutsch:
 
-![Datenanzeige auf Deutsch](../../../en/images/fields/fields-overrides-display-de.png)
+![Datenanzeige auf Deutsch](../../../en/images/fields/adding-custom-fields-multilingual-sites/05-fields-overrides-display-de.png)
 
 *Übersetzt von openai.com*
 

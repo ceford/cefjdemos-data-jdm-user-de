@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Version_History / Display title: Beitrag: Versionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+  "title": "Beitrag: Versionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -16,7 +23,7 @@ Wählen Sie die Schaltfläche **Versionen** in der Symbolleiste aus, während Si
 
 ## Screenshot
 
-![Versions-Popup-Dialog](../../../en/images/articles/articles-versions.png)
+![Versions-Popup-Dialog](../../../en/images/articles/article-versions/01-articles-versions.png)
 
 ## Spaltenüberschriften
 
@@ -34,9 +41,9 @@ obigen Screenshot gezeigt wird. Die Funktionen sind:
 
 - **Wiederherstellen** Die aktuelle Version des Beitrags ist mit einem Stern rechts neben dem Datum markiert. Wenn Sie eine der anderen gespeicherten Versionen wiederherstellen möchten, aktivieren Sie das Kontrollkästchen für die gewünschte Version und wählen Sie die Schaltfläche *Wiederherstellen*. Die aktuelle Version des Beitrags wird durch die ausgewählte Version ersetzt und der Bearbeitungsbildschirm wird neu geladen, wobei die wiederhergestellte Version im Editor geladen wird.
 - **Vorschau** Um eine Version in der Vorschau anzuzeigen, wählen Sie entweder den Beitrag in der Datumsspalte aus oder aktivieren Sie das Kontrollkästchen und klicken Sie auf die Vorschau-Schaltfläche. Ein separates Browserfenster wird geladen und zeigt die ausgewählte Version des Beitrags an, ähnlich wie im Screenshot unten. Schließen Sie das Browserfenster, nachdem Sie die Version angezeigt haben.
-![Versionsvorschau-Dialog](../../../en/images/articles/articles-versions-preview.png)
+![Versionsvorschau-Dialog](../../../en/images/articles/article-versions/02-articles-versions-preview.png)
 - **Vergleichen** Um zwei Versionen zu vergleichen und zu sehen, was geändert wurde, aktivieren Sie die Kontrollkästchen für jede der Versionen und klicken Sie auf die Vergleichen-Schaltfläche. Ein neues Browserfenster wird geöffnet, wie im Screenshot unten gezeigt. Die erste Spalte ist der Feldname, die zweite die ältere Version, die dritte die neuere Version und die letzte Spalte hebt die Unterschiede zwischen den beiden Versionen hervor.
-![Versionsvergleich-Dialog](../../../en/images/articles/articles-versions-compare.png)
+![Versionsvergleich-Dialog](../../../en/images/articles/article-versions/03-articles-versions-compare.png)
 - **Behalten Ein/Aus** Mit dieser Schaltfläche können Sie die Behalten-für-immer-Funktion für eine Version ein- oder ausschalten. Normalerweise wird die älteste Version eines Beitrags automatisch gelöscht, wenn die maximale Anzahl an Versionen (in den Optionen für die Komponente festgelegt) überschritten wurde. Wenn Sie die Behalten-für-immer-Eigenschaft für eine Version festlegen, wird sie niemals automatisch gelöscht.
 - **Löschen** Mit dieser Schaltfläche können Sie eine oder mehrere Versionen manuell löschen. Wählen Sie das Kontrollkästchen für die Versionen, die Sie löschen möchten, und wählen Sie dann die Löschen-Schaltfläche. Beachten Sie, dass dies *nicht* den zu bearbeitenden Beitrag löscht. Es löscht nur die ausgewählte Version des Beitrags.
 

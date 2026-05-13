@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Help / Display title: Hilfedashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Help",
+  "title": "Hilfedashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -6,7 +13,7 @@ Der Hilfe-Bildschirm wird nicht als Dashboard bezeichnet, aber er verfügt über
 
 ## Screenshot
 
-![Hilfe-Dashboard](../../../en/images/dashboards/help-dashboard.png)
+![Hilfe-Dashboard](../../../en/images/dashboards/help-dashboard/01-help-dashboard.png)
 
 *Übersetzt von openai.com*
 

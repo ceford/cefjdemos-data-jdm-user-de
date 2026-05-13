@@ -1,4 +1,11 @@
-<!-- Filename: Debugging_a_translation / Display title: Debuggen einer Übersetzung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Debugging_a_translation",
+  "title": "Debuggen einer Übersetzung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Joomla Sprachdateien
 
@@ -52,7 +59,7 @@ Dieses System-Plugin steuert, was angezeigt wird, wenn das Debuggen in der **Glo
 
 Im **Sprache**-Tab:
 
-![plugin system debug](../../../en/images/languages/languages-debug-plugin.png)
+![plugin system debug](../../../en/images/languages/debugging-a-translation/01-languages-debug-plugin.png)
 
 * **Fehler beim Parsen von Sprachdateien** Zeigt einen Fehler an, wenn eine Sprachdatei
 nicht geladen werden kann.

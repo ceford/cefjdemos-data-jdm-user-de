@@ -1,4 +1,11 @@
-<!-- Filename: Content_editors / Display title: Inhaltsredakteure  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Content_editors",
+  "title": "Inhaltsredakteure  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 

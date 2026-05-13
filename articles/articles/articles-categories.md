@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Create_and_Manage_Article_Categories / Display title: Beiträge: Kategorien -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Create_and_Manage_Article_Categories",
+  "title": "Beiträge: Kategorien ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Einführung
 
@@ -46,11 +53,11 @@ Es gibt mehrere Wege zur Seite *Beiträge: Neue Kategorie*:
 
 Der folgende Screenshot zeigt den *Beitragskategorien* Link im Home Dashboard zur Liste der Kategorien und das danebenliegende *Plus-Symbol*, das zum Formular *Beiträge: Neue Kategorie* führt.
 
-![Das Symbol zum Hinzufügen einer Kategorie im Home-Dashboard hervorgehoben](../../../en/images/articles/category-add-via-home-dashboard.png)
+![Das Symbol zum Hinzufügen einer Kategorie im Home-Dashboard hervorgehoben](../../../en/images/articles/articles-categories/01-category-add-via-home-dashboard.png)
 
 ## Die Beiträge: Neues Kategorieformular
 
-![Das neue Kategoriebearbeitungsformular der Beiträge](../../../en/images/getting-started/article-category-edit.png)
+![Das neue Kategoriebearbeitungsformular der Beiträge](../../../en/images/articles/articles-categories/02-article-category-edit.png)
 
 Der obige Screenshot zeigt das ausgefüllte Formular. Es gibt nur zwei Felder, die einige Inhalte benötigen. Alles andere hat Standard- oder Nullwerte, die Sie momentan belassen und später bei Bedarf ausfüllen können.
 
@@ -86,7 +93,7 @@ Einstellungen in diesem Tab beeinflussen das Erscheinungsbild dieser Kategorie a
 
 Durch das Schließen des Bearbeitungsformulars gelangen Sie zur **Beiträge: Kategorien**-Liste.
 
-![Eine Kategorienliste, gefiltert nach dem Tag Natur](../../../en/images/articles/categories-list.png)
+![Eine Kategorienliste, gefiltert nach dem Tag Natur](../../../en/images/articles/articles-categories/03-categories-list.png)
 
 ### Speichern ins Menü als Liste
 
@@ -102,7 +109,7 @@ Im *Seitendarstellung*-Tab versuchen Sie, das Feld *Seitenüberschrift anzeigen*
 
 Der folgende Screenshot zeigt die Seitenansicht einer in Entwicklung befindlichen Kategorien-Blog-Seite.
 
-![Kategorie-Blog-Seite Säugetiere](../../../en/images/articles/article-mammals-articles-blog-site-view.png)
+![Kategorie-Blog-Seite Säugetiere](../../../en/images/articles/articles-categories/04-article-mammals-articles-blog-site-view.png)
 
 ## Tipps
 
