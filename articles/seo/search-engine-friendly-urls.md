@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Search_Engine_Friendly_URLs",
-  "title": "Suchmaschinenfreundliche URLs ",
+  "title": "Suchmaschinenfreundliche URLs",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Menu_Item_Order",
-  "title": "Reihenfolge der Menüeinträge ",
+  "title": "Reihenfolge der Menüeinträge",
   "description": "", 
   "author": ""
 }

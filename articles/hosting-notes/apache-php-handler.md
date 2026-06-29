@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Apache_PHP_Handler",
-  "title": "Apache PHP Handler ",
+  "title": "Apache PHP Handler",
   "description": "", 
   "author": ""
 }

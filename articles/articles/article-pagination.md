@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Pagination",
-  "title": "Beitrag: Bearbeiten - Paginierung  ",
+  "title": "Beitrag: Bearbeiten - Paginierung ",
   "description": "", 
   "author": ""
 }

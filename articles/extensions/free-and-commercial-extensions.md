@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Free_and_Commercial_extensions",
-  "title": "Das Joomla-Erweiterungsverzeichnis  ",
+  "title": "Das Joomla-Erweiterungsverzeichnis ",
   "description": "", 
   "author": ""
 }

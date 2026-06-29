@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Cassiopeia_Template_Customisation",
-  "title": "Cassiopeia-Anpassung ",
+  "title": "Cassiopeia-Anpassung",
   "description": "", 
   "author": ""
 }

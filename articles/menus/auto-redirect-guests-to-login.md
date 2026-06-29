@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Auto_redirect_guests_to_login",
-  "title": "Gäste automatisch zur Anmeldung weiterleiten ",
+  "title": "Gäste automatisch zur Anmeldung weiterleiten",
   "description": "", 
   "author": ""
 }

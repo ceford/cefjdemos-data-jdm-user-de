@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Installing_Joomla_on_a_Raspberry_Pi",
-  "title": "Raspberry Pi Installation ",
+  "title": "Raspberry Pi Installation",
   "description": "", 
   "author": ""
 }

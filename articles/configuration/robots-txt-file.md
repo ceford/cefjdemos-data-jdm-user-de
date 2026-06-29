@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Robots.txt_file",
-  "title": "Die robots.txt-Datei ",
+  "title": "Die robots.txt-Datei",
   "description": "", 
   "author": ""
 }

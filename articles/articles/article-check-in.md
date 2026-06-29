@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Check-out_and_Check-in",
-  "title": "Beitrag: Check-in  ",
+  "title": "Beitrag: Check-in ",
   "description": "", 
   "author": ""
 }

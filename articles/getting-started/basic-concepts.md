@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Articles_and_categories",
-  "title": "Grundkonzepte ",
+  "title": "Grundkonzepte",
   "description": "", 
   "author": ""
 }

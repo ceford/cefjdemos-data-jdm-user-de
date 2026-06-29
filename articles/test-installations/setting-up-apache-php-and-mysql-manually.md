@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Setting_up_Apache,_PHP_and_MySQL_manually",
-  "title": "Manuelle Einrichtung von Apache, PHP und MySQL ",
+  "title": "Manuelle Einrichtung von Apache, PHP und MySQL",
   "description": "", 
   "author": ""
 }

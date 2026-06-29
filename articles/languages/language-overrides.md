@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Language_Overrides",
-  "title": "Sprachüberschreibungen  ",
+  "title": "Sprachüberschreibungen ",
   "description": "", 
   "author": ""
 }

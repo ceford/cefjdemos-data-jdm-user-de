@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Using_the_CLI",
-  "title": "Verwendung der CLI ",
+  "title": "Verwendung der CLI",
   "description": "", 
   "author": ""
 }

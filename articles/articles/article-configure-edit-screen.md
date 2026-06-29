@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:_Article_Edit_Configure_Edit_Screen",
-  "title": "Beitrag: Bearbeiten - Bearbeitungsbildschirm konfigurieren   ",
+  "title": "Beitrag: Bearbeiten - Bearbeitungsbildschirm konfigurieren  ",
   "description": "", 
   "author": ""
 }

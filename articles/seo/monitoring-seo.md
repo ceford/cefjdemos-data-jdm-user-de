@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Monitoring_SEO",
-  "title": "Überwachung von SEO ",
+  "title": "Überwachung von SEO",
   "description": "", 
   "author": ""
 }

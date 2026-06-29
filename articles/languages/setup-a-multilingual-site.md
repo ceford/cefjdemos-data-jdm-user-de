@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Setup_a_Multilingual_Site",
-  "title": "Einrichtung einer mehrsprachigen Website ",
+  "title": "Einrichtung einer mehrsprachigen Website",
   "description": "", 
   "author": ""
 }

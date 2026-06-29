@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Managing_Mail_Template_Layout",
-  "title": "E-Mail-Vorlagen ",
+  "title": "E-Mail-Vorlagen",
   "description": "", 
   "author": ""
 }

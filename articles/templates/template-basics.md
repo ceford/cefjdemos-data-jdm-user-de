@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Template_Basics",
-  "title": "Grundlagen der Vorlagen ",
+  "title": "Grundlagen der Vorlagen",
   "description": "", 
   "author": ""
 }

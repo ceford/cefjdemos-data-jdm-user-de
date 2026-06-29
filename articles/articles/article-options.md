@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:_Article_Options",
-  "title": "Beitrag: Bearbeiten - Optionen ",
+  "title": "Beitrag: Bearbeiten - Optionen",
   "description": "", 
   "author": ""
 }

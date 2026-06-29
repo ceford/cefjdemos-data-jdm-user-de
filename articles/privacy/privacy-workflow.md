@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Privacy_Workflow",
-  "title": "Datenschutz-Workflow  ",
+  "title": "Datenschutz-Workflow ",
   "description": "", 
   "author": ""
 }

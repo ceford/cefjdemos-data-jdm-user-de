@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Featured_Articles",
-  "title": "Beiträge: Vorgestellt ",
+  "title": "Beiträge: Vorgestellt",
   "description": "", 
   "author": ""
 }

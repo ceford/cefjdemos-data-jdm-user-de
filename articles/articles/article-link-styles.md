@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
-  "title": "Beitrag: Bearbeiten - Linkstile ",
+  "title": "Beitrag: Bearbeiten - Linkstile",
   "description": "", 
   "author": ""
 }

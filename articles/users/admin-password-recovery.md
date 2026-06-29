@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F",
-  "title": "Admin-Passwort-Wiederherstellung ",
+  "title": "Admin-Passwort-Wiederherstellung",
   "description": "", 
   "author": ""
 }

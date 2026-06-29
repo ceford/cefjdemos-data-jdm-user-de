@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:Access_Control",
-  "title": "Beitrag: Bearbeiten - Berechtigungen ",
+  "title": "Beitrag: Bearbeiten - Berechtigungen",
   "description": "", 
   "author": ""
 }

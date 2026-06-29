@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Schema_org",
-  "title": "Schema.org - Rezept ",
+  "title": "Schema.org - Rezept",
   "description": "", 
   "author": ""
 }

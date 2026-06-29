@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Moving_the_site_among_directories",
-  "title": "Verschieben des Installationsverzeichnisses ",
+  "title": "Verschieben des Installationsverzeichnisses",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_an_Article",
-  "title": "Einen Beitrag hinzufügen ",
+  "title": "Einen Beitrag hinzufügen",
   "description": "", 
   "author": ""
 }

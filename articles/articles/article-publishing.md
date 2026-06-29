@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:_Article_Publishing",
-  "title": "Beitrag: Bearbeiten - Veröffentlichen  ",
+  "title": "Beitrag: Bearbeiten - Veröffentlichen ",
   "description": "", 
   "author": ""
 }

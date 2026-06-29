@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Purging_expired_cache_files",
-  "title": "Abgelaufenen Cache löschen  ",
+  "title": "Abgelaufenen Cache löschen ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Monitoring_Server_Health",
-  "title": "Überwachung der Servergesundheit ",
+  "title": "Überwachung der Servergesundheit",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Headings",
-  "title": "Beitrag: Bearbeiten - Überschriften ",
+  "title": "Beitrag: Bearbeiten - Überschriften",
   "description": "", 
   "author": ""
 }

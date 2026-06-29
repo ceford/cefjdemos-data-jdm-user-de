@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:_Article_Accessibility_Check",
-  "title": "Beitrag: Barrierefreiheitsprüfung ",
+  "title": "Beitrag: Barrierefreiheitsprüfung",
   "description": "", 
   "author": ""
 }

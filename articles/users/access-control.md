@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Access_Control",
-  "title": "Zugriffskontrolle  ",
+  "title": "Zugriffskontrolle ",
   "description": "", 
   "author": ""
 }

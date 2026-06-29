@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Article_Images_and_Links",
-  "title": "Beitrag: Bearbeiten - Bilder und Links  ",
+  "title": "Beitrag: Bearbeiten - Bilder und Links ",
   "description": "", 
   "author": ""
 }

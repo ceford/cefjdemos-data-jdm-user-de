@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Upload_Delete_Rename",
-  "title": "Hochladen Löschen Umbenennen  ",
+  "title": "Hochladen Löschen Umbenennen ",
   "description": "", 
   "author": ""
 }
