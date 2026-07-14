@@ -44,7 +44,18 @@ Es gibt verschiedene Webmaster-Tools, die verwendet werden können, um herauszuf
 
 [Google-Support-Beitrag über die Verwendung von Titeln für Ihre Webseiten](http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=35624)
 
-In Joomla wird bei einer einzelnen Seite der Beitragstitel zum Seitentitel im Head und im Browser-Tab angezeigt. Bei einer zusammengesetzten Seite, wie *Ausgewählte Beiträge* oder einem *Kategorie-Blog*, wird der Menüpunkttitel zum Seitentitel. Daher sollten Sie gut darüber nachdenken, wie Sie gute, beschreibende Titel sowohl für Beiträge als auch für Menüeinträge erstellen.
+### Prioritäten bei Seitentiteln
+
+In Joomla wird der Metadaten-Seitentitel, der im `<head>`-Bereich steht und im Browser-Tab angezeigt wird, in der folgenden Reihenfolge aus einer dieser Quellen abgeleitet:
+
+1. Menüeintrag > Seitendarstellung > Seitentitel im Browser (sofern im Formular festgelegt)
+2. Beitrag > Optionen > Seitentitel im Browser (sofern im Formular festgelegt)
+3. Beitragstitel (bei einem einzelnen Beitrag ohne Menüeintrag)
+4. Titel des Menüeintrags (bei einer Sammelseite wie z. B. *Hervorgehobene Beiträge*
+oder einem *Kategorie-Blog*)
+
+Sie sollten sich daher Gedanken über die Formulierung aussagekräftiger Titel
+und Seitentitel sowohl für Beiträge als auch für Menüeinträge machen.
 
 ## Die Seitenbeschreibung
 
