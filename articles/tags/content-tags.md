@@ -1,125 +1,139 @@
 <!--
 {
-  "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
-  "title": "Inhalts-Tags",
-  "description": "", 
-  "author": ""
+    "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
+    "title": "Inhalts-Tags",
+    "description": " ",
+    "author": ""
 }
 -->
 
 ## Einführung
 
-Tags bieten eine einfache und effiziente Möglichkeit, Inhalte zu organisieren und darzustellen. Die **Tags-Komponente** ermöglicht die Verwendung von Tags über verschiedene Inhaltstypen hinweg, einschließlich Beiträge, Kategorien, Kontakte und Newsfeeds. Sie bietet auch die Erstellung von übergeordneten und untergeordneten Tags.
+Tags bieten eine einfache und effiziente Möglichkeit, Inhalte zu organisieren und anzuzeigen. 
+Die **Tags-Komponente** ermöglicht die Verwendung einzelner Tags für verschiedene 
+Inhaltstypen, einschließlich Beiträgen, Kategorien, Kontakten und Newsfeeds. Außerdem können übergeordnete und untergeordnete Tags erstellt werden.
 
-Im Gegensatz zu Joomla **Kategorien**, bei denen nur eine Kategorie einem Element zugewiesen werden kann, können mehrere Tags einem einzelnen Element zugewiesen werden, aber es ist keine Voraussetzung, Tags zuzuweisen.
+Im Gegensatz zu Joomla-**Kategorien**, bei denen einem Element nur eine Kategorie zugewiesen werden kann, können einem einzelnen Element mehrere Tags zugewiesen werden. Es ist jedoch nicht erforderlich, Elementen Tags zuzuweisen.
 
-Sobald ein Element mit einem bestimmten Tag versehen ist, führt das Klicken auf den Tag-Button bei der Anzeige von Inhalten mit Tags zu einer Seite, die eine Liste aller Elemente anzeigt, die mit diesem bestimmten Tag versehen wurden. Aus diesem Grund werden Tags oft als eine Möglichkeit verwendet, um *gefilterte* Listen von Inhalten zu präsentieren.
+Sobald ein Element mit einem bestimmten Tag versehen wurde, gelangen Sie durch Klicken auf die Tag-Schaltfläche bei Inhalten, die Tags anzeigen, zu einer Seite mit einer Liste aller Elemente, die mit diesem Tag versehen wurden. Aus diesem Grund werden Tags häufig verwendet, um *gefilterte* Inhaltslisten darzustellen.
 
 Tags können an mehreren Stellen hinzugefügt werden, was Flexibilität bei der Erstellung von Tags bietet.
 
 ## Überlegungen
 
-Bevor Sie starten, denken Sie über den Zweck von Tags auf der Website nach, insbesondere wenn andere Inhalte hinzufügen werden. Wenn sie nicht korrekt hinzugefügt und verwaltet werden, können Tags kontraproduktiv werden. Häufige Probleme beinhalten, dass Inhaltsautoren neue unnötige Tags hinzufügen und schlecht buchstabierte Tag-Namen erstellen. Einige Seitenadministratoren könnten sich dafür entscheiden, die Zugriffsberechtigungen so anzupassen, dass nur bestimmte Benutzer neue Tags hinzufügen können.
+Bevor Sie beginnen, sollten Sie den Zweck der Tags auf der Website bedenken, insbesondere wenn andere Personen Inhalte hinzufügen. Wenn Tags nicht korrekt hinzugefügt und verwaltet werden, können sie kontraproduktiv sein. Häufige Probleme sind, dass Autoren neue, unnötige Tags hinzufügen oder Tag-Namen falsch schreiben. Einige Website-Administratoren entscheiden sich möglicherweise dafür, die Zugriffsberechtigungen so zu ändern, dass nur bestimmte Benutzer neue Tags hinzufügen können.
 
-Wenn Tags erstellt werden, werden sie als Links in den markierten Beiträgen angezeigt. Die Tag-Stile und Positionen werden durch das Website-Template definiert. Sie werden oft als Buttons oder Labels gestaltet.
+Der folgende Screenshot zeigt Tags auf einer Website mit Beiträgen über UNESCO-Welterbestätten. In diesem Fall hat jeder Tag eine eigene Farbe.
 
-Die Tag-Anzeige kann deaktiviert werden! Dies mag unlogisch erscheinen, ist aber eine nützliche Funktion, wenn Tags verwendet werden, um beispielsweise Inhalte für spezifische Anwendungsfälle zu filtern.
+![die Seite mit der Tag-Liste](../../../en/images/tags/content-tags/01-tags-example.png)
 
-## Die Liste der Tags
+Wenn Tags erstellt werden, werden sie in den markierten Elementen als Links angezeigt. 
+Die Stile und Positionen der Tags werden durch das Website-Template festgelegt. Häufig werden sie als Schaltflächen oder Beschriftungen gestaltet.
 
-- Wählen Sie **Komponenten → Tags** aus dem Administrator-Menü.
+Die Anzeige von Tags kann für einzelne Beiträge oder für alle Beiträge deaktiviert werden! Dies mag unlogisch erscheinen, ist jedoch eine nützliche Funktion, wenn Tags beispielsweise dazu verwendet werden, Inhalte für bestimmte Anwendungsfälle zu filtern.
 
-![die Tags-Liste Seite](../../../en/images/tags/content-tags/01-tags-list.png)
+## Die Tag-Liste
 
-Unabhängig davon, wie Tags erstellt werden, können sie in dieser Liste gefunden werden.
+- Wählen Sie im Administrator-Menü **Komponenten → Tags**.
 
-## Hinzufügen von Tags
+Dieser Screenshot zeigt Tags in einer Struktur, die für eine mehrsprachige Website verwendet wird.
+Für jede Sprache gibt es eine Liste von Tags mit einem Sprach-Tag als übergeordnetem Tag.
+Der übergeordnete Tag wird in den Modulen *Beliebte Tags* und *Ähnliche Tags* verwendet.
 
-### Über die Tag-Liste
+![die Seite mit der Tag-Liste](../../../en/images/tags/content-tags/02-tags-list.png)
 
-Wählen Sie die Schaltfläche **Neu** in der Symbolleiste der Tag-Liste.
+Unabhängig davon, wie Tags erstellt wurden, sind sie in dieser Liste zu finden.
 
-![neuer Tag namens predator](../../../en/images/tags/content-tags/02-new-tag-predator.png)
+- Wählen Sie die Schaltfläche **Neu** in der Symbolleiste, um einen neuen Tag zu erstellen.
+- Wählen Sie einen **Titel** eines Tags, um einen vorhandenen Tag zu bearbeiten.
 
-- **Titel** Dies ist das einzige *Pflichtfeld*.
+### Die Registerkarte „Tag-Details“
+
+![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../en/images/tags/content-tags/03-edit-tag-details-tab.png)
+
+- **Titel** Dies ist das einzige *erforderliche* Feld.
 - **Alias** Dieser wird beim Speichern aus dem Titel erstellt.
-- **Beschreibung** Es ist immer am besten, eine Beschreibung hinzuzufügen. Sie wird in Administratorformularen angezeigt und kann hilfreich sein, wenn viele Tags verwendet werden.
-- **Eltern** Wenn dies ein Stamm-Eltern-Tag ist, lassen Sie dies auf *Keine* eingestellt. Oder wählen Sie ein Eltern-Tag aus der Liste, wenn dies ein Untertag ist.
-- **Status** Dieses Feld ist standardmäßig auf *Veröffentlicht* gesetzt. Es kann auf *Unveröffentlicht*, *Archiviert* oder *Papierkorb* eingestellt werden.
-- **Zugriff** Die Zugriffsebene ist standardmäßig Öffentlich.
-- **Hinweis** und **Versionshinweis:** Bei Bedarf können Sie Anmerkungen hinzufügen.
-- **Speichern & Schließen** Der neue Tag erscheint in der Tag-Liste. Wenn Sie mehrere Tags erstellen, können Sie stattdessen auf **Speichern & Neu** klicken, um einen weiteren zu erstellen.
+- **Beschreibung** Es ist immer empfehlenswert, eine Beschreibung hinzuzufügen. Sie wird in den Administratorformularen angezeigt und kann hilfreich sein, wenn viele Tags verwendet werden.
+- **Übergeordnet** Lassen Sie *Keine* ausgewählt, wenn dieser Tag keinen übergeordneten Tag besitzt. Oder wählen Sie einen übergeordneten Tag aus der Liste aus, um diesen Tag zu einem untergeordneten Tag zu machen.
+- **Status** Dieses Feld ist standardmäßig auf *Veröffentlicht* gesetzt. Es kann auf *Unveröffentlicht*, *Archiviert* oder *Papierkorb* gesetzt werden.
+- **Zugriff** Die Zugriffsebene ist standardmäßig „Öffentlich“.
+- **Notiz** und **Versionshinweis:** Bei Bedarf können Sie Notizen hinzufügen.
+- **Speichern & Schließen** Wenn Sie mehrere Tags erstellen, können Sie **Speichern & Neu** auswählen, um einen neuen Tag zu erstellen.
 
-Nach dem Speichern steht der Tag zur Verwendung in den verschiedenen Inhaltstypen zur Verfügung, die sie nutzen.
+### Die Registerkarte „Optionen“
 
-### Innerhalb eines Beitrags
+- **Layout** Es stehen möglicherweise mehrere Layouts zur Auswahl, und Sie können mit einer Template-Überschreibung ein eigenes Layout erstellen.
+- **CSS-Klasse für Tag-Link** Standardmäßig werden Tags als blaue Schaltfläche angezeigt. Sie können hier Klassenangaben eingeben, um das Erscheinungsbild der Tags anzupassen und verschiedenen Tags unterschiedliche Farben zu geben. Beispiel: `bg-danger-subtle border border-danger` sind Bootstrap-Klassen, die eine rosafarbene Schaltfläche mit rotem Rand erzeugen.
+- **Teaserbild und vollständiges Bild** Legen Sie Bilder für den Tag fest – ein Teaserbild für die Tag-Liste und/oder ein vollständiges Bild für die Tag-Seite.
 
-Es ist möglich, neue Tags hinzuzufügen, während Sie einen Beitrag erstellen oder bearbeiten. Im Reiter Inhalts-**Tags-Feld** geben Sie den Namen des neuen Tags ein und drücken **Enter**, um das Tag zu speichern und dem Beitrag zuzuweisen.
+![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../en/images/tags/content-tags/04-edit-tag-options-tab.png)
 
-### Innerhalb einer Kategorie
+### Die Registerkarte „Veröffentlichung“
 
-Tags können beim Erstellen oder Bearbeiten einer Kategorie hinzugefügt werden. Im **Kategorie**-Reiter geben Sie den Tag-Namen im **Tags-Feld** ein und drücken **Enter**, um das neue Tag zu erstellen und zuzuweisen.
+- Legen Sie Metadaten für die Tag-Seite zur Suchmaschinenoptimierung (SEO) fest.
 
-### Innerhalb eines Kontakts
+## Alternative Methoden zur Erstellung
 
-Tags können beim Erstellen oder Bearbeiten eines Kontakts hinzugefügt werden. Im Reiter **Neuer/Editierter Kontakt** geben Sie den Tag-Namen im **Tags-Feld** ein und drücken **Enter**, um das neue Tag zu erstellen und zuzuweisen. Sie können auch neue Tags hinzufügen, wenn Sie Kontakt-Kategorien erstellen.
+### Aus einem Beitrag
+
+Beim Erstellen oder Bearbeiten eines Beitrags können neue Tags hinzugefügt werden. Geben Sie in der Registerkarte „Inhalt“ des Beitrags im **Tags-Feld** den Namen des neuen Tags ein und drücken Sie **Enter**, um den Tag zu speichern und dem Beitrag zuzuweisen.
+
+### Aus einer Kategorie
+
+Tags können beim Erstellen oder Bearbeiten einer Kategorie hinzugefügt werden. Geben Sie in der Registerkarte **Kategorie** den Namen des Tags in das **Tags-Feld** ein und drücken Sie **Enter**, um den neuen Tag zu erstellen und zuzuweisen.
+
+### Aus einem Kontakt
+
+Tags können beim Erstellen oder Bearbeiten eines Kontakts hinzugefügt werden. Geben Sie in der Registerkarte **Neuer Kontakt/Kontakt bearbeiten** den Namen des Tags in das **Tags-Feld** ein und drücken Sie **Enter**, um den neuen Tag zu erstellen und zuzuweisen. Sie können auch neue Tags erstellen, wenn Sie Kontaktkategorien erstellen.
 
 ### Innerhalb eines Newsfeeds
 
-Tags können beim Erstellen oder Bearbeiten eines neuen Newsfeeds hinzugefügt werden. Im Reiter **Neuer/Editierter Newsfeed** geben Sie den Tag-Namen im **Tags-Feld** ein und drücken **Enter**, um das neue Tag zu erstellen und zuzuweisen. Sie können auch neue Tags hinzufügen, wenn Sie Newsfeed-Kategorien erstellen.
+Tags können beim Erstellen oder Bearbeiten eines neuen Newsfeeds hinzugefügt werden. Geben Sie im
+Tab **Neuen Newsfeed erstellen/Bearbeiten** den Namen des Tags in das **Tags-Feld** ein und drücken Sie
+**Enter**, um den neuen Tag zu erstellen und zuzuweisen. Sie können auch beim
+Erstellen von Newsfeed-Kategorien neue Tags hinzufügen.
 
-## Verwalten von Tags
+## Tags verwalten
 
-Wo auch immer Sie neue Tags in Joomla hinzufügen, werden sie alle in der Tag-Liste erscheinen. Verwenden Sie die Tag-Liste, um Tags zu finden, zu öffnen und deren Einstellungen anzupassen.
+Unabhängig davon, wo Sie in Joomla neue Tags hinzufügen, werden sie alle in der Tag-Liste angezeigt.
+Verwenden Sie die Tag-Liste, um Tag-Einstellungen zu suchen, zu öffnen und anzupassen.
 
-### Der Tag-Liste-Filter
+Sie können die Liste auf verschiedene Arten bearbeiten:
 
-![Tags Liste Filter nach Typ](../../../en/images/tags/content-tags/03-tags-list-filter.png)
+- Suchen Sie nach einem Tag, indem Sie im Suchfeld einen Teil oder den gesamten Titel bzw. Alias eingeben.
+- Ordnen Sie die Liste per Drag-and-drop neu an, um die Ausgabereihenfolge zu optimieren.
+- Veröffentlichen oder deaktivieren Sie Tags über die Schaltfläche in der Spalte Status.
+- Wählen Sie einen oder mehrere Tags aus und verwenden Sie die Schaltfläche **Aktionen**, um die ausgewählten Tags zu veröffentlichen, zu deaktivieren, zu archivieren, einzuchecken oder in den Papierkorb zu verschieben.
+- Wählen Sie einen oder mehrere Tags aus und verwenden Sie die Schaltfläche **Aktionen → Stapelverarbeitung**, um die
+  Sprache oder Zugriffsebene festzulegen.
 
-Sie können die Liste auf verschiedene Weise beeinflussen:
+## Tag-Ausgaben
 
-- Suchen Sie nach einem Tag, indem Sie einen Teil oder den gesamten Titel im Suchfeld eingeben.
-- Ordnen Sie die Liste neu, indem Sie Drag & Drop verwenden, um die Ausgabe-Reihenfolge zu optimieren.
-- Veröffentlichen oder deaktivieren Sie Tags mit der Schaltfläche in der Spalte Status.
-- Wählen Sie ein oder mehrere Tags aus und verwenden Sie die **Aktionen**-Schaltfläche, um die ausgewählten Tags zu veröffentlichen, zu deaktivieren, zu archivieren, einzuchecken oder in den Papierkorb zu verschieben.
-- Wählen Sie ein oder mehrere Tags aus und verwenden Sie die Schaltfläche **Aktionen → Stapel**, um die Sprache oder die Zugriffsebene festzulegen.
+Sobald Tags auf Ihrer Website erstellt wurden, können sie in Inhalten und in Modulen wie **Beliebte Tags** und **Ähnliche Tags** verwendet werden. Die folgenden Beispiele zeigen, wie dies auf einer Website mit dem standardmäßigen **Cassiopeia**-Template aussehen kann.
 
-### Tag-Einstellungen
+![Tags, die in einem Beitrag sowie in den Modulen „Beliebte Tags“ und „Ähnliche Tags“ angezeigt werden](../../../en/images/tags/content-tags/05-tag-modules-site-view.png)
 
-- Wählen Sie einen Tag-**Titel**, um Änderungen an dessen Einstellungen vorzunehmen.
+Wenn Sie einen der Tags auswählen, werden Sie zu einer Seite weitergeleitet, auf der
+alle Beiträge aufgelistet werden, die diesem bestimmten Tag zugewiesen sind:
 
-Im Tag-Bearbeitungsformular:
+![Beispiel für die Verwendung von Tags auf einer Website mit einem schwarzen Labrador](../../../en/images/tags/content-tags/06-items-with-cultural-site-tag.png)
 
-- Die Einstellungen auf der Registerkarte **Tag Details** wurden oben behandelt.
-- Die Registerkarte **Optionen**:
-  - Ändern Sie das Layout der Tag-Seite (die Seite, die erscheint, wenn Sie auf den Tag-Link klicken - beispielsweise mysite.com/tags/mein-tag). Dieses Layout ist normalerweise die Standardeinstellung und abhängig von der Vorlage.
-  - Fügen Sie eine CSS-Klasse hinzu, um einen anderen Stil (Erscheinungsbild) für den Link des Tags anzuwenden. Dies wird normalerweise nur vom Site-Administrator verwendet.
-  - Setzen Sie Bilder für den Tag fest - ein Teaser-Bild für die Tag-Liste und/oder ein vollständiges Bild für die Tag-Seite.
-- Die Registerkarte **Veröffentlichung**: Setzen Sie Metadaten für die Tag-Seite für die Suchmaschinenoptimierung (SEO).
+Die Liste der Beiträge ist eine gefilterte Liste der Website-Inhalte mit dem ausgewählten Tag.
+Ein Filterfeld erleichtert das Auffinden von Beiträgen, wenn die Liste wächst.
+Sie können außerdem die Anzahl der Ergebnisse festlegen, die in einer einzelnen Ansicht angezeigt werden sollen.
 
-## Wie Joomla Tags Ausgibt
+## Tag-Konfiguration
 
-Sobald Tags auf Ihrer Website erstellt wurden, können sie nicht nur in Inhalten, sondern auch in einigen nützlichen Modulen wie **Beliebte Tags** und **Ähnliche Tags** verwendet werden. Die folgenden Beispiele zeigen, wie diese auf einer Standardinstallation mit dem Standard-Template **Cassiopeia** aussehen.
+Einzelne Tags übernehmen Einstellungen aus den Optionen der Tags-Komponente. Wählen Sie die
+Schaltfläche **Optionen** in der Symbolleiste der Tag-Listenseite aus, um die verfügbaren Standardoptionen für
+Tags anzuzeigen.
 
-![Beispiel zur Nutzung von Tags auf der Website, gelber Labrador](../../../en/images/tags/content-tags/04-tag-examples-yellow-labrador.png)
-
-Wenn Sie auf eines der Tags klicken, gelangen Sie zu einer Seite, die alle Beiträge auflistet, die diesem bestimmten Tag zugewiesen sind:
-
-![Beispiel zur Nutzung von Tags auf der Website, schwarzer Labrador](../../../en/images/tags/content-tags/05-tag-examples-black-labrador.png)
-
-Ein Klick auf einen Tag führt Sie zu einer Seite, die eine Liste aller mit diesem speziellen Tag versehenen Beiträge ausgibt. Im Grunde ist es eine gefilterte Liste Ihrer getaggten Website-Inhalte. Ein Filterfeld wird bereitgestellt, um das Auffinden von Beiträgen zu erleichtern, wenn die Liste wächst. Sie können auch die Anzahl der Ergebnisse festlegen, die Sie in einer einzelnen Ansicht sehen möchten.
-
-## Konfiguration der Tags
-
-Einzelne Tags erben Einstellungen von den Optionen der Tags-Komponente. Dies wird in einem separaten Tutorial behandelt. [ToDo] Wählen Sie die Schaltfläche **Optionen** in der Symbolleiste der Tag-Liste.
-
-Die Konfiguration der Tags-Komponente kann auf Menüebene überschrieben werden.
+Die Konfigurationsoptionen der Tags-Komponente können auf der Ebene von Beiträgen und/oder Menüeinträgen überschrieben werden.
 
 ## Tipps
 
-- Denke daran, dass Tags über mehrere Inhaltstypen hinweg verwendet werden
-- Du kannst einem Beitrag mehrere Tags hinzufügen
-- Verwende die Hilfeschaltfläche, wenn du unsicher bist
+- Denken Sie daran, dass Tags für mehrere Inhaltstypen verwendet werden.
+- Sie können einem Beitrag mehr als einen Tag hinzufügen.
+- Verwenden Sie die Hilfe-Schaltfläche der Symbolleiste, wenn Sie unsicher sind.
 
 *Übersetzt von openai.com*
-

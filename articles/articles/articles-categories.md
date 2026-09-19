@@ -109,7 +109,7 @@ Im *Seitendarstellung*-Tab versuchen Sie, das Feld *Seitenüberschrift anzeigen*
 
 Der folgende Screenshot zeigt die Seitenansicht einer in Entwicklung befindlichen Kategorien-Blog-Seite.
 
-![Kategorie-Blog-Seite Säugetiere](../../../en/images/articles/articles-categories/04-article-mammals-articles-blog-site-view.png)
+![Kategorie-Blog-Seite Säugetiere](../../../en/images/articles/articles-categories/04-category-blog-site-view.png)
 
 ## Tipps
 

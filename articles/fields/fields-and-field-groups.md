@@ -21,7 +21,7 @@ Wenn ein Feld keiner Gruppe zugeordnet ist, erscheint es im Editierformular auf 
 
 Für Beiträge über die Natur könnten die Beitrag-Kategorie und Unterkategorien für jeden Zweig der lebenden Welt wie im folgenden Beispiel erscheinen:
 
-![Beitragskategorien für die Natur](../../../en/images/fields/fields-and-field-groups/01-fields-articles-categories-list.png)
+![Beitragskategorien für die Natur](../../../en/images/fields/fields-and-field-groups/01-categories-list.png)
 
 Einige offensichtliche Merkmale der Natur, die zu beachten sind:
 
@@ -44,7 +44,7 @@ Das Erstellen von Feldgruppen für Beiträge ist sehr einfach:
 - Geben Sie eine **Beschreibung** ein. Diese erscheint unter dem Feld im Beitragsbearbeitungsformular, wenn *Inline-Hilfe umschalten* ausgewählt ist.
 - Wählen Sie **Speichern & Schließen** aus der Symbolleiste.
 
-![Liste der Inhaltsfeldgruppen](../../../en/images/fields/fields-and-field-groups/02-fields-field-groups-list.png)
+![Liste der Inhaltsfeldgruppen](../../../en/images/fields/fields-and-field-groups/02-field-groups-list.png)
 
 ### Reihenfolge
 
@@ -58,7 +58,7 @@ Um ein neues Beitragsfeld zu erstellen, wählen Sie **Content → Felder** aus d
 
 Beachten Sie, dass in dem untenstehenden Screenshot dieses Feld der Feldergruppe Natur und der Kategorie Natur zugewiesen wurde. Das stellt sicher, dass es immer in Beiträgen der Kategorie Natur und jeder Unterkategorie erscheint.
 
-![Textfeld - lateinischer Name in Naturgruppe](../../../en/images/fields/fields-and-field-groups/03-fields-latin-name.png)
+![Textfeld - lateinischer Name in Naturgruppe](../../../en/images/fields/fields-and-field-groups/03-latin-name.png)
 
 ### Kontrollkästchen - Blütezeit
 
@@ -66,13 +66,13 @@ Kontrollkästchen erscheinen im Beitragsbearbeitungsformular, damit Sie die Blü
 
 Beachten Sie, dass in diesem Screenshot das Feld der Gruppe Blumen und der Kategorie Blumen zugewiesen wurde. Das sollte sicherstellen, dass das Feld nur in Beiträgen über Blumen vorhanden ist.
 
-![Kontrollkästchenfeld - Blütezeit](../../../en/images/fields/fields-and-field-groups/04-fields-flowering-season.png)
+![Kontrollkästchenfeld - Blütezeit](../../../en/images/fields/fields-and-field-groups/04-propagation.png)
 
 ### Farbe - Color
 
 Nur um es verwirrend zu machen, ist der Name des Feldtyps Color (US-Schreibweise), aber das Label in der Dokumentation ist Colour (britische Schreibweise).
 
-![Feld Farbe](../../../en/images/fields/fields-and-field-groups/05-fields-colour.png)
+![Feld Farbe](../../../en/images/fields/fields-and-field-groups/05-colour.png)
 
 Das Feld Farbe ist der Feldergruppe Natur und der Kategorie Natur zugewiesen, da es nicht einzigartig für Blumen ist.
 
@@ -80,7 +80,7 @@ Das Feld Farbe ist der Feldergruppe Natur und der Kategorie Natur zugewiesen, da
 
 Die Winterhärte einer Pflanze kann als Ganzzahl von 1 bis 7 dargestellt werden. Es gibt kein Feld für eine reelle Zahl, also könnten Länge und Breite Ganzzahlen mit einer Skala (cm oder m oder ft) im Label sein. Es gibt *Präfix*- und *Suffix*-Einstellungen im Tab *Optionen*. Wenn es keine offensichtliche obere Grenze gibt, lassen Sie das Feld *Letztes:* leer.
 
-![Feld Winterhärte](../../../en/images/fields/fields-and-field-groups/06-fields-hardiness.png)
+![Feld Winterhärte](../../../en/images/fields/fields-and-field-groups/06-hardiness.png)
 
 RHS Winterhärte ist eine Eigenschaft, die üblicherweise auf Blumen angewendet wird.
 
