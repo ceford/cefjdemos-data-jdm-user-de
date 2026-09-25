@@ -47,4 +47,6 @@ Im Dateneingabeformular erscheint das Notizfeld neben anderen Feldern als Text, 
 
 Wenn *Im Frontend anzeigen* auf *Ja* gesetzt ist, erscheint das Notizfeld neben anderen Feldern im Frontend. Dort kann es allgemeine Informationen enthalten, die für eine Gruppe von Beiträgen gelten.
 
+![Note field site display](../../../en/images/fields/adding-custom-fields-note-field/03-fields-note-site.png)
+
 *Übersetzt von openai.com*

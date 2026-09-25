@@ -39,7 +39,7 @@ Vom Administrator-Menü aus:
 
 - Melden Sie sich auf der Website an und verwenden Sie den Link, um das Benutzerprofil zu überprüfen.
 
-![Benutzerprofil-Zusammenfassung](../../../en/images/users/user-profile/03-user-profile-summary.png)
+![Benutzerprofil-Zusammenfassung](../../../en/images/users/user-profile/03-user-profile-edit.png.png)
 
 - Probieren Sie die Schaltfläche **Profil bearbeiten** aus.
 

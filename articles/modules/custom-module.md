@@ -55,7 +55,7 @@ Wenn Sie bereit sind, wählen Sie die Schaltfläche **Speichern & Schließen**.
 
 Das Modul wird in der Seitenleiste der Website veröffentlicht und zeigt den von Ihnen eingegebenen Text an.
 
-![Beispiel für ein benutzerdefiniertes Modul](../../../en/images/modules/how-do-you-create-a-custom-module-3f/01-modules-custom-display.png)
+![Beispiel für ein benutzerdefiniertes Modul](../../../en/images/modules/custom-module/01-modules-site-message.png)
 
 *Übersetzt von openai.com*
 

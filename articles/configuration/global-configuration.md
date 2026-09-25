@@ -17,7 +17,7 @@ Das Formular für die Globale Konfiguration ermöglicht es einem Super User, die
 
 Das Formular zur globalen Konfiguration hat sechs Registerkarten, von denen einige lange Listen von Parametern enthalten. Verwenden Sie die Schaltfläche *Inline-Hilfe umschalten* in der Symbolleiste, um mehr oder weniger Informationen zu jedem Parameter anzuzeigen.
 
-![Registerkarte Globale Konfiguration - Website](../../../en/images/configuration/global-configuration/01-global-configuration-site-tab.png)
+![Registerkarte Globale Konfiguration - Website](../../../en/images/configuration/global-configuration/01-site-tab.png)
 
 Einige Parameter zeigen oder verbergen andere Parameter, wenn sie ausgewählt werden. Zum Beispiel zeigt die **Website offline**-Schaltfläche mehr Felder an, wenn sie auf *Ja* gesetzt ist, als wenn sie auf *Nein* gesetzt ist. Mit erweiterter Inline-Hilfe sind die meisten Felder ausreichend gut dokumentiert, sodass hier keine weitere Erklärung erforderlich ist, abgesehen von einigen zusätzlichen Benutzerhinweisen auf jeder Registerkarte.
 
@@ -51,7 +51,7 @@ SEO ist ein Akronym für *Suchmaschinenoptimierung*. Einstellungen in dieser Gru
 
 ## System-Tab
 
-![Global-Konfiguration System-Tab](../../../en/images/configuration/global-configuration/02-global-configuration-system-tab.png)
+![Global-Konfiguration System-Tab](../../../en/images/configuration/global-configuration/02-system-tab.png)
 
 ### Debug-Panel
 
@@ -59,7 +59,7 @@ Die Punkte in diesem Panel werden durch die Inline-Hilfe gut erklärt. Sollten S
 
 ## Server-Tab
 
-![Globales Konfigurations-Server-Tab](../../../en/images/configuration/global-configuration/03-global-configuration-server-tab.png)
+![Globales Konfigurations-Server-Tab](../../../en/images/configuration/global-configuration/03-server-tab.png)
 
 ### E-Mail-Panel
 
@@ -113,19 +113,19 @@ Die folgenden Kombinationen funktionieren ebenfalls:
 
 ## Protokollierungs-Tab
 
-![Registerkarte zur globalen Konfiguration der Website](../../../en/images/configuration/global-configuration/04-global-configuration-logging-tab.png)
+![Registerkarte zur globalen Konfiguration der Website](../../../en/images/configuration/global-configuration/04-logging-tab.png)
 
 Im Normalbetrieb sollte bei einer Joomla-Website die Protokollierung deaktiviert sein. Wenn es Probleme gibt, können Sie die Protokollierung aktivieren, indem Sie das Feld **Fast alles protokollieren** auf `Ja` setzen. Das Feld **Veraltete API protokollieren** ist wirklich nur für Entwickler gedacht. Das Feld **Pfad zum Protokollordner** zeigt Ihnen, wo Sie nach Protokollen suchen können, wenn Sie die Protokollierung zur Unterstützung beim Debuggen eingerichtet haben. Die dort gefundenen Fehlerprotokolle sind nur diejenigen, die von Joomla erfasst wurden. Es kann jedoch andere Fehler geben, die nur in den Fehlerprotokollen Ihres Servers erscheinen.
 
 ## Der Tab "Textfilter"
 
-![Globale Konfiguration Seitenreiter](../../../en/images/configuration/global-configuration/05-global-configuration-filters-tab.png)
+![Globale Konfiguration Seitenreiter](../../../en/images/configuration/global-configuration/06-permissions-tab.png)
 
 Die Textfilter-Einstellungen werden auf alle Texteditor-Felder angewendet, die von Benutzern in den ausgewählten Gruppen übermittelt werden. Diese Filteroptionen bieten mehr Kontrolle über das HTML, das Ihre Inhaltsanbieter einreichen. Sie können so streng oder liberal sein, wie es die Anforderungen Ihrer Website erfordern. Das Filtern ist optional, und die Standardeinstellungen bieten einen guten Schutz gegen Markup, das häufig mit Angriffen auf Websites in Verbindung gebracht wird.
 
 ## Registerkarte "Berechtigungen"
 
-![Registerkarte für globale Konfiguration der Website](../../../en/images/configuration/global-configuration/06-global-configuration-permissions-tab.png)
+![Registerkarte für globale Konfiguration der Website](../../../en/images/configuration/global-configuration/05-filters-tab.png)
 
 Berechtigungen steuern, was Benutzer in jeder Benutzergruppe sehen und tun können. Die Einträge in der Registerkarte "Berechtigungen" legen die Standardberechtigungen für die Website fest.
 

@@ -65,7 +65,7 @@ Die Modulüberschrift ist nun dunkelblau. Es gibt verschiedene Möglichkeiten, F
 * Ändere auch die untere Rahmenlinie der Überschrift.
 * Wende diesen Stil auf mehrere Beiträge gleichzeitig an, anstatt sie einzeln zu bearbeiten.
 
-![Archivierte Beiträge Modul Beispiel](../../../en/images/modules/module-styles/01-modules-archived-articles.png)
+![Archivierte Beiträge Modul Beispiel](../../../en/images/modules/module-styles/01-modules-site-message.png)
 
 *Übersetzt von openai.com*  
 
