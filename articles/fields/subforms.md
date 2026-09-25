@@ -40,4 +40,3 @@ Suchen Sie den **Proben**-Eintrag in diesem Screenshot:
 ![Unterformularseitenanzeige](../../../en/images/fields/subforms/03-fields-subform-site.png)
 
 *Übersetzt von openai.com*
-
