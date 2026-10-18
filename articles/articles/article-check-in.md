@@ -39,7 +39,7 @@ Aus dem Administrator-Menü:
   **System → Wartungspanel → Globaler Check-in**.
 - Die Liste zeigt die Anzahl der ausgecheckten Elemente.
 
-![Globale Check-in-Seite](../../../en/images/articles/article-check-in/01-global-checkin.png)
+![Globale Check-in-Seite](../../../de/images/articles/article-check-in/01-global-checkin.png)
 
 - Wählen Sie in der Liste der Datenbanktabellen das Kontrollkästchen für den Typ des auszucheckenden Elements aus.
 - Wählen Sie *Check-in* aus der Toolbar.

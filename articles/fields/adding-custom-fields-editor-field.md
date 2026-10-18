@@ -22,7 +22,7 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 - **Höhe** Der Wert für die Höhe definiert die Höhe (in Pixeln) des WYSIWYG-Editors. Der Standardwert dafür ist 250px. Der Wert kann als Bruchteil der Bildschirmhöhe dargestellt werden, zum Beispiel 50vh.
 - **Filter** Erlauben Sie dem System, bestimmte HTML-Tags oder Rohdaten zu speichern.
 
-![Erstellung eines Editor-Feldes](../../../en/images/fields/adding-custom-fields-editor-field/01-fields-editor-edit.png)
+![Erstellung eines Editor-Feldes](../../../de/images/fields/adding-custom-fields-editor-field/01-fields-editor-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Aufnahme des Feldtyps in den Titel nur zu Demonstrationszwecken. Lassen Sie ihn in Ihren eigenen Feldtiteln weg.
 
@@ -30,7 +30,7 @@ Spezielle Optionen innerhalb dieses Feldes sind:
 
 Im Beitragsbearbeitungsformular ähnelt das zusätzliche Editor-Feld dem Hauptinhalt-Editor-Feld.
 
-![Editor-Feld Dateneingabe](../../../en/images/fields/adding-custom-fields-editor-field/02-fields-editor-data-entry.png)
+![Editor-Feld Dateneingabe](../../../de/images/fields/adding-custom-fields-editor-field/02-fields-editor-data-entry.png)
 
 ## Datenanzeige
 
@@ -40,7 +40,7 @@ In der Beitragsanzeige erscheint der eingegebene Text unter der Überschrift, je
 
 Suchen Sie nach dem **Anbauhinweise**-Element.
 
-![Editor-Feld-Website-Anzeige](../../../en/images/fields/adding-custom-fields-editor-field/03-fields-editor-site.png)
+![Editor-Feld-Website-Anzeige](../../../de/images/fields/adding-custom-fields-editor-field/03-fields-editor-site.png)
 
 *Übersetzt von openai.com*
 

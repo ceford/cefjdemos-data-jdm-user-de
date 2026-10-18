@@ -18,7 +18,7 @@ Besondere Optionen innerhalb dieses Feldes sind:
 
 - **Mehrfach** Ermöglicht die Auswahl mehrerer Werte.
 
-![Benutzergruppen Feld Erstellung](../../../en/images/fields/adding-custom-fields-usergrouplist-field/01-fields-usergrouplist-edit.png)
+![Benutzergruppen Feld Erstellung](../../../de/images/fields/adding-custom-fields-usergrouplist-field/01-fields-usergrouplist-edit.png)
 
 **Hinweis:** In diesem Beispiel dient die Aufnahme des Feldtyps im Titel nur zu Demonstrationszwecken. Lassen Sie es in Ihren eigenen Feldtiteln weg.
 
@@ -26,13 +26,13 @@ Besondere Optionen innerhalb dieses Feldes sind:
 
 Einfach, wählen Sie eine oder mehrere Gruppen aus der Liste der Gruppen aus.
 
-![Benutzergruppen Feld Dateneingabe](../../../en/images/fields/adding-custom-fields-usergrouplist-field/02-fields-usergrouplist-data-entry.png)
+![Benutzergruppen Feld Dateneingabe](../../../de/images/fields/adding-custom-fields-usergrouplist-field/02-fields-usergrouplist-data-entry.png)
 
 ## Datenanzeige
 
 Der folgende Screenshot der Website zeigt das Feld, das in einem Beitrag angezeigt wird. Die Option *Automatische Anzeige* ist für die Position des Feldes verantwortlich und Ihr Template ist für das Design des Feldes verantwortlich.
 
-![Benutzergruppenfeld Website-Anzeige](../../../en/images/fields/adding-custom-fields-usergrouplist-field/03-fields-usergrouplist-site.png)
+![Benutzergruppenfeld Website-Anzeige](../../../de/images/fields/adding-custom-fields-usergrouplist-field/03-fields-usergrouplist-site.png)
 
 Dem Feld Label folgt eine kommagetrennte Liste der ausgewählten Gruppen.
 

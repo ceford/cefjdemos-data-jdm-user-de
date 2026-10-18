@@ -13,7 +13,7 @@ Der Hilfe-Bildschirm wird nicht als Dashboard bezeichnet, aber er verfügt über
 
 ## Screenshot
 
-![Hilfe-Dashboard](../../../en/images/dashboards/help-dashboard/01-help-dashboard.png)
+![Hilfe-Dashboard](../../../de/images/dashboards/help-dashboard/01-help-dashboard.png)
 
 *Übersetzt von openai.com*
 

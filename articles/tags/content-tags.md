@@ -25,7 +25,7 @@ Bevor Sie beginnen, sollten Sie den Zweck der Tags auf der Website bedenken, ins
 
 Der folgende Screenshot zeigt Tags auf einer Website mit Beiträgen über UNESCO-Welterbestätten. In diesem Fall hat jeder Tag eine eigene Farbe.
 
-![die Seite mit der Tag-Liste](../../../en/images/tags/content-tags/01-tags-example.png)
+![die Seite mit der Tag-Liste](../../../de/images/tags/content-tags/01-tags-example.png)
 
 Wenn Tags erstellt werden, werden sie in den markierten Elementen als Links angezeigt. 
 Die Stile und Positionen der Tags werden durch das Website-Template festgelegt. Häufig werden sie als Schaltflächen oder Beschriftungen gestaltet.
@@ -40,7 +40,7 @@ Dieser Screenshot zeigt Tags in einer Struktur, die für eine mehrsprachige Webs
 Für jede Sprache gibt es eine Liste von Tags mit einem Sprach-Tag als übergeordnetem Tag.
 Der übergeordnete Tag wird in den Modulen *Beliebte Tags* und *Ähnliche Tags* verwendet.
 
-![die Seite mit der Tag-Liste](../../../en/images/tags/content-tags/02-tags-list.png)
+![die Seite mit der Tag-Liste](../../../de/images/tags/content-tags/02-tags-list.png)
 
 Unabhängig davon, wie Tags erstellt wurden, sind sie in dieser Liste zu finden.
 
@@ -49,7 +49,7 @@ Unabhängig davon, wie Tags erstellt wurden, sind sie in dieser Liste zu finden.
 
 ### Die Registerkarte „Tag-Details“
 
-![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../en/images/tags/content-tags/03-edit-tag-details-tab.png)
+![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../de/images/tags/content-tags/03-edit-tag-details-tab.png)
 
 - **Titel** Dies ist das einzige *erforderliche* Feld.
 - **Alias** Dieser wird beim Speichern aus dem Titel erstellt.
@@ -66,7 +66,7 @@ Unabhängig davon, wie Tags erstellt wurden, sind sie in dieser Liste zu finden.
 - **CSS-Klasse für Tag-Link** Standardmäßig werden Tags als blaue Schaltfläche angezeigt. Sie können hier Klassenangaben eingeben, um das Erscheinungsbild der Tags anzupassen und verschiedenen Tags unterschiedliche Farben zu geben. Beispiel: `bg-danger-subtle border border-danger` sind Bootstrap-Klassen, die eine rosafarbene Schaltfläche mit rotem Rand erzeugen.
 - **Teaserbild und vollständiges Bild** Legen Sie Bilder für den Tag fest – ein Teaserbild für die Tag-Liste und/oder ein vollständiges Bild für die Tag-Seite.
 
-![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../en/images/tags/content-tags/04-edit-tag-options-tab.png)
+![Bearbeitungsformular für Tags, Registerkarte „Optionen“ mit Bootstrap-CSS-Klassen](../../../de/images/tags/content-tags/04-edit-tag-options-tab.png)
 
 ### Die Registerkarte „Veröffentlichung“
 
@@ -111,12 +111,12 @@ Sie können die Liste auf verschiedene Arten bearbeiten:
 
 Sobald Tags auf Ihrer Website erstellt wurden, können sie in Inhalten und in Modulen wie **Beliebte Tags** und **Ähnliche Tags** verwendet werden. Die folgenden Beispiele zeigen, wie dies auf einer Website mit dem standardmäßigen **Cassiopeia**-Template aussehen kann.
 
-![Tags, die in einem Beitrag sowie in den Modulen „Beliebte Tags“ und „Ähnliche Tags“ angezeigt werden](../../../en/images/tags/content-tags/05-tag-modules-site-view.png)
+![Tags, die in einem Beitrag sowie in den Modulen „Beliebte Tags“ und „Ähnliche Tags“ angezeigt werden](../../../de/images/tags/content-tags/05-tag-modules-site-view.png)
 
 Wenn Sie einen der Tags auswählen, werden Sie zu einer Seite weitergeleitet, auf der
 alle Beiträge aufgelistet werden, die diesem bestimmten Tag zugewiesen sind:
 
-![Beispiel für die Verwendung von Tags auf einer Website mit einem schwarzen Labrador](../../../en/images/tags/content-tags/06-items-with-cultural-site-tag.png)
+![Beispiel für die Verwendung von Tags auf einer Website mit einem schwarzen Labrador](../../../de/images/tags/content-tags/06-items-with-cultural-site-tag.png)
 
 Die Liste der Beiträge ist eine gefilterte Liste der Website-Inhalte mit dem ausgewählten Tag.
 Ein Filterfeld erleichtert das Auffinden von Beiträgen, wenn die Liste wächst.

@@ -22,7 +22,7 @@ Joomla hat einen integrierten Barrierefreiheitsprüfer. Er ist in der Toolbar de
 
 ## Screenshot
 
-![Barrierefreiheitsprüfung](../../../en/images/articles/article-accessibility-check/01-articles-accessibility-check.png)
+![Barrierefreiheitsprüfung](../../../de/images/articles/article-accessibility-check/01-articles-accessibility-check.png)
 
 Das Prüfwerkzeug wird mit dem blauen Kreissymbol unten rechts auf dem Bildschirm
 bedient. Wählen Sie es aus, um einen Bericht zu öffnen oder zu schließen. Wählen Sie den

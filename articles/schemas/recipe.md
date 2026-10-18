@@ -37,7 +37,7 @@ Der Abschnitt *Allgemeines Feld* ermöglicht das Eingeben von *Titel* und *Wert*
 
 Nachfolgend ist ein Beispiel für ein Rezeptschema in einem Beitragsbearbeitungsformular.
 
-![A recipe schema edit form](../../../en/images/schemas/recipe/01-edit-schema-recipe.png)
+![A recipe schema edit form](../../../de/images/schemas/recipe/01-edit-schema-recipe.png)
 
 *Übersetzt von openai.com*
 

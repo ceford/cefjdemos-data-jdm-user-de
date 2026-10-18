@@ -24,7 +24,7 @@ Der Abschnitt *Allgemeines Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ein Beispiel für ein Organisationsschema in einem Beitragsbearbeitungsformular.
 
-![An organisation schema edit form](../../../en/images/schemas/organisation/01-edit-schema-organisation.png)
+![An organisation schema edit form](../../../de/images/schemas/organisation/01-edit-schema-organisation.png)
 
 *Übersetzt von openai.com*
 

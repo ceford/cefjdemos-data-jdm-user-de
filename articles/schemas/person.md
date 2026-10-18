@@ -29,7 +29,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ist ein Beispiel für ein Personenschema in einem Beitragsbearbeitungsformular.
 
-![A person schema edit form](../../../en/images/schemas/person/01-edit-schema-person.png)
+![A person schema edit form](../../../de/images/schemas/person/01-edit-schema-person.png)
 
 *Übersetzt von openai.com*
 

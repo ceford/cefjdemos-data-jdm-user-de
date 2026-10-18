@@ -59,7 +59,7 @@ Dieses System-Plugin steuert, was angezeigt wird, wenn das Debuggen in der **Glo
 
 Im **Sprache**-Tab:
 
-![plugin system debug](../../../en/images/languages/debugging-a-translation/01-languages-debug-plugin.png)
+![plugin system debug](../../../de/images/languages/debugging-a-translation/01-languages-debug-plugin.png)
 
 * **Fehler beim Parsen von Sprachdateien** Zeigt einen Fehler an, wenn eine Sprachdatei
 nicht geladen werden kann.

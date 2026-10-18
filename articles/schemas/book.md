@@ -32,7 +32,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Unten ist ein Beispiel für ein Buch-Schema in einem Beiträge-Bearbeitungsformular.
 
-![A book schema edit form](../../../en/images/schemas/book/01-edit-schema-book.png)
+![A book schema edit form](../../../de/images/schemas/book/01-edit-schema-book.png)
 
 *Übersetzt von openai.com*
 

@@ -13,7 +13,7 @@ E-Mail-Vorlagen werden verwendet, um System-E-Mail-Nachrichten in **nur-Text** o
 
 Der folgende Screenshot zeigt eine Auswahl der 26 standardmäßigen Mail-Templates. Die Liste ist verfügbar, indem Sie **System -> Mail Templates** aus dem Administratormenü auswählen.
 
-![mail templates list](../../../en/images/templates/mail-templates/01-mail-templates-list.png)
+![mail templates list](../../../de/images/templates/mail-templates/01-mail-templates-list.png)
 
 Die E-Mail-Nachrichten können angepasst werden, um Layout, Erscheinungsbild und Wortlaut an die Bedürfnisse Ihrer Website anzupassen. Zum Beispiel möchten Sie vielleicht ein Website-Logo und ein Farbschema in den E-Mails verwenden, die an Kunden gesendet werden. Die Anpassung von E-Mails, die an Administratoren gesendet werden, ist weniger wichtig.
 
@@ -23,7 +23,7 @@ Es gibt zwei Anpassungsmethoden: über die *Mail Template: Optionen* für alle M
 
 Wählen Sie die Schaltfläche **Optionen** in der Toolbar der *Mail-Vorlagen* Liste, um Zugriff auf die allgemeinen Einstellungen der Mail-Vorlagen zu erhalten. Wählen Sie die Schaltfläche *Inline-Hilfe umschalten*, um zu sehen, ob irgendeines der Formularfelder zusätzliche Hilfe bietet.
 
-![mail templates options](../../../en/images/templates/mail-templates/02-mail-templates-options.png)
+![mail templates options](../../../de/images/templates/mail-templates/02-mail-templates-options.png)
 
 ### E-Mail-Format
 
@@ -39,7 +39,7 @@ In der Liste der E-Mail-Vorlagen können Sie eine beliebige Vorlage zur Bearbeit
 
 ### Der Reiter Mail
 
-![edit mail template form](../../../en/images/templates/mail-templates/03-mail-template-edit.png)
+![edit mail template form](../../../de/images/templates/mail-templates/03-mail-template-edit.png)
 
 Der Inhalt der Bereiche Betreff und Text wird zunächst in Sprach-Strings gespeichert. Dies erleichtert das Zurücksetzen auf den Standardbetreff oder Text. Sobald jedoch eine spezifische E-Mail-Vorlage bearbeitet wurde, werden ihre Betreff- und Textfelder in der Tabelle `#__mail_templates` gespeichert.
 
@@ -51,7 +51,7 @@ Die verfügbaren Platzhaltertags variieren von E-Mail zu E-Mail. Sie könnten Ih
 
 Dieser Tab ist nur vorhanden, wenn die *Pro Vorlage Mail-Einstellungen* auf *Ja* in den *Mail-Vorlagen: Optionen* gesetzt ist. Die Abbildung unten zeigt einen Screenshot mit den *Mail-Einstellungen* auf *Nein*. Wenn auf *Ja* gesetzt, erscheinen mehr Formularfelder, die die in der globalen Konfiguration, Server-Tab festgelegten Mail-Optionen überschreiben.
 
-![edit mail template form](../../../en/images/templates/mail-templates/04-mail-template-edit-options.png)
+![edit mail template form](../../../de/images/templates/mail-templates/04-mail-template-edit-options.png)
 
 Wenn Sie eine Blindkopie einer ausgehenden E-Mail an eine bestimmte E-Mail-Adresse senden möchten, können Sie diese im Feld *Kopie an E-Mail senden* eingeben.
 

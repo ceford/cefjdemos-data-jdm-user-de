@@ -13,7 +13,7 @@ Ein Menుమodul kann verwendet werden, um ein horizontales Menü (normalerweis
 
 In einem vertikalen (Seitenleisten-)Menü ist es jedoch oft wünschenswert, ein Untermenü geöffnet zu lassen, wenn es den aktiven Menüeintrag enthält. In Joomla 6.0 wurde speziell zur Steuerung der automatischen Öffnung von Untermenüs beim Laden der Seite für den aktiven Menüeintrag eine neue CSS-Klasse, `nav-active-open`, eingeführt. Durch das Setzen dieser Klasse ist dies nun möglich. Die Klasse wird im Modul über das Backend gesetzt.
 
-![Einstellung der Menüklasse im Backend für nav-active-open zum Offenhalten beim aktiven Menüeintrag](../../../en/images/menus/keep-submenus-open/01-menu-class-setting.png)
+![Einstellung der Menüklasse im Backend für nav-active-open zum Offenhalten beim aktiven Menüeintrag](../../../de/images/menus/keep-submenus-open/01-menu-class-setting.png)
 
 ## So erstellen Sie ein Seitenleistenmenü ohne Dropdown-Umschaltung
 
@@ -25,7 +25,7 @@ So wird dieses spezielle Template-Override erstellt:
 
 2. Wechseln Sie zum Tab Overrides erstellen und wählen Sie mod_menu:
 
-![Auswahl des Template-Overrides für das Menümodul](../../../en/images/menus/keep-submenus-open/02-create-override-select-mod-menu.png)
+![Auswahl des Template-Overrides für das Menümodul](../../../de/images/menus/keep-submenus-open/02-create-override-select-mod-menu.png)
 
 Dadurch werden alle Layoutdateien des Menümoduls in das Override kopiert. Anschließend wird wieder der Tab Editor angezeigt.
 
@@ -33,7 +33,7 @@ Dadurch werden alle Layoutdateien des Menümoduls in das Override kopiert. Ansch
 
 4. Erstellen Sie eine neue Datei im Ordner html → mod_menu. Ihr Name darf keinen Unterstrich enthalten. In diesem Beispiel heißt die neue Datei `treedefault.php`. Dadurch können Sie in jedem Ihrer Menümodule entweder das Standardmenü-Layout oder dieses alternative Menü-Layout auswählen. In der folgenden Liste der Override-Dateien ist das Original rot und die neue Alternative grün umrandet.
 
-![Bearbeitungstab des mod_menu-Overrides – default.php geöffnet](../../../en/images/menus/keep-submenus-open/03-edit-mod-menu.png)
+![Bearbeitungstab des mod_menu-Overrides – default.php geöffnet](../../../de/images/menus/keep-submenus-open/03-edit-mod-menu.png)
 
 4. Bearbeiten Sie die neue Layoutdatei. Die folgenden Schritte sind in umgekehrter Reihenfolge aufgeführt, um während des Bearbeitungsvorgangs die Zeilennummern
 beizubehalten:
@@ -187,6 +187,6 @@ $startLevel = (int) $params->get('startLevel', 1);
 
 Das Ergebnis ist eine einfache Liste ohne Umschaltfunktion für das Seitenleistenmenümodul, hier links dargestellt:
 
-![Ergebnis mit Template-Override – einfache Liste ohne Umschaltflächen und -funktionalität](../../../en/images/menus/keep-submenus-open/05-site-result.png)
+![Ergebnis mit Template-Override – einfache Liste ohne Umschaltflächen und -funktionalität](../../../de/images/menus/keep-submenus-open/05-site-result.png)
 
 *Übersetzt von openai.com*

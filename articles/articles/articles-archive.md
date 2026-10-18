@@ -54,7 +54,7 @@ Es gibt ein Modul [Beiträge – Archiviert](jdocmanual?article=user/modules/art
 
 Der folgende Screenshot zeigt eine *Archivierte Beiträge*-Seite, die mit einem Menüpunkt erreicht wurde. Es gibt Filter für *Monat* und *Jahr* sowie eine Listenbegrenzung mit Einstellungen von 5 bis 100 und Alle. Seien Sie immer vorsichtig bei der Verwendung von *Alle*. Wenn Sie Tausende von Ergebnissen zurückgeben, kann Ihre Seite langsam laden und nicht mehr reagieren. Es kann zu einer Zeit- oder Speicherschwäche kommen, was zu einem Serverfehler führen kann.
 
-![Seitenansicht der archivierten Beiträge](../../../en/images/articles/articles-archive/01-articles-archived-site.png)
+![Seitenansicht der archivierten Beiträge](../../../de/images/articles/articles-archive/01-articles-archived-site.png)
 
 Am unteren Ende der rechten Spalte befindet sich das Modul *Archivierte Beiträge*.
 

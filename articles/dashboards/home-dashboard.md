@@ -24,7 +24,7 @@ Die meisten der Elemente sind selbsterklärende Links, die diejenigen im Adminis
 
 ## Bildschirmfoto
 
-![Start-Dashboard](../../../en/images/dashboards/home-dashboard/01-home-dashboard.png)
+![Start-Dashboard](../../../de/images/dashboards/home-dashboard/01-home-dashboard.png)
 
 *Übersetzt von openai.com*  
 

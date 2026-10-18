@@ -13,7 +13,7 @@ Um das Komponenten-Dashboard zu öffnen, wählen Sie das Dashboard-Symbol rechts
 
 ## Screenshot
 
-![Komponenten-Dashboard](../../../en/images/dashboards/components-dashboard/01-components-dashboard.png)
+![Komponenten-Dashboard](../../../de/images/dashboards/components-dashboard/01-components-dashboard.png)
 
 *Übersetzt von openai.com*
 

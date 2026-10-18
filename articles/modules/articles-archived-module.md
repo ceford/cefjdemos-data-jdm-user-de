@@ -72,7 +72,7 @@ Wenn Sie bereit sind, wählen Sie die Schaltfläche **Speichern & Schließen**.
 
 Das Modul wird in der Seitenleiste der Webseite veröffentlicht und zeigt eine Liste von Links an, die durch die Anzahl der im Modul festgelegten anzuzeigenden Monate bestimmt wird.
 
-![Beispiel für ein Modul mit archivierten Beiträgen](../../../en/images/modules/articles-archived-module/01-modules-archived-articles.png)
+![Beispiel für ein Modul mit archivierten Beiträgen](../../../de/images/modules/articles-archived-module/01-modules-archived-articles.png)
 
 ## Tipps
 

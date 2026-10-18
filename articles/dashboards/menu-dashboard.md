@@ -15,7 +15,7 @@ Sie können so viele Seiten- und Administrator-Menüs haben, wie Sie möchten, u
 
 ## Screenshot
 
-![Menü-Dashboard](../../../en/images/dashboards/menu-dashboard/01-menus-dashboard.png)
+![Menü-Dashboard](../../../de/images/dashboards/menu-dashboard/01-menus-dashboard.png)
 
 *Übersetzt von openai.com*
 

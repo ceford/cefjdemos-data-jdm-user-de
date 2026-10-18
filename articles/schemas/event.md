@@ -28,7 +28,7 @@ Die *Generisches Feld*-Sektion ermöglicht das Eingeben von *Titel*- und *Wert*-
 
 Unten ist ein Beispiel für ein Veranstaltungsschema in einem Bearbeitungsformular für Beiträge.
 
-![An event schema edit form](../../../en/images/schemas/event/01-edit-schema-event.png)
+![An event schema edit form](../../../de/images/schemas/event/01-edit-schema-event.png)
 
 *Übersetzt von openai.com*
 

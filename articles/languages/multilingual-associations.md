@@ -23,7 +23,7 @@ Die folgenden Elemente können in Assoziationen einbezogen werden:
 
 Der folgende Screenshot zeigt eine Beispielauflistung von Beiträgen in Englisch mit ihren Entsprechungen in anderen Sprachen.
 
-![Liste der mehrsprachigen Assoziationen](../../../en/images/languages/multilingual-associations/01-multilingual-associations-list.png)
+![Liste der mehrsprachigen Assoziationen](../../../de/images/languages/multilingual-associations/01-multilingual-associations-list.png)
 
 Der letzte Beitrag über Berge hat noch keine entsprechenden Beiträge in anderen Sprachen. Die fehlenden Beiträge können von der Originalversion auf Englisch von dieser Seite übersetzt werden.
 
@@ -40,7 +40,7 @@ Wenn Sie eine mehrsprachige Website erstellt haben, haben Sie eine Sprachkategor
 - Wählen Sie **Schließen**.
 - Wiederholen Sie dies für die anderen Sprachen.
 
-![mehrsprachige Zuordnungen bearbeiten](../../../en/images/languages/multilingual-associations/02-multilingual-associations-edit.png)
+![mehrsprachige Zuordnungen bearbeiten](../../../de/images/languages/multilingual-associations/02-multilingual-associations-edit.png)
 
 ## Erstellung einer Menüübersetzung
 
@@ -65,7 +65,7 @@ Fortsetzung mit dem Berg-Beispiel:
 
 Öffnen oder aktualisieren Sie die Seitenansicht, um zu überprüfen, dass Ihre Menüs und Beiträge wie erwartet angezeigt werden.
 
-![mehrsprachige Zuordnungen Seitenansicht](../../../en/images/languages/multilingual-associations/03-multilingual-associations-site.png)
+![mehrsprachige Zuordnungen Seitenansicht](../../../de/images/languages/multilingual-associations/03-multilingual-associations-site.png)
 
 *Übersetzt von openai.com*
 

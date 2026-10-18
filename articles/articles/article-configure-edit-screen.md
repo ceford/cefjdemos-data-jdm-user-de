@@ -13,7 +13,7 @@ Die Bearbeitungsoberflächen für Beiträge haben im Backend und Frontend unters
 
 ## Screenshot
 
-![Der konfigurierbare Bearbeitungsbildschirm-Tab](../../../en/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
+![Der konfigurierbare Bearbeitungsbildschirm-Tab](../../../de/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
 
 ## Konfiguration des Bearbeitungsbildschirm-Panels
 

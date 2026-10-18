@@ -107,7 +107,7 @@ Hier haben die Bootstrap-Klassen die folgenden Effekte:
 
 Der folgende Screenshot der Website zeigt eine Tabelle für ein Konferenzprogramm mit den Standard-Inline-Stilen von TinyMCE und eine ähnliche Tabelle mit Bootstrap-Stilen:
 
-![Beispieltabelle](../../../en/images/articles/article-tables/01-articles-site-tables.png)
+![Beispieltabelle](../../../de/images/articles/article-tables/01-articles-site-tables.png)
 
 Weitere Optionen finden Sie in der Bootstrap-Dokumentation zu [Tabellen](https://getbootstrap.com/docs/5.3/content/tables/).
 

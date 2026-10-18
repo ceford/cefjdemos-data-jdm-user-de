@@ -39,13 +39,13 @@ Der RSS-Feed kann auf einer Startseite mit hervorgehobenen Beiträgen nicht ausg
 
 Es gibt ein Kernmodul, das Sie auf Hervorgehobene oder Kategorie-Blog-Seiten platzieren können, um einen Syndikationslink bereitzustellen. Füllen Sie die Felder im Modul-Tab aus. Die meisten haben geeignete Standardwerte. Wenn das Feld für die Bezeichnung leer gelassen wird, lautet die Standardbezeichnung auf Englisch *Feed Entries*. Wählen Sie im Tab *Menüzuweisung* die Option **Auf allen Seiten**. Das Modul wird nur auf Hervorgehobenen und Kategorie-Blog-Seiten angezeigt.
 
-![Syndikations-Feeds Daten-Eingabe](../../../en/images/news-feeds/news-feeds/02-news-syndication-feeds-form.png)
+![Syndikations-Feeds Daten-Eingabe](../../../de/images/news-feeds/news-feeds/02-news-syndication-feeds-form.png)
 
 Denken Sie daran, das Modul einer *Position* zuzuweisen und es auf *Veröffentlicht* zu setzen.
 
 In der Site-Seitenansicht zeigt das Modul einen Link an. Er ist nicht zum Anklicken vorgesehen, es sei denn, Sie haben einen lokalen Newsreader konfiguriert. Der Link muss kopiert werden, um ihn in einem Newsreader auf einer anderen Seite oder einer Newsreader-Anwendung zu verwenden.
 
-![Syndikations-Feeds Anzeige](../../../en/images/news-feeds/news-feeds/03-news-syndication-feeds-display.png)
+![Syndikations-Feeds Anzeige](../../../de/images/news-feeds/news-feeds/03-news-syndication-feeds-display.png)
 
 Beachten Sie, dass der Link für die Beiträge auf dieser Seite ist. Wenn Ihre Seite mehrere Kategorie-Blog-Seiten hat, werden Sie mehrere unterschiedliche RSS-Feeds haben.
 *Übersetzt von openai.com*

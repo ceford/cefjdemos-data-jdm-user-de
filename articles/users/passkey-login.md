@@ -69,7 +69,7 @@ aktiviert ist. Eine Schaltfläche **Mit Passkey anmelden** wird in den
 standardmäßigen Anmeldebildschirmen von Joomla 4 und höher angezeigt, wie
 im Anmeldebildschirm des Administrators dargestellt:
 
-![Sicheres Administrator-Anmeldeformular](../../../en/images/users/passkey-login/02-login-form.png)
+![Sicheres Administrator-Anmeldeformular](../../../de/images/users/passkey-login/02-login-form.png)
 
 ## Benutzerkonfiguration
 
@@ -99,7 +99,7 @@ Kombination daraus, je nach Ihrem Authentifikator – verschwindet die
 Nachricht, der Authentifikator wird registriert und der Bildschirm sieht wie
 folgt aus:
 
-![Sichere Administrator-Anmeldung mit registriertem Authentifikator](../../../en/images/users/passkey-login/04-registered-authenticator.png)
+![Sichere Administrator-Anmeldung mit registriertem Authentifikator](../../../de/images/users/passkey-login/04-registered-authenticator.png)
 
 Es ist sehr wichtig zu beachten, dass Sie Authentifikatoren nur für Ihr
 eigenes Benutzerkonto registrieren oder entfernen können. Aus

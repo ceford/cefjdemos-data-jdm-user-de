@@ -16,7 +16,7 @@ Von Zeit zu Zeit kann es vorkommen, dass Joomla statt der erwarteten Seite eine 
 
 ### Systemfehlerseite
 
-![System schwerwiegende Fehlerseite](../../../en/images/problems/fatal-error/01-fatal-error.png)
+![System schwerwiegende Fehlerseite](../../../de/images/problems/fatal-error/01-fatal-error.png)
 
 ### Template-Fehlerseite
 

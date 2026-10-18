@@ -14,7 +14,7 @@ Ein Menü wird über ein Menümodul auf einer Seite platziert. Um alle Ihre Men�
 - Wählen Sie **Inhalt → Seitenmodule** aus dem Administrator-Menü.
 - Filtern Sie mit **- Typ auswählen -** auf *Menü*, wie in der folgenden Abbildung:
 
-![Module-Liste nach Typ Menü gefiltert](../../../en/images/menus/menu-positions/01-menus-menu-positions.png)
+![Module-Liste nach Typ Menü gefiltert](../../../de/images/menus/menu-positions/01-menus-menu-positions.png)
 
 Zur Orientierung hat das Cassiopeia-Template die folgenden Positionen:
 
@@ -31,7 +31,7 @@ Aus der Modulliste (Site):
 
 Die folgende Abbildung zeigt ein Menümodul mit einem Teil der Liste der Positionen. Es ist ziemlich lang, da es verfügbare Positionen im Cassiopeia-Template enthält, gefolgt von aktiven Positionen, die in Gebrauch sind.
 
-![Menümodul-Editierformular](../../../en/images/menus/menu-positions/03-menus-menu-edit-position.png)
+![Menümodul-Editierformular](../../../de/images/menus/menu-positions/03-menus-menu-edit-position.png)
 
 ## Menü-Layout
 

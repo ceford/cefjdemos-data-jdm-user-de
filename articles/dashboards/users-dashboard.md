@@ -13,7 +13,7 @@ Das Benutzer-Dashboard wird über das Symbol rechts neben dem Menüpunkt Inhalt 
 
 ## Bildschirmfoto
 
-![Benutzer-Dashboard](../../../en/images/dashboards/users-dashboard/01-users-dashboard.png)
+![Benutzer-Dashboard](../../../de/images/dashboards/users-dashboard/01-users-dashboard.png)
 
 *Übersetzt von openai.com*
 

@@ -48,15 +48,15 @@ Und die folgende Liste zeigt die verfügbaren Modulpositionen nach Namen:
 
 Kernmodule sind diejenigen, die mit einer neuen Joomla-Installation geliefert werden. Es gibt Tausende zusätzlicher Module von Drittanbietern. Angenommen, Sie möchten ein zufälliges Bild anzeigen, um Ihre Website für Besucher interessanter zu machen. Wählen Sie im Administrator-Menü **Inhalt → Seiten-Module**, um die Liste der bereits verwendeten Seiten-Module zu sehen:
 
-![Liste der Seiten-Module](../../../en/images/modules/site-modules/02-cassiopeia-modules-list.png)
+![Liste der Seiten-Module](../../../de/images/modules/site-modules/02-cassiopeia-modules-list.png)
 
 Wählen Sie die Schaltfläche "Neu", um eine Liste der verfügbaren Seiten-Module zur Installation anzuzeigen:
 
-![Verfügbare Seiten-Module](../../../en/images/modules/site-modules/03-cassiopeia-modules-available.png)
+![Verfügbare Seiten-Module](../../../de/images/modules/site-modules/03-cassiopeia-modules-available.png)
 
 Scrollen Sie nach unten und wählen Sie das Modul "Zufälliges Bild". Dadurch wird das Formular **Module: Zufälliges Bild** zur Bearbeitung geöffnet, das Sie ausfüllen können.
 
-![Modul Zufälliges Bild](../../../en/images/modules/site-modules/04-cassiopeia-module-random-image.png)
+![Modul Zufälliges Bild](../../../de/images/modules/site-modules/04-cassiopeia-module-random-image.png)
 
 - **Titel** Dies ist ein Pflichtfeld.
 - **Bildtyp** Standard ist jpg.
@@ -76,7 +76,7 @@ Nach dem Speichern müssen Sie möglicherweise die Reihenfolge der Module in der
 
 ## Website ansehen
 
-![Ansicht des Zufallsbild-Moduls auf der Website](../../../en/images/modules/site-modules/05-cassiopeia-module-random-image-site.png)
+![Ansicht des Zufallsbild-Moduls auf der Website](../../../de/images/modules/site-modules/05-cassiopeia-module-random-image-site.png)
 
 Überprüfen Sie das Erscheinungsbild der Website. In diesem Fall könnte es eine gute Idee sein, das Bild zu zentrieren. Das kann wie folgt gemacht werden:
 

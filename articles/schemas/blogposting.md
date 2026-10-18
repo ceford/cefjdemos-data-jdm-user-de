@@ -37,7 +37,7 @@ Der Abschnitt *Generisches Feld* ermöglicht das Eingeben von *Titel*- und *Wert
 
 Nachfolgend ein Beispiel eines BlogPosting-Schemas in einem Beitragsbearbeitungsformular.
 
-![A blogposting schema edit form](../../../en/images/schemas/blogposting/01-edit-schema-blogposting.png)
+![A blogposting schema edit form](../../../de/images/schemas/blogposting/01-edit-schema-blogposting.png)
 
 *Übersetzt von openai.com*
 

@@ -15,7 +15,7 @@ Der folgende Screenshot zeigt die Beiträge, die zur Vorbereitung dieses Satzes 
 
 Die *Filteroptionen* wurden geöffnet, um die verfügbaren Filter anzuzeigen.
 
-![Beitragsliste](../../../en/images/articles/articles-filter-options/01-articles-filter-options.png)
+![Beitragsliste](../../../de/images/articles/articles-filter-options/01-articles-filter-options.png)
 
 Diese Liste enthält über 20 Beiträge, die aus der Installation der *Mehrsprachigen Beispielinhalte* erstellt wurden, sowie einige weitere Beiträge, die später hinzugefügt wurden.
 

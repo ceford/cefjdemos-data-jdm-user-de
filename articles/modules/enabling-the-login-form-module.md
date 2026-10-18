@@ -48,7 +48,7 @@ Sie können das Login-Formularmodul auf einer oder mehreren Seiten anzeigen lass
   - **Auf allen Seiten außer den ausgewählten:** Das Login-Formular wird auf allen nicht ausgewählten Seiten angezeigt.
 - **Menüauswahl**: Zeigt eine Liste aller Menüs und Menüeinträge, von denen ein oder mehrere ausgewählt werden können. Dieses Feld wird nur verwendet, wenn das Feld **Menüs** auf **Menüeintrag/Einträge aus der Liste auswählen** eingestellt ist.
 
-  ![Modulmenüzuweisung](../../../en/images/modules/enabling-the-login-form-module/01-modules-login-menu-assignment.png)
+  ![Modulmenüzuweisung](../../../de/images/modules/enabling-the-login-form-module/01-modules-login-menu-assignment.png)
 
 ## Anpassen des Anmeldeformular-Moduls
 

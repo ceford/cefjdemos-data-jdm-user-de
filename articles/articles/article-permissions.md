@@ -15,7 +15,7 @@ Die hier dargestellte Beschreibung bezieht sich auf den *Berechtigungen*-Reiter 
 
 ## Screenshot
 
-![Der Beiträge-Berechtigungsreiter mit ausgewähltem Autor](../../../en/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
+![Der Beiträge-Berechtigungsreiter mit ausgewähltem Autor](../../../de/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
 
 Es mag überraschend sein, dass ein Autor scheinbar keine Berechtigung hat, einen Beitrag zu bearbeiten!
 

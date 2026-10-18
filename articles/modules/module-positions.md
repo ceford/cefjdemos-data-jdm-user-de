@@ -27,11 +27,11 @@ Um Modulpositionen anzuzeigen, müssen Sie entweder ?tp=1 oder &tp=1 zur URL hin
 
 ### Atum Administrator-Template Positionen
 
-![templates atum template positions](../../../en/images/modules/module-positions/01-template-positions-templates-page.png)
+![templates atum template positions](../../../de/images/modules/module-positions/01-template-positions-templates-page.png)
 
 ### Cassiopeia Site-Template Positionen
 
-![templates cassiopeia template positions](../../../en/images/modules/module-positions/02-template-positions-site-page.png)
+![templates cassiopeia template positions](../../../de/images/modules/module-positions/02-template-positions-site-page.png)
 
 Dieses Modulpositionsdiagramm könnte ebenfalls hilfreich sein:
 

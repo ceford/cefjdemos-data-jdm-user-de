@@ -24,7 +24,7 @@ Einzelne Beiträge werden in anderen Tutorials behandelt.
 
 ## Screenshot
 
-![System-Dashboard](../../../en/images/dashboards/system-dashboard/01-system-dashboard.png)
+![System-Dashboard](../../../de/images/dashboards/system-dashboard/01-system-dashboard.png)
 
 *Übersetzt von openai.com*  
 

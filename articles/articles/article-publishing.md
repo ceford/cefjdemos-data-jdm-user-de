@@ -17,7 +17,7 @@ Meistens werden Beiträge am Tag ihrer Erstellung veröffentlicht und bleiben di
 
 ## Screenshot
 
-![The article edit form publishing tab](../../../en/images/articles/article-publishing/01-articles-edit-publishing-tab.png)
+![The article edit form publishing tab](../../../de/images/articles/article-publishing/01-articles-edit-publishing-tab.png)
 
 Das *Metadaten*-Panel wird in einem separaten Beitrag erklärt. Dieser Beitrag behandelt das *Veröffentlichungs*-Panel.
 
@@ -65,7 +65,7 @@ Vor dem Veröffentlichungsbeginn-Datum werden Beiträge als **Ausstehend** betra
 
 Die Datums- und Zeitwerte können in die Datumsfelder eingegeben oder mit dem Kalender-Tool ausgewählt werden, das durch Auswahl des Kalender-Symbols am Ende jedes Datumsfeldes geöffnet wird.
 
-![Veröffentlichungsdaten](../../../en/images/articles/article-publishing/02-article-schedule-publishing.png)
+![Veröffentlichungsdaten](../../../de/images/articles/article-publishing/02-article-schedule-publishing.png)
 
 Der Kalender bewegt sich zwischen Tagen, Monaten und Jahren mit den Vorwärts-, Rückwärts-, Hoch- und Runter-Pfeiltasten auf der Tastatur. Der **Heute**-Button setzt das aktuelle Datum. Der **Löschen**-Button löscht Datum und Uhrzeit.
 

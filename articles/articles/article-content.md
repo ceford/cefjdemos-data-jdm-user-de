@@ -13,7 +13,7 @@
 
 Der folgende Screenshot zeigt das Bearbeitungsformular mit einem Beitrag, der bereits gespeichert wurde.
 
-![Das Inhaltsbearbeitungsformular](../../../en/images/articles/article-content/01-articles-edit-content.png)
+![Das Inhaltsbearbeitungsformular](../../../de/images/articles/article-content/01-articles-edit-content.png)
 
 ## Dateneingabe
 

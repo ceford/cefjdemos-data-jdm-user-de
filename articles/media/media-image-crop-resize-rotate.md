@@ -19,7 +19,7 @@ Dies sind die Probleme, die die Mediakomponente bearbeiten kann.
 
 Als Beispiel zeigt das folgende Bild eine Gruppe von Tieren, die etwas zu groß für den beabsichtigten Zweck ist. Es könnte zugeschnitten oder in der Größe verändert werden.
 
-![Bild von Tieren](../../../en/images/media/media-image-crop-resize-rotate/01-media-crop-serengeti.png)
+![Bild von Tieren](../../../de/images/media/media-image-crop-resize-rotate/01-media-crop-serengeti.png)
 
 ## Zuschneiden
 

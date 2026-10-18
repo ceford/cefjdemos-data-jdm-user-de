@@ -35,7 +35,7 @@ Nach dem Einloggen in die Administratoroberfläche:
 - Wenn Sie die Nachricht *Die angeforderte Seite kann nicht gefunden werden* erhalten, loggen Sie sich ins Frontend ein und versuchen Sie es erneut.
 - Um das Vorschaufenster zu schließen, wählen Sie die *X*-Schaltfläche in der oberen rechten Ecke.
 
-![Das Vorschaufenster](../../../en/images/articles/article-preview/01-article-edit-preview.png)
+![Das Vorschaufenster](../../../de/images/articles/article-preview/01-article-edit-preview.png)
 
 *Übersetzt von openai.com*
 

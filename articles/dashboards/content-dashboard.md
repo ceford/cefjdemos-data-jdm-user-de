@@ -13,7 +13,7 @@ Das Inhalts-Dashboard wird über das Symbol rechts neben dem Menüpunkt "Inhalte
 
 ## Screenshot
 
-![Inhalts-Dashboard](../../../en/images/dashboards/content-dashboard/01-content-dashboard.png)
+![Inhalts-Dashboard](../../../de/images/dashboards/content-dashboard/01-content-dashboard.png)
 
 *Übersetzt von openai.com*
 

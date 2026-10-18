@@ -15,7 +15,7 @@ Der Notizformularfeldtyp ermöglicht das Erstellen von Titeln, Texten, Beschreib
 
 ### Allgemeiner Tab
 
-![Erstellung eines Hinweisfelds](../../../en/images/fields/adding-custom-fields-note-field/01-fields-note-edit.png)
+![Erstellung eines Hinweisfelds](../../../de/images/fields/adding-custom-fields-note-field/01-fields-note-edit.png)
 
 - **Typ** Zahl, die nach der Auswahl nicht geändert werden kann.
 - **Name** Der eindeutige Name des Feldes.
@@ -39,7 +39,7 @@ Der Notizformularfeldtyp ermöglicht das Erstellen von Titeln, Texten, Beschreib
 
 Im Dateneingabeformular erscheint das Notizfeld neben anderen Feldern als Text, der entsprechend den im Feld festgelegten Stilauswahlen formatiert ist. Es kann Anweisungen oder Informationen enthalten.
 
-![Dateneingabe des Zahlenfelds](../../../en/images/fields/adding-custom-fields-note-field/02-fields-note-data-entry.png)
+![Dateneingabe des Zahlenfelds](../../../de/images/fields/adding-custom-fields-note-field/02-fields-note-data-entry.png)
 
 **Tipp:** Verwenden Sie den Mechanismus zum Sortieren von Feldern, um die Reihenfolge der Notizen zwischen anderen Feldern festzulegen. Sie können mehrere verschiedene Notizfelder verwenden, um Ihren Feldern Struktur und Informationen zu geben.
 
@@ -47,6 +47,6 @@ Im Dateneingabeformular erscheint das Notizfeld neben anderen Feldern als Text, 
 
 Wenn *Im Frontend anzeigen* auf *Ja* gesetzt ist, erscheint das Notizfeld neben anderen Feldern im Frontend. Dort kann es allgemeine Informationen enthalten, die für eine Gruppe von Beiträgen gelten.
 
-![Note field site display](../../../en/images/fields/adding-custom-fields-note-field/03-fields-note-site.png)
+![Note field site display](../../../de/images/fields/adding-custom-fields-note-field/03-fields-note-site.png)
 
 *Übersetzt von openai.com*

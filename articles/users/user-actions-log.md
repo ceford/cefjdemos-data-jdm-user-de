@@ -19,7 +19,7 @@ Um die Liste der Benutzertätigkeiten-Protokolle anzusehen:
 
 - Wähle **Benutzer → Benutzertätigkeiten-Protokoll** im Administrator-Menü.
 
-![Benutzertätigkeiten-Logliste-Seite](../../../en/images/users/user-actions-log/01-user-actions-log-list.png)
+![Benutzertätigkeiten-Logliste-Seite](../../../de/images/users/user-actions-log/01-user-actions-log-list.png)
 
 Von dieser Seite aus hat ein Super-User einen globalen Überblick über alle Benutzeraktivitäten, die auf der Website durchgeführt wurden.
 
@@ -33,7 +33,7 @@ Von dieser Seite aus hat ein Super-User einen globalen Überblick über alle Ben
 
 Das Formular "Benutzeraktionsprotokoll: Optionen" ermöglicht dem Superuser, auszuwählen, welche Ereignisse protokolliert werden sollen und ob IP-Adressen in die Protokolldaten aufgenommen werden sollen.
 
-![Seite mit den Benutzeraktionsprotokoll-Optionen](../../../en/images/users/user-actions-log/02-user-actions-log-options.png)
+![Seite mit den Benutzeraktionsprotokoll-Optionen](../../../de/images/users/user-actions-log/02-user-actions-log-options.png)
 
 ## Plugins
 
@@ -55,7 +55,7 @@ Wenn dieses Plugin aktiviert ist, exportiert es die Aktionsprotokolldaten für e
 
 Dieses Modul wird nur für Superuser im Home-Dashboard angezeigt.
 
-![Benutzeraktionen-Log-Modul](../../../en/images/users/user-actions-log/03-user-actions-log-module.png)
+![Benutzeraktionen-Log-Modul](../../../de/images/users/user-actions-log/03-user-actions-log-module.png)
 
 ## So verbinden Sie eine Erweiterung mit dem System
 

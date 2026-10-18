@@ -15,7 +15,7 @@ Das Zahlenfeld bietet eine Möglichkeit, eine reelle Zahl einzugeben und optiona
 
 ### Registerkarte „Allgemein“
 
-![Erstellung eines Zahlenfelds](../../../en/images/fields/adding-custom-fields-number-field/01-fields-number-edit.png)
+![Erstellung eines Zahlenfelds](../../../de/images/fields/adding-custom-fields-number-field/01-fields-number-edit.png)
 
 - **Typ** Zahl, die nach der Auswahl nicht geändert werden kann.
 - **Name** Der eindeutige Name des Felds.
@@ -64,7 +64,7 @@ Der Inhalt dieser Tabs ist selbsterklärend und wird an anderer Stelle behandelt
 
 Dateneingabe: Geben Sie einfach den gewünschten Wert ein. Dieses Beispiel zeigt den Siedepunkt von Argon:
 
-![Dateneingabe in einem Zahlenfeld](../../../en/images/fields/adding-custom-fields-number-field/02-fields-number-data-entry.png)
+![Dateneingabe in einem Zahlenfeld](../../../de/images/fields/adding-custom-fields-number-field/02-fields-number-data-entry.png)
 
 **Achtung:** Wenn die eingegebene Zahl außerhalb des in den Optionen zur Felderstellung festgelegten Mindest- und Höchstbereichs liegt, weist Sie eine Browser-Hover-Beschriftung darauf hin, aber die bereitgestellten Informationen werden nicht durchgesetzt. Sie können eine Zahl außerhalb des Bereichs eingeben, und sie wird akzeptiert.
 
@@ -72,6 +72,6 @@ Dateneingabe: Geben Sie einfach den gewünschten Wert ein. Dieses Beispiel zeigt
 
 Das folgende Bild zeigt die Anzeige eines Beitrags mit einem negativen Wert:
 
-![Anzeige eines Zahlenfelds auf der Website](../../../en/images/fields/adding-custom-fields-number-field/03-fields-number-site.png)
+![Anzeige eines Zahlenfelds auf der Website](../../../de/images/fields/adding-custom-fields-number-field/03-fields-number-site.png)
 
 *Übersetzt von openai.com*

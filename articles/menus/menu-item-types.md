@@ -11,7 +11,7 @@
 
 Menüpunkt-Typen sind in jeder Komponente definiert, die Site-Ansichten hat. Der Joomla-Kern hat etwa 10 solcher Komponenten, jede mit mehreren Ansichten, was insgesamt über 30 Typen ergibt. Der folgende Screenshot zeigt die Komponenten mit Menüpunkt-Typen. Jede Komponente wird bei Auswahl erweitert, um eine Liste der von dieser Komponente definierten Typen anzuzeigen:
 
-![Menüpunkt-Typ auswählen](../../../en/images/menus/menu-item-types/01-menus-menu-item-type-select.png)
+![Menüpunkt-Typ auswählen](../../../de/images/menus/menu-item-types/01-menus-menu-item-type-select.png)
 
 ### Beiträge
 

@@ -36,7 +36,7 @@ Der Abschnitt *Generic Field* ermöglicht das Eingeben von *Title*- und *Value*-
 
 Im Folgenden finden Sie ein Beispiel für ein Beitrags-Schema in einem Beitrags-Bearbeitungsformular.
 
-![An article schema edit form](../../../en/images/schemas/article/01-edit-schema-article.png)
+![An article schema edit form](../../../de/images/schemas/article/01-edit-schema-article.png)
 
 *Übersetzt von openai.com*
 
