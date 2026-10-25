@@ -48,5 +48,6 @@ In der Site-Seitenansicht zeigt das Modul einen Link an. Er ist nicht zum Anklic
 ![Syndikations-Feeds Anzeige](../../../de/images/news-feeds/news-feeds/03-news-syndication-feeds-display.png)
 
 Beachten Sie, dass der Link für die Beiträge auf dieser Seite ist. Wenn Ihre Seite mehrere Kategorie-Blog-Seiten hat, werden Sie mehrere unterschiedliche RSS-Feeds haben.
+
 *Übersetzt von openai.com*
 

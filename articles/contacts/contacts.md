@@ -33,7 +33,7 @@ Kontakte werden über die Kontaktliste erstellt. Wählen Sie die Schaltfläche `
 
 Im **Kontakte: Bearbeiten**-Formular geben Sie alle verfügbaren Daten zum Kontakt ein.
 
-![Daten-Eingabebildschirm](../../../en/images/contacts/contacts/01-contact-data-entry.png)
+![Daten-Eingabebildschirm](../../../de/images/contacts/contacts/01-contact-data-entry.png)
 
 **Hinweise:**
 
